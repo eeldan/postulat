@@ -49,6 +49,12 @@
         "value": "#",
         "type": "color"
       }
+    },
+    "brand": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
     }
   },
   "static": {
