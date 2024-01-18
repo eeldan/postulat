@@ -20,6 +20,26 @@
         "type": "color"
       }
     },
+    "accent-lower": {
+      "primary": {
+        "value": "#0c19ff",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
     "warning": {
       "primary": {
         "value": "#",
