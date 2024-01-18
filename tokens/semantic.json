@@ -14,12 +14,6 @@
         "type": "color"
       }
     },
-    "neutral": {
-      "primary": {
-        "value": "#",
-        "type": "color"
-      }
-    },
     "accent-lower": {
       "primary": {
         "value": "#0c19ff",
