@@ -1,0 +1,60 @@
+{
+  "semantic": {
+    "accent": {
+      "primary": {
+        "value": "#0c19ff",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "positive": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "negative": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "primary": {
+        "value": "#",
+        "type": "color"
+      }
+    }
+  },
+  "static": {
+    "white-text": {
+      "value": "#",
+      "type": "color"
+    }
+  }
+}
