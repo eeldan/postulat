@@ -1,7 +1,11 @@
 {
   "tokenSetOrder": [
-    "global",
-    "semantic",
-    "component"
+    "core/color",
+    "core/type",
+    "core/step",
+    "semantic/color",
+    "semantic/type",
+    "components/button/primary",
+    "components/button/secondary"
   ]
 }

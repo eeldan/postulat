@@ -1,0 +1,134 @@
+{
+  "px": {
+    "20": {
+      "value": "2px",
+      "type": "number"
+    },
+    "40": {
+      "value": "4px",
+      "type": "number"
+    },
+    "60": {
+      "value": "6px",
+      "type": "number"
+    },
+    "80": {
+      "value": "8px",
+      "type": "number"
+    },
+    "100": {
+      "value": "10px",
+      "type": "number"
+    },
+    "120": {
+      "value": "12px",
+      "type": "number"
+    },
+    "160": {
+      "value": "16px",
+      "type": "number"
+    },
+    "200": {
+      "value": "20px",
+      "type": "number"
+    },
+    "240": {
+      "value": "24px",
+      "type": "number"
+    },
+    "280": {
+      "value": "28px",
+      "type": "number"
+    },
+    "320": {
+      "value": "32px",
+      "type": "number"
+    },
+    "360": {
+      "value": "36px",
+      "type": "number"
+    },
+    "400": {
+      "value": "40px",
+      "type": "number"
+    },
+    "480": {
+      "value": "48px",
+      "type": "number"
+    },
+    "520": {
+      "value": "52px",
+      "type": "number"
+    },
+    "560": {
+      "value": "56px",
+      "type": "number"
+    }
+  },
+  "pt": {
+    "20": {
+      "value": "2pt",
+      "type": "number"
+    },
+    "40": {
+      "value": "4pt",
+      "type": "number"
+    },
+    "60": {
+      "value": "6pt",
+      "type": "number"
+    },
+    "80": {
+      "value": "8pt",
+      "type": "number"
+    },
+    "100": {
+      "value": "10pt",
+      "type": "number"
+    },
+    "120": {
+      "value": "12pt",
+      "type": "number"
+    },
+    "160": {
+      "value": "16pt",
+      "type": "number"
+    },
+    "200": {
+      "value": "20pt",
+      "type": "number"
+    },
+    "240": {
+      "value": "24pt",
+      "type": "number"
+    },
+    "280": {
+      "value": "28pt",
+      "type": "number"
+    },
+    "320": {
+      "value": "32pt",
+      "type": "number"
+    },
+    "360": {
+      "value": "36pt",
+      "type": "number"
+    },
+    "400": {
+      "value": "40pt",
+      "type": "number"
+    },
+    "480": {
+      "value": "48pt",
+      "type": "number"
+    },
+    "520": {
+      "value": "52pt",
+      "type": "number"
+    },
+    "560": {
+      "value": "56pt",
+      "type": "number"
+    }
+  }
+}

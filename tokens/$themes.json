@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "1eebc66472bfd4e0a56cdc91f1157241d201207c",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/color": "enabled",
+      "core/type": "enabled",
+      "core/step": "enabled",
+      "components/button/primary": "disabled"
+    }
+  }
+]

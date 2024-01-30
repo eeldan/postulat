@@ -1,0 +1,26 @@
+{
+  "font-family": {
+    "roboto-flex": {
+      "value": "Roboto Flex",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "semi-bold": {
+      "value": "600",
+      "type": "fontWeights"
+    }
+  },
+  "font-size": {
+    "display": {
+      "large": {
+        "value": "29px",
+        "type": "fontSizes"
+      }
+    }
+  }
+}

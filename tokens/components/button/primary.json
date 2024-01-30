@@ -1,0 +1,38 @@
+{
+  "default": {
+    "value": "{semantic.accent.primary}",
+    "type": "color"
+  },
+  "hover": {
+    "value": "#",
+    "type": "color"
+  },
+  "pressed": {
+    "value": "#",
+    "type": "color"
+  },
+  "disabled": {
+    "value": "#",
+    "type": "color"
+  },
+  "Gap": {
+    "value": "{px.40}",
+    "type": "spacing"
+  },
+  "All padding": {
+    "value": "{px.60}",
+    "type": "spacing"
+  },
+  "button-text": {
+    "value": {
+      "fontFamily": "{font-family.roboto-flex}",
+      "fontWeight": "{font-weight.semi-bold}",
+      "fontSize": "{font-size.display.large}"
+    },
+    "type": "typography"
+  },
+  "all corner": {
+    "value": "{px.60}",
+    "type": "borderRadius"
+  }
+}

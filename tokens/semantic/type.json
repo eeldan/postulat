@@ -1,0 +1,56 @@
+{
+  "type": {
+    "display": {
+      "large": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      },
+      "xsmall": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      }
+    },
+    "heading": {
+      "large": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      },
+      "xsmall": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
