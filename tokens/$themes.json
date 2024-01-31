@@ -7,7 +7,13 @@
       "core/color": "enabled",
       "core/type": "enabled",
       "core/step": "enabled",
-      "components/button/primary": "disabled"
+      "components/button/primary": "enabled",
+      "semantic/color": "enabled",
+      "semantic/type": "enabled",
+      "components/button/secondary": "enabled",
+      "semantic/spacing": "enabled",
+      "semantic/border-radius": "enabled",
+      "semantic/border-wight": "disabled"
     }
   }
 ]

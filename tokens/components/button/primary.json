@@ -1,38 +1,90 @@
 {
-  "default": {
-    "value": "{semantic.accent.primary}",
-    "type": "color"
-  },
-  "hover": {
-    "value": "#",
-    "type": "color"
-  },
-  "pressed": {
-    "value": "#",
-    "type": "color"
-  },
-  "disabled": {
-    "value": "#",
-    "type": "color"
+  "bg": {
+    "default": {
+      "value": "{semantic.accent.primary}",
+      "type": "color"
+    },
+    "hover": {
+      "value": "{bg.default}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.12",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "pressed": {
+      "value": "{bg.default}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.18",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "disabled": {
+      "value": "{bg.default}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.3",
+            "space": "lch"
+          }
+        }
+      }
+    }
   },
   "Gap": {
-    "value": "{px.40}",
+    "value": "{button.gap}",
     "type": "spacing"
   },
   "All padding": {
-    "value": "{px.60}",
+    "value": "{button.all_padding}",
     "type": "spacing"
   },
-  "button-text": {
-    "value": {
-      "fontFamily": "{font-family.roboto-flex}",
-      "fontWeight": "{font-weight.semi-bold}",
-      "fontSize": "{font-size.display.large}"
-    },
-    "type": "typography"
-  },
-  "all corner": {
-    "value": "{px.60}",
+  "all_radius": {
+    "value": "{button.all_radius}",
     "type": "borderRadius"
+  },
+  "text": {
+    "default": {
+      "value": "{static.white.text}",
+      "type": "color"
+    },
+    "hover": {
+      "value": "{default}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.12",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "pressed": {
+      "value": "#",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#",
+      "type": "color"
+    }
+  },
+  "button-text": {
+    "value": "{type.label.medium}",
+    "type": "typography"
   }
 }

@@ -5,6 +5,9 @@
     "core/step",
     "semantic/color",
     "semantic/type",
+    "semantic/spacing",
+    "semantic/border-radius",
+    "semantic/border-wight",
     "components/button/primary",
     "components/button/secondary"
   ]

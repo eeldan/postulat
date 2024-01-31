@@ -505,6 +505,16 @@
         "value": "#09090B",
         "type": "color"
       }
+    },
+    "absolute": {
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      }
     }
   }
 }

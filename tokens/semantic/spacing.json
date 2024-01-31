@@ -1,0 +1,12 @@
+{
+  "button": {
+    "all_padding": {
+      "value": "{px.160}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{px.80}",
+      "type": "spacing"
+    }
+  }
+}

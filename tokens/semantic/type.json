@@ -3,25 +3,33 @@
     "display": {
       "large": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.extra-bold}",
+          "fontSize": "{font-size.320}"
         },
         "type": "typography"
       },
       "medium": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.extra-bold}",
+          "fontSize": "{font-size.290}"
         },
         "type": "typography"
       },
       "small": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.extra-bold}",
+          "fontSize": "{font-size.260}"
         },
         "type": "typography"
       },
       "xsmall": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.extra-bold}",
+          "fontSize": "{font-size.230}"
         },
         "type": "typography"
       }
@@ -29,25 +37,101 @@
     "heading": {
       "large": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.extra-bold}",
+          "fontSize": "{font-size.290}"
         },
         "type": "typography"
       },
       "medium": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.260}"
         },
         "type": "typography"
       },
       "small": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.230}"
         },
         "type": "typography"
       },
       "xsmall": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}"
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.200}"
+        },
+        "type": "typography"
+      }
+    },
+    "label": {
+      "large": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.medium}",
+          "fontSize": "{font-size.200}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.medium}",
+          "fontSize": "{font-size.180}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.medium}",
+          "fontSize": "{font-size.160}"
+        },
+        "type": "typography"
+      },
+      "xsmall": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.medium}",
+          "fontSize": "{font-size.140}"
+        },
+        "type": "typography"
+      }
+    },
+    "paragraph": {
+      "large": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.regular}",
+          "fontSize": "{font-size.180}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.regular}",
+          "fontSize": "{font-size.160}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.regular}",
+          "fontSize": "{font-size.140}"
+        },
+        "type": "typography"
+      },
+      "xsmall": {
+        "value": {
+          "fontFamily": "{font-family.roboto-flex}",
+          "fontWeight": "{font-weight.regular}",
+          "fontSize": "{font-size.130}"
         },
         "type": "typography"
       }
