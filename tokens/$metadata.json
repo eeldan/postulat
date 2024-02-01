@@ -7,7 +7,7 @@
     "semantic/type",
     "semantic/spacing",
     "semantic/border-radius",
-    "semantic/border-wight",
+    "semantic/border-width",
     "components/button/primary",
     "components/button/secondary"
   ]

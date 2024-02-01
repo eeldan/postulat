@@ -84,7 +84,7 @@
     }
   },
   "button-text": {
-    "value": "{type.label.medium}",
+    "value": "{type.label.small}",
     "type": "typography"
   }
 }

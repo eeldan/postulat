@@ -12,8 +12,7 @@
       "semantic/type": "enabled",
       "components/button/secondary": "enabled",
       "semantic/spacing": "enabled",
-      "semantic/border-radius": "enabled",
-      "semantic/border-wight": "disabled"
+      "semantic/border-radius": "enabled"
     }
   }
 ]
