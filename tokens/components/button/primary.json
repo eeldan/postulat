@@ -4,19 +4,6 @@
       "value": "{semantic.accent.primary}",
       "type": "color"
     },
-    "hover": {
-      "value": "{bg.default}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.12",
-            "space": "lch"
-          }
-        }
-      }
-    },
     "pressed": {
       "value": "{bg.default}",
       "type": "color",
@@ -60,19 +47,6 @@
     "default": {
       "value": "{static.white.text}",
       "type": "color"
-    },
-    "hover": {
-      "value": "{default}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.12",
-            "space": "lch"
-          }
-        }
-      }
     },
     "pressed": {
       "value": "#",
