@@ -7,6 +7,10 @@
     "semantic/type",
     "components/button/primary",
     "components/button/secondary",
-    "components/button/tertiary"
+    "components/button/tertiary",
+    "components/input/field/text-single-line",
+    "components/input/field/text-area",
+    "components/input/select/single",
+    "components/input/select/multi"
   ]
 }
