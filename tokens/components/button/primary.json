@@ -1,61 +1,77 @@
 {
-  "bg": {
-    "default": {
-      "value": "{semantic.accent.primary}",
-      "type": "color"
-    },
-    "pressed": {
-      "value": "{bg.default}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.18",
-            "space": "lch"
+  "primary-color": {
+    "bg": {
+      "default": {
+        "value": "{semantic.accent.primary}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{bg.default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.18",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "disabled": {
+        "value": "{primary-color.bg.default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
           }
         }
       }
     },
-    "disabled": {
-      "value": "{bg.default}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.3",
-            "space": "lch"
-          }
-        }
+    "text": {
+      "default": {
+        "value": "{static.white.text}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "default": {
+        "value": "{static.white.text}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#",
+        "type": "color"
       }
     }
   },
   "Gap": {
-    "value": "{button.gap}",
+    "value": "{px.40}",
     "type": "spacing"
   },
   "All padding": {
-    "value": "{button.all_padding}",
+    "value": "{px.160}",
     "type": "spacing"
   },
   "all_radius": {
-    "value": "{button.all_radius}",
+    "value": "{px.160}",
     "type": "borderRadius"
-  },
-  "text": {
-    "default": {
-      "value": "{static.white.text}",
-      "type": "color"
-    },
-    "pressed": {
-      "value": "#",
-      "type": "color"
-    },
-    "disabled": {
-      "value": "#",
-      "type": "color"
-    }
   },
   "button-text": {
     "value": "{type.label.small}",

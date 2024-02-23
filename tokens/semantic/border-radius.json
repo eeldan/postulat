@@ -1,8 +1,0 @@
-{
-  "button": {
-    "all_radius": {
-      "value": "{px.100}",
-      "type": "borderRadius"
-    }
-  }
-}
