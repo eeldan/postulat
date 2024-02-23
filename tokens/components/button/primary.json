@@ -6,7 +6,7 @@
         "type": "color"
       },
       "pressed": {
-        "value": "{bg.default}",
+        "value": "{primary-color.bg.default}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -37,13 +37,18 @@
         "value": "{static.white.text}",
         "type": "color"
       },
-      "pressed": {
-        "value": "#",
-        "type": "color"
-      },
       "disabled": {
-        "value": "#",
-        "type": "color"
+        "value": "{primary-color.text.default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "icon": {
@@ -51,30 +56,41 @@
         "value": "{static.white.text}",
         "type": "color"
       },
-      "pressed": {
-        "value": "#",
-        "type": "color"
-      },
       "disabled": {
-        "value": "#",
-        "type": "color"
+        "value": "{primary-color.icon.default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
       }
     }
   },
-  "Gap": {
-    "value": "{px.40}",
-    "type": "spacing"
+  "primary-padding": {
+    "Gap": {
+      "value": "{px.40}",
+      "type": "spacing"
+    },
+    "All padding": {
+      "value": "{px.160}",
+      "type": "spacing"
+    }
   },
-  "All padding": {
-    "value": "{px.160}",
-    "type": "spacing"
+  "primary-radius": {
+    "all_radius": {
+      "value": "{px.160}",
+      "type": "borderRadius"
+    }
   },
-  "all_radius": {
-    "value": "{px.160}",
-    "type": "borderRadius"
-  },
-  "button-text": {
-    "value": "{type.label.small}",
-    "type": "typography"
+  "primary-text": {
+    "button-text": {
+      "value": "{type.label.medium}",
+      "type": "typography"
+    }
   }
 }

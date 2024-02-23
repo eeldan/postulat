@@ -9,7 +9,9 @@
       "core/step": "enabled",
       "components/button/primary": "enabled",
       "semantic/color": "enabled",
-      "semantic/type": "enabled"
+      "semantic/type": "enabled",
+      "components/button/secondary": "disabled",
+      "components/button/tertiary": "disabled"
     }
   }
 ]

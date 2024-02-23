@@ -6,6 +6,7 @@
     "semantic/color",
     "semantic/type",
     "components/button/primary",
-    "components/button/secondary"
+    "components/button/secondary",
+    "components/button/tertiary"
   ]
 }

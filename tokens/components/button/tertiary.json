@@ -1,5 +1,5 @@
 {
-  "secondary-padding": {
+  "tertiary-padding": {
     "Gap": {
       "value": "{px.40}",
       "type": "spacing"
@@ -9,45 +9,28 @@
       "type": "spacing"
     }
   },
-  "secondary-radius": {
+  "tertiary-radius": {
     "all_radius": {
       "value": "{px.160}",
       "type": "borderRadius"
     }
   },
-  "secondary-text": {
+  "tertiary-text": {
     "button-text": {
       "value": "{type.label.medium}",
       "type": "typography"
     }
   },
-  "secondary-color": {
+  "tertiary-color": {
     "bg": {
-      "default": {
-        "value": "{pallete.cold-grey.50}",
-        "type": "color"
-      },
       "pressed": {
-        "value": "{secondary-color.bg.default}",
+        "value": "{pallete.cold-grey.50}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "darken",
               "value": "0.1",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "disabled": {
-        "value": "{secondary-color.bg.default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
               "space": "lch"
             }
           }
@@ -60,7 +43,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{secondary-color.text.default}",
+        "value": "{tertiary-color.text.default}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -79,7 +62,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{secondary-color.icon.default}",
+        "value": "{tertiary-color.icon.default}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
