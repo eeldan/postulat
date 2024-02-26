@@ -9,11 +9,7 @@
       "core/step": "enabled",
       "components/button/primary": "enabled",
       "semantic/color": "enabled",
-      "semantic/type": "enabled",
-      "components/input/field/text-single-line": "disabled",
-      "components/input/field/text-area": "disabled",
-      "components/input/select/single": "disabled",
-      "components/input/select/multi": "disabled"
+      "semantic/type": "enabled"
     }
   }
 ]

@@ -1,7 +1,7 @@
 {
   "secondary-padding": {
     "Gap": {
-      "value": "{px.40}",
+      "value": "{px.80}",
       "type": "spacing"
     },
     "All padding": {
