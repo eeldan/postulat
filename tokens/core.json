@@ -117,7 +117,7 @@
   },
   "core": {
     "xBase": {
-      "value": "4px",
+      "value": "4",
       "type": "core"
     },
     "space": {
