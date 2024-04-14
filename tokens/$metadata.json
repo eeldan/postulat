@@ -1,16 +1,7 @@
 {
   "tokenSetOrder": [
-    "core/color",
-    "core/type",
-    "core/scale",
-    "semantic/color",
-    "semantic/type",
-    "components/button/primary",
-    "components/button/secondary",
-    "components/button/tertiary",
-    "components/input/field/text-single-line",
-    "components/input/field/text-area",
-    "components/input/select/single",
-    "components/input/select/multi"
+    "core",
+    "pallete",
+    "semantic"
   ]
 }
