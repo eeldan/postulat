@@ -28,45 +28,53 @@
     }
   },
   "font-size": {
-    "130": {
-      "value": "13px",
-      "type": "fontSizes"
+    "display": {
+      "large": {
+        "value": "60px",
+        "type": "fontSizes"
+      },
+      "medium": {
+        "value": "42px",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "34px",
+        "type": "fontSizes"
+      }
     },
-    "140": {
-      "value": "14px",
-      "type": "fontSizes"
+    "title": {
+      "large": {
+        "value": "28px",
+        "type": "fontSizes"
+      },
+      "medium": {
+        "value": "22px",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "20px",
+        "type": "fontSizes"
+      }
     },
-    "160": {
-      "value": "16px",
-      "type": "fontSizes"
+    "body": {
+      "medium": {
+        "value": "17px",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "15px",
+        "type": "fontSizes"
+      }
     },
-    "180": {
-      "value": "18px",
-      "type": "fontSizes"
-    },
-    "200": {
-      "value": "20px",
-      "type": "fontSizes"
-    },
-    "230": {
-      "value": "23px",
-      "type": "fontSizes"
-    },
-    "260": {
-      "value": "26px",
-      "type": "fontSizes"
-    },
-    "290": {
-      "value": "29px",
-      "type": "fontSizes"
-    },
-    "320": {
-      "value": "32px",
-      "type": "fontSizes"
-    },
-    "360": {
-      "value": "36px",
-      "type": "fontSizes"
+    "caption": {
+      "medium": {
+        "value": "13px",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "12px",
+        "type": "fontSizes"
+      }
     }
   }
 }

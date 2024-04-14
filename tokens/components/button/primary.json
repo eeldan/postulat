@@ -73,17 +73,17 @@
   },
   "primary-padding": {
     "Gap": {
-      "value": "{px.80}",
+      "value": "{px.2}",
       "type": "spacing"
     },
     "All padding": {
-      "value": "{px.160}",
+      "value": "{px.4}",
       "type": "spacing"
     }
   },
   "primary-radius": {
     "all_radius": {
-      "value": "{px.160}",
+      "value": "{px.4}",
       "type": "borderRadius"
     }
   },

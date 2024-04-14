@@ -4,12 +4,12 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/color": "enabled",
       "core/type": "enabled",
-      "core/step": "enabled",
       "components/button/primary": "enabled",
       "semantic/color": "enabled",
-      "semantic/type": "enabled"
+      "semantic/type": "enabled",
+      "core/size": "enabled",
+      "core/color": "enabled"
     }
   }
 ]

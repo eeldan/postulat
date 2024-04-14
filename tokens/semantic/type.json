@@ -131,7 +131,7 @@
         "value": {
           "fontFamily": "{font-family.roboto-flex}",
           "fontWeight": "{font-weight.regular}",
-          "fontSize": "{font-size.130}"
+          "fontSize": "{font-size.display.large}"
         },
         "type": "typography"
       }

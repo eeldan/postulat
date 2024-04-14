@@ -1,17 +1,17 @@
 {
   "secondary-padding": {
     "Gap": {
-      "value": "{px.80}",
+      "value": "{px.2}",
       "type": "spacing"
     },
     "All padding": {
-      "value": "{px.160}",
+      "value": "{px.4}",
       "type": "spacing"
     }
   },
   "secondary-radius": {
     "all_radius": {
-      "value": "{px.160}",
+      "value": "{px.4}",
       "type": "borderRadius"
     }
   },
@@ -24,7 +24,7 @@
   "secondary-color": {
     "bg": {
       "default": {
-        "value": "{pallete.cold-grey.50}",
+        "value": "{color.cold-grey.50}",
         "type": "color"
       },
       "pressed": {
@@ -56,7 +56,7 @@
     },
     "text": {
       "default": {
-        "value": "{pallete.blue.500}",
+        "value": "{color.blue.500}",
         "type": "color"
       },
       "disabled": {
@@ -75,7 +75,7 @@
     },
     "icon": {
       "default": {
-        "value": "{pallete.blue.500}",
+        "value": "{color.blue.500}",
         "type": "color"
       },
       "disabled": {
