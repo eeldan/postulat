@@ -2,7 +2,7 @@
   "text-filed-color": {
     "bg": {
       "enabled": {
-        "value": "{color.cold-grey.50}",
+        "value": "{color.cold-gray.50}",
         "type": "color"
       },
       "pressed": {
@@ -45,18 +45,18 @@
         }
       },
       "read-only": {
-        "value": "{color.cold-grey.25}",
+        "value": "{color.cold-gray.25}",
         "type": "color"
       }
     },
     "text": {
       "input": {
         "enabled": {
-          "value": "{color.cold-grey.300}",
+          "value": "{color.cold-gray.300}",
           "type": "color"
         },
         "entered": {
-          "value": "{color.cold-grey.800}",
+          "value": "{color.cold-gray.800}",
           "type": "color"
         },
         "disabled": {
@@ -75,20 +75,20 @@
       },
       "label": {
         "default": {
-          "value": "{color.grey.900}",
+          "value": "{color.gray.900}",
           "type": "color"
         }
       },
       "description": {
         "default": {
-          "value": "{color.cold-grey.300}",
+          "value": "{color.cold-gray.300}",
           "type": "color"
         }
       }
     },
     "icon": {
       "default": {
-        "value": "{color.cold-grey.900}",
+        "value": "{color.cold-gray.900}",
         "type": "color"
       },
       "success": {
