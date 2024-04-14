@@ -1,17 +1,17 @@
 {
   "secondary-padding": {
     "Gap": {
-      "value": "{px.2}",
+      "value": "{scale.2}",
       "type": "spacing"
     },
     "All padding": {
-      "value": "{px.4}",
+      "value": "{scale.4}",
       "type": "spacing"
     }
   },
   "secondary-radius": {
     "all_radius": {
-      "value": "{px.4}",
+      "value": "{scale.4}",
       "type": "borderRadius"
     }
   },

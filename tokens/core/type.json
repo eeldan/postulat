@@ -1,14 +1,21 @@
 {
   "font-family": {
-    "roboto-flex": {
-      "value": "Roboto Flex",
-      "type": "fontFamilies"
+    "inter": {
+      "value": "Inter",
+      "type": "fontFamilies",
+      "description": "Main font for Android & Web"
+    },
+    "sf-pro": {
+      "value": "SF Pro",
+      "type": "fontFamilies",
+      "description": "Main font for Apple devices"
     }
   },
   "font-weight": {
     "extra-bold": {
       "value": "800",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "Not recomended for regular use. Use it on your own risk!"
     },
     "bold": {
       "value": "700",
@@ -30,25 +37,25 @@
   "font-size": {
     "display": {
       "large": {
-        "value": "60px",
+        "value": "57px",
         "type": "fontSizes"
       },
       "medium": {
-        "value": "42px",
+        "value": "45px",
         "type": "fontSizes"
       },
       "small": {
-        "value": "34px",
+        "value": "36px",
         "type": "fontSizes"
       }
     },
     "title": {
       "large": {
-        "value": "28px",
+        "value": "32px",
         "type": "fontSizes"
       },
       "medium": {
-        "value": "22px",
+        "value": "28px",
         "type": "fontSizes"
       },
       "small": {
@@ -56,24 +63,23 @@
         "type": "fontSizes"
       }
     },
-    "body": {
-      "medium": {
+    "base": {
+      "large": {
         "value": "17px",
         "type": "fontSizes"
       },
-      "small": {
-        "value": "15px",
-        "type": "fontSizes"
-      }
-    },
-    "caption": {
       "medium": {
-        "value": "13px",
+        "value": "14",
         "type": "fontSizes"
       },
       "small": {
-        "value": "12px",
+        "value": "13",
         "type": "fontSizes"
+      },
+      "xsmall": {
+        "value": "12",
+        "type": "fontSizes",
+        "description": "Don't touch if you have no idea what it's made for :)"
       }
     }
   }

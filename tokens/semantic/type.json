@@ -3,7 +3,7 @@
     "display": {
       "large": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.extra-bold}",
           "fontSize": "{font-size.320}"
         },
@@ -11,7 +11,7 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.extra-bold}",
           "fontSize": "{font-size.290}"
         },
@@ -19,7 +19,7 @@
       },
       "small": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.extra-bold}",
           "fontSize": "{font-size.260}"
         },
@@ -27,7 +27,7 @@
       },
       "xsmall": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.extra-bold}",
           "fontSize": "{font-size.230}"
         },
@@ -37,7 +37,7 @@
     "heading": {
       "large": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.extra-bold}",
           "fontSize": "{font-size.290}"
         },
@@ -45,7 +45,7 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.semi-bold}",
           "fontSize": "{font-size.260}"
         },
@@ -53,7 +53,7 @@
       },
       "small": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.semi-bold}",
           "fontSize": "{font-size.230}"
         },
@@ -61,7 +61,7 @@
       },
       "xsmall": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.semi-bold}",
           "fontSize": "{font-size.200}"
         },
@@ -71,7 +71,7 @@
     "label": {
       "large": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.medium}",
           "fontSize": "{font-size.200}"
         },
@@ -79,7 +79,7 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.medium}",
           "fontSize": "{font-size.180}"
         },
@@ -87,7 +87,7 @@
       },
       "small": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.medium}",
           "fontSize": "{font-size.160}"
         },
@@ -95,7 +95,7 @@
       },
       "xsmall": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.medium}",
           "fontSize": "{font-size.140}"
         },
@@ -105,7 +105,7 @@
     "paragraph": {
       "large": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.regular}",
           "fontSize": "{font-size.180}"
         },
@@ -113,7 +113,7 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.regular}",
           "fontSize": "{font-size.160}"
         },
@@ -121,7 +121,7 @@
       },
       "small": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.regular}",
           "fontSize": "{font-size.140}"
         },
@@ -129,7 +129,7 @@
       },
       "xsmall": {
         "value": {
-          "fontFamily": "{font-family.roboto-flex}",
+          "fontFamily": "{font-family.inter}",
           "fontWeight": "{font-weight.regular}",
           "fontSize": "{font-size.display.large}"
         },

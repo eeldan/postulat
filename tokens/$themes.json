@@ -8,8 +8,8 @@
       "components/button/primary": "enabled",
       "semantic/color": "enabled",
       "semantic/type": "enabled",
-      "core/size": "enabled",
-      "core/color": "enabled"
+      "core/color": "enabled",
+      "core/scale": "enabled"
     }
   }
 ]

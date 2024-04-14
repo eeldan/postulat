@@ -104,43 +104,43 @@
   "padding": {
     "input": {
       "vertical": {
-        "value": "{px.5}",
+        "value": "{scale.5}",
         "type": "spacing"
       },
       "horizontal": {
-        "value": "{px.4}",
+        "value": "{scale.4}",
         "type": "spacing"
       },
       "gap": {
-        "value": "{px.3}",
+        "value": "{scale.3}",
         "type": "spacing"
       }
     },
     "label": {
       "horizontal": {
-        "value": "{px.4}",
+        "value": "{scale.4}",
         "type": "spacing"
       }
     },
     "description": {
       "horizontal": {
-        "value": "{px.4}",
+        "value": "{scale.4}",
         "type": "spacing"
       }
     },
     "global-gap": {
-      "value": "{px.2}",
+      "value": "{scale.2}",
       "type": "spacing"
     }
   },
   "input-border-radius": {
-    "value": "{px.4}",
+    "value": "{scale.4}",
     "type": "borderRadius"
   },
   "input-border": {
     "active": {
       "value": {
-        "width": "{px.0,5}",
+        "width": "{scale.0,5}",
         "color": "{color.blue.400}"
       },
       "type": "border"
@@ -148,14 +148,14 @@
     "error": {
       "value": {
         "color": "{color.red.500}",
-        "width": "{px.0,5}"
+        "width": "{scale.0,5}"
       },
       "type": "border"
     },
     "success": {
       "value": {
         "color": "{color.green.500}",
-        "width": "{px.0,5}"
+        "width": "{scale.0,5}"
       },
       "type": "border"
     }

@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "core/color",
     "core/type",
-    "core/size",
+    "core/scale",
     "semantic/color",
     "semantic/type",
     "components/button/primary",
