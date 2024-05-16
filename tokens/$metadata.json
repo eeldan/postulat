@@ -1,0 +1,14 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "palette",
+    "brand/Tele2",
+    "brand/Altel",
+    "semantic/light",
+    "semantic/dark",
+    "component/iOS",
+    "component/Android",
+    "dimensions",
+    "component deprecated"
+  ]
+}

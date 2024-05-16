@@ -1,0 +1,418 @@
+{
+  "color": {
+    "component": {
+      "ios": {
+        "Button": {
+          "Primary": {
+            "bodyDefault": {
+              "value": "{color.semantic.main.primary}",
+              "type": "color"
+            },
+            "bodyPressed": {
+              "value": "{color.semantic.main.transparent8}",
+              "type": "color"
+            },
+            "bodyDisabled": {
+              "value": "{color.semantic.main.transparent6}",
+              "type": "color"
+            },
+            "textDefault": {
+              "value": "{color.semantic.text.inverted}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{color.semantic.text.inverted}",
+              "type": "color"
+            },
+            "iconDefault": {
+              "value": "{color.semantic.icon.inverted}",
+              "type": "color"
+            },
+            "iconDisabled": {
+              "value": "{color.semantic.icon.inverted}",
+              "type": "color"
+            }
+          },
+          "Secondary": {
+            "bodyDefault": {
+              "value": "{color.semantic.main.transparent1}",
+              "type": "color"
+            },
+            "bodyPressed": {
+              "value": "{color.semantic.main.transparent1}",
+              "type": "color"
+            },
+            "bodyDisabled": {
+              "value": "{color.semantic.main.primary}",
+              "type": "color"
+            },
+            "textDefault": {
+              "value": "{color.semantic.text.primary}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{color.semantic.text.primary}",
+              "type": "color"
+            },
+            "iconDefault": {
+              "value": "{color.semantic.icon.primary}",
+              "type": "color"
+            },
+            "iconDisabled": {
+              "value": "{color.semantic.icon.primary}",
+              "type": "color"
+            }
+          },
+          "Tertiary": {
+            "bodyDefault": {
+              "value": "{color.semantic.transparent.primary}",
+              "type": "color"
+            },
+            "bodyPressed": {
+              "value": "{color.semantic.main.transparent2}",
+              "type": "color"
+            },
+            "bodyDisabled": {
+              "value": "{color.semantic.transparent.primary}",
+              "type": "color"
+            },
+            "textDefault": {
+              "value": "{color.semantic.text.primary}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{color.semantic.text.primary}",
+              "type": "color"
+            },
+            "iconDefault": {
+              "value": "{color.semantic.icon.primary}",
+              "type": "color"
+            },
+            "iconDisabled": {
+              "value": "{color.semantic.icon.primary}",
+              "type": "color"
+            }
+          },
+          "Ghost": {
+            "bodyDefault": {
+              "value": "{color.semantic.transparent.primary}",
+              "type": "color"
+            },
+            "textDefault": {
+              "value": "{color.semantic.accent.primary}",
+              "type": "color"
+            },
+            "textHover": {
+              "value": "{color.semantic.accent.secondary}",
+              "type": "color"
+            },
+            "textPressed": {
+              "value": "{color.semantic.accent.tertiary}",
+              "type": "color"
+            },
+            "textDisabled": {
+              "value": "{color.semantic.accentPale.tertiary}",
+              "type": "color"
+            },
+            "iconDefault": {
+              "value": "{color.semantic.accent.primary}",
+              "type": "color"
+            },
+            "iconHover": {
+              "value": "{color.semantic.accent.secondary}",
+              "type": "color"
+            },
+            "iconPressed": {
+              "value": "{color.semantic.accent.tertiary}",
+              "type": "color"
+            },
+            "iconDisabled": {
+              "value": "{color.semantic.accentPale.tertiary}",
+              "type": "color"
+            }
+          }
+        },
+        "input": {
+          "bodyDefault": {
+            "value": "{color.semantic.main.transparent1}",
+            "type": "color"
+          },
+          "bodyActive": {
+            "value": "{color.semantic.main.transparent1}",
+            "type": "color"
+          },
+          "bodyError": {
+            "value": "{color.semantic.critical.tertiary}",
+            "type": "color"
+          },
+          "bodySuccess": {
+            "value": "{color.semantic.main.transparent1}",
+            "type": "color"
+          },
+          "bodyDisabled": {
+            "value": "{color.semantic.main.transparent1}",
+            "type": "color"
+          },
+          "bodyReadOnly": {
+            "value": "{color.semantic.transparent.primary}",
+            "type": "color"
+          },
+          "textDisabled": {
+            "value": "{color.semantic.main.transparent8}",
+            "type": "color"
+          },
+          "textDefault": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "textPlaceholderDefault": {
+            "value": "{color.semantic.main.transparent9}",
+            "type": "color"
+          },
+          "textPlaceholderDisabled": {
+            "value": "{color.semantic.main.transparent6}",
+            "type": "color"
+          },
+          "borderDefault": {
+            "value": "{color.semantic.transparent.primary}",
+            "type": "color"
+          },
+          "borderActive": {
+            "value": "{color.semantic.accent.primary}",
+            "type": "color"
+          },
+          "borderError": {
+            "value": "{color.semantic.critical.primary}",
+            "type": "color"
+          },
+          "borderSuccess": {
+            "value": "{color.semantic.success.primary}",
+            "type": "color"
+          },
+          "borderDisabled": {
+            "value": "{color.semantic.main.transparent2}",
+            "type": "color"
+          },
+          "borderReadOnly": {
+            "value": "{color.semantic.main.transparent5}",
+            "type": "color"
+          },
+          "iconDefault": {
+            "value": "{color.semantic.main.primary}",
+            "type": "color"
+          },
+          "iconDisabled": {
+            "value": "{color.semantic.main.transparent6}",
+            "type": "color"
+          }
+        },
+        "subhead": {
+          "textLabel": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "textDiscription": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          }
+        },
+        "statusMessage": {
+          "TextError": {
+            "value": "{color.semantic.text.critical}",
+            "type": "color"
+          }
+        },
+        "navBar": {
+          "bodyFilled": {
+            "value": "{color.semantic.muted.transparent9}",
+            "type": "color"
+          },
+          "bodyGhost": {
+            "value": "{color.semantic.transparent.primary}",
+            "type": "color"
+          },
+          "textTitle": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "textSubtitle": {
+            "value": "{color.semantic.text.secondary}",
+            "type": "color"
+          },
+          "divider": {
+            "value": "{color.semantic.main.transparent5}",
+            "type": "color"
+          },
+          "grabBar": {
+            "value": "{color.semantic.main.transparent5}",
+            "type": "color"
+          }
+        },
+        "sheet": {
+          "grabBar": {
+            "value": "{color.semantic.main.transparent5}",
+            "type": "color"
+          },
+          "body": {
+            "value": "{color.semantic.floor.0}",
+            "type": "color"
+          }
+        },
+        "tabBar": {
+          "body": {
+            "value": "{color.semantic.muted.transparent9}",
+            "type": "color"
+          },
+          "button": {
+            "textLabelDefault": {
+              "value": "{color.semantic.text.secondary}",
+              "type": "color"
+            },
+            "textLabelSelected": {
+              "value": "{color.semantic.text.accent}",
+              "type": "color"
+            },
+            "iconDefault": {
+              "value": "{color.semantic.icon.secondary}",
+              "type": "color"
+            },
+            "iconSelected": {
+              "value": "{color.semantic.text.accent}",
+              "type": "color"
+            },
+            "body": {
+              "value": "{color.semantic.transparent.primary}",
+              "type": "color"
+            }
+          }
+        },
+        "segmentedControl": {
+          "button": {
+            "bodyDefault": {
+              "value": "{color.semantic.transparent.primary}",
+              "type": "color"
+            },
+            "bodySelected": {
+              "value": "{color.semantic.neutral.primary}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{color.semantic.text.primary}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{color.semantic.icon.primary}",
+              "type": "color"
+            },
+            "separator": {
+              "value": "{color.semantic.main.transparent3}",
+              "type": "color"
+            }
+          },
+          "body": {
+            "value": "{color.semantic.main.transparent2}",
+            "type": "color"
+          }
+        },
+        "tab": {
+          "textDefault": {
+            "value": "{color.semantic.main.transparent5}",
+            "type": "color"
+          },
+          "textActive": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          }
+        },
+        "sectionHeader": {
+          "textDefault": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          }
+        },
+        "switch": {
+          "enabled": {
+            "bodyDefault": {
+              "value": "{color.semantic.main.transparent2}",
+              "type": "color"
+            },
+            "bodySelected": {
+              "value": "{color.semantic.main.primary}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "bodyDefault": {
+              "value": "{color.semantic.main.transparent1}",
+              "type": "color"
+            },
+            "bodySelected": {
+              "value": "{color.semantic.main.transparent4}",
+              "type": "color"
+            }
+          },
+          "knob": {
+            "value": "{color.semantic.static.white.primary}",
+            "type": "color"
+          }
+        },
+        "cell": {
+          "bodyDefault": {
+            "value": "{color.semantic.main.transparent1}",
+            "type": "color"
+          },
+          "textTitle": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "textSubtitle": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "textExtraSubtitle": {
+            "value": "{color.semantic.text.secondary}",
+            "type": "color"
+          },
+          "textValue": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "textSubValue": {
+            "value": "{color.semantic.text.primary}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{color.semantic.main.transparent4}",
+            "type": "color"
+          }
+        },
+        "snackBar": {
+          "bodyDefault": {
+            "value": "{color.semantic.accent.primary}",
+            "type": "color"
+          },
+          "bodySuccess": {
+            "value": "{color.semantic.accent.primary}",
+            "type": "color"
+          },
+          "bodyInfo": {
+            "value": "{color.semantic.accent.primary}",
+            "type": "color"
+          },
+          "bodyWarning": {
+            "value": "{color.semantic.accent.primary}",
+            "type": "color"
+          },
+          "bodyError": {
+            "value": "{color.semantic.accent.primary}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
