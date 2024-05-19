@@ -42,7 +42,7 @@
             "type": "color"
           },
           "bodyDisabled": {
-            "value": "{semantic.main.primary}",
+            "value": "{semantic.transparent.primary}",
             "type": "color"
           },
           "textDefault": {
