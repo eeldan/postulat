@@ -388,7 +388,7 @@
         "y": "1",
         "blur": "1",
         "spread": "0",
-        "color": "{color.semantic.main.transparent4}",
+        "color": "{semantic.main.transparent4}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -400,7 +400,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{color.semantic.main.transparent2}",
+          "color": "{semantic.main.transparent2}",
           "type": "innerShadow"
         }
       ],
@@ -413,7 +413,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{color.semantic.main.transparent2}",
+          "color": "{semantic.main.transparent2}",
           "type": "innerShadow"
         }
       ],
@@ -426,7 +426,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{color.semantic.main.transparent2}",
+          "color": "{semantic.main.transparent2}",
           "type": "innerShadow"
         }
       ],
