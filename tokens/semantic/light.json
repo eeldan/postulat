@@ -2,39 +2,39 @@
   "semantic": {
     "accent": {
       "primary": {
-        "value": "{color.blue.500}",
+        "value": "{core.palette.blue.500}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.blue.600}",
+        "value": "{core.palette.blue.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{color.blue.700}",
+        "value": "{core.palette.blue.700}",
         "type": "color"
       }
     },
     "accentPale": {
       "primary": {
-        "value": "{color.blue.100}",
+        "value": "{core.palette.blue.100}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.blue.200}",
+        "value": "{core.palette.blue.200}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{color.blue.300}",
+        "value": "{core.palette.blue.300}",
         "type": "color"
       }
     },
     "main": {
       "primary": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black}",
         "type": "color"
       },
       "transparent1": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -47,7 +47,7 @@
         }
       },
       "transparent2": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -60,7 +60,7 @@
         }
       },
       "transparent3": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -73,7 +73,7 @@
         }
       },
       "transparent4": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -86,7 +86,7 @@
         }
       },
       "transparent5": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -99,7 +99,7 @@
         }
       },
       "transparent6": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -112,7 +112,7 @@
         }
       },
       "transparent7": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -125,7 +125,7 @@
         }
       },
       "transparent8": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -138,7 +138,7 @@
         }
       },
       "transparent9": {
-        "value": "{color.absolute.black}",
+        "value": "{core.palette.absolute.black} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -154,11 +154,11 @@
     "static": {
       "white": {
         "primary": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color"
         },
         "transparent1": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -171,7 +171,7 @@
           }
         },
         "transparent2": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -184,7 +184,7 @@
           }
         },
         "transparent3": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -197,7 +197,7 @@
           }
         },
         "transparent4": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -210,7 +210,7 @@
           }
         },
         "transparent5": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -223,7 +223,7 @@
           }
         },
         "transparent6": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -236,7 +236,7 @@
           }
         },
         "transparent7": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -249,7 +249,7 @@
           }
         },
         "transparent8": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -262,7 +262,7 @@
           }
         },
         "transparent9": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -275,7 +275,7 @@
           }
         },
         "transparent10": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -288,7 +288,7 @@
           }
         },
         "transparent11": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -303,11 +303,11 @@
       },
       "black": {
         "primary": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color"
         },
         "transparent1": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -320,7 +320,7 @@
           }
         },
         "transparent2": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -333,7 +333,7 @@
           }
         },
         "transparent3": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -346,7 +346,7 @@
           }
         },
         "transparent4": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -359,7 +359,7 @@
           }
         },
         "transparent5": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -372,7 +372,7 @@
           }
         },
         "transparent6": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -385,7 +385,7 @@
           }
         },
         "transparent7": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -398,7 +398,7 @@
           }
         },
         "transparent8": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -411,7 +411,7 @@
           }
         },
         "transparent9": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -424,7 +424,7 @@
           }
         },
         "transparent10": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -437,7 +437,7 @@
           }
         },
         "transparent11": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -453,85 +453,85 @@
     },
     "neutral": {
       "primary": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.gray.300}",
+        "value": "{core.palette.gray.300}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{color.gray.50}",
+        "value": "{core.palette.gray.50}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{color.gray.50}",
+        "value": "{core.palette.gray.50}",
         "type": "color"
       }
     },
     "warning": {
       "primary": {
-        "value": "{color.yellow.500}",
+        "value": "{core.palette.yellow.500}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.yellow.300}",
+        "value": "{core.palette.yellow.300}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{color.yellow.50}",
+        "value": "{core.palette.yellow.50}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{color.yellow.50}",
+        "value": "{core.palette.yellow.50}",
         "type": "color"
       }
     },
     "success": {
       "primary": {
-        "value": "{color.green.500}",
+        "value": "{core.palette.green.500}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.green.600}",
+        "value": "{core.palette.green.600}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{color.state.50}",
+        "value": "{core.palette.state.50}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{color.state.50}",
+        "value": "{core.palette.state.50}",
         "type": "color"
       }
     },
     "critical": {
       "primary": {
-        "value": "{color.red.500}",
+        "value": "{core.palette.red.500}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.red.300}",
+        "value": "{core.palette.red.300}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{color.red.50}",
+        "value": "{core.palette.red.50}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{color.red.50}",
+        "value": "{core.palette.red.50}",
         "type": "color"
       }
     },
     "transparent": {
       "primary": {
-        "value": "{color.absolute.transparentWhite}",
+        "value": "{core.palette.absolute.transparentWhite}",
         "type": "color"
       }
     },
     "muted": {
       "transparent1": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -544,7 +544,7 @@
         }
       },
       "transparent2": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -557,7 +557,7 @@
         }
       },
       "transparent3": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -570,7 +570,7 @@
         }
       },
       "transparent4": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -583,7 +583,7 @@
         }
       },
       "transparent5": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -596,7 +596,7 @@
         }
       },
       "transparent6": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -609,7 +609,7 @@
         }
       },
       "transparent7": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -622,7 +622,7 @@
         }
       },
       "transparent8": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -635,7 +635,7 @@
         }
       },
       "transparent9": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -648,7 +648,7 @@
         }
       },
       "transparent10": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -661,7 +661,7 @@
         }
       },
       "transparent11": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -676,25 +676,25 @@
     },
     "info": {
       "primary": {
-        "value": "{color.indigo.500}",
+        "value": "{core.palette.indigo.500}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.indigo.400}",
+        "value": "{core.palette.indigo.400}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{color.indigo.300}",
+        "value": "{core.palette.indigo.300}",
         "type": "color"
       },
       "quaternary": {
-        "value": "{color.indigo.200}",
+        "value": "{core.palette.indigo.200}",
         "type": "color"
       }
     },
     "floor": {
       "0": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color"
       },
       "1": {
@@ -752,7 +752,7 @@
         "type": "color"
       },
       "inverted": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color"
       }
     },
@@ -802,7 +802,7 @@
         "type": "color"
       },
       "inverted": {
-        "value": "{color.absolute.white}",
+        "value": "{core.palette.absolute.white}",
         "type": "color"
       }
     }

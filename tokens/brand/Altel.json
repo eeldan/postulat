@@ -3,11 +3,11 @@
     "brand": {
       "main": {
         "primary": {
-          "value": "{color.pink.600}",
+          "value": "{core.palette.pink.600}",
           "type": "color"
         },
         "secondary": {
-          "value": "{color.pink.600}",
+          "value": "{core.palette.pink.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -20,7 +20,7 @@
           }
         },
         "tertiary": {
-          "value": "{color.pink.600}",
+          "value": "{core.palette.pink.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -35,15 +35,15 @@
       },
       "additional": {
         "white": {
-          "value": "{color.absolute.white}",
+          "value": "{core.palette.absolute.white}",
           "type": "color"
         },
         "black": {
-          "value": "{color.absolute.black}",
+          "value": "{core.palette.absolute.black}",
           "type": "color"
         },
         "lightGray": {
-          "value": "{color.gray.50}",
+          "value": "{core.palette.gray.50}",
           "type": "color"
         }
       }
