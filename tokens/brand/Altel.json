@@ -34,16 +34,12 @@
         }
       },
       "additional": {
-        "white": {
+        "primary": {
           "value": "{core.palette.absolute.white}",
           "type": "color"
         },
-        "black": {
-          "value": "{core.palette.absolute.black}",
-          "type": "color"
-        },
-        "lightGray": {
-          "value": "{core.palette.gray.50}",
+        "secondary": {
+          "value": "{core.palette.neutral.950}",
           "type": "color"
         }
       }

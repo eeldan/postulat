@@ -34,20 +34,20 @@
         }
       },
       "additional": {
-        "green": {
-          "value": "{core.palette.green.400}",
-          "type": "color"
-        },
-        "orange": {
-          "value": "{core.palette.orange.400}",
-          "type": "color"
-        },
-        "blue": {
+        "primary": {
           "value": "{core.palette.blue.400}",
           "type": "color"
         },
-        "red": {
+        "secondary": {
           "value": "{core.palette.red.600}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.palette.green.400}",
+          "type": "color"
+        },
+        "quaternary": {
+          "value": "{core.palette.orange.400}",
           "type": "color"
         },
         "webBlack": {

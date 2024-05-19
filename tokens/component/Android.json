@@ -2,7 +2,7 @@
   "component": {
     "ios": {
       "Button": {
-        "Primary": {
+        "primary": {
           "bodyDefault": {
             "value": "{semantic.brand.main.primary}",
             "type": "color"
@@ -32,7 +32,7 @@
             "type": "color"
           }
         },
-        "Secondary": {
+        "secondary": {
           "bodyDefault": {
             "value": "{semantic.main.transparent1}",
             "type": "color"
@@ -62,7 +62,7 @@
             "type": "color"
           }
         },
-        "Tertiary": {
+        "tertiary": {
           "bodyDefault": {
             "value": "{semantic.transparent.primary}",
             "type": "color"
@@ -92,7 +92,7 @@
             "type": "color"
           }
         },
-        "Ghost": {
+        "ghost": {
           "bodyDefault": {
             "value": "{semantic.transparent.primary}",
             "type": "color"
