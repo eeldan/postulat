@@ -1,14 +1,42 @@
 {
-  "color": {
-    "semantic": {
-      "brand": {
+  "semantic": {
+    "brand": {
+      "additional": {
+        "primary": {
+          "value": "{color.blue.500}",
+          "type": "color"
+        }
+      },
+      "main": {
         "primary": {
           "value": "{color.absolute.black}",
           "type": "color"
         },
         "secondary": {
-          "value": "{color.blue.500}",
-          "type": "color"
+          "value": "{color.absolute.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{color.absolute.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.32",
+                "space": "lch"
+              }
+            }
+          }
         }
       }
     }
