@@ -4,15 +4,15 @@
       "Button": {
         "Primary": {
           "bodyDefault": {
-            "value": "{semantic.main.primary}",
+            "value": "{semantic.brand.main.primary}",
             "type": "color"
           },
           "bodyPressed": {
-            "value": "{semantic.main.transparent8}",
+            "value": "{semantic.brand.main.secondary}",
             "type": "color"
           },
           "bodyDisabled": {
-            "value": "{semantic.main.transparent6}",
+            "value": "{semantic.brand.main.tertiary}",
             "type": "color"
           },
           "textDefault": {
