@@ -123,8 +123,16 @@
         "value": "{core.xBase} * 2",
         "type": "spacing"
       },
+      "250": {
+        "value": "{core.xBase} * 2.5",
+        "type": "spacing"
+      },
       "300": {
         "value": "{core.xBase} * 3",
+        "type": "spacing"
+      },
+      "350": {
+        "value": "{core.xBase} * 3.5",
         "type": "spacing"
       },
       "400": {
@@ -213,8 +221,16 @@
         "value": "{core.xBase} * 2",
         "type": "sizing"
       },
+      "250": {
+        "value": "{core.xBase} * 2.5",
+        "type": "sizing"
+      },
       "300": {
         "value": "{core.xBase} * 3",
+        "type": "sizing"
+      },
+      "350": {
+        "value": "{core.xBase} * 3.5",
         "type": "sizing"
       },
       "400": {
@@ -303,8 +319,16 @@
         "value": "{core.xBase} * 2",
         "type": "borderRadius"
       },
+      "250": {
+        "value": "{core.xBase} * 2.5",
+        "type": "borderRadius"
+      },
       "300": {
         "value": "{core.xBase} * 3",
+        "type": "borderRadius"
+      },
+      "350": {
+        "value": "{core.xBase} * 3.5",
         "type": "borderRadius"
       },
       "400": {

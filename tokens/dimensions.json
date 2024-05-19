@@ -1,43 +1,5 @@
 {
   "space": {
-    "semantic": {
-      "tiny": {
-        "value": "{core.space.50}",
-        "type": "spacing"
-      },
-      "small": {
-        "value": "{core.space.100}",
-        "type": "spacing"
-      },
-      "regular": {
-        "value": "{core.space.200}",
-        "type": "spacing"
-      },
-      "medium": {
-        "value": "{core.space.300}",
-        "type": "spacing"
-      },
-      "large": {
-        "value": "{core.space.400}",
-        "type": "spacing"
-      },
-      "huge": {
-        "value": "{core.space.500}",
-        "type": "spacing"
-      },
-      "massive": {
-        "value": "{core.space.600}",
-        "type": "spacing"
-      },
-      "gigantic": {
-        "value": "{core.space.800}",
-        "type": "spacing"
-      },
-      "colossal": {
-        "value": "{core.space.1000}",
-        "type": "spacing"
-      }
-    },
     "static": {
       "x05": {
         "value": "{core.space.50}",
@@ -45,6 +7,10 @@
       },
       "x1": {
         "value": "{core.space.100}",
+        "type": "spacing"
+      },
+      "x1,5": {
+        "value": "{core.space.100} * 1.5",
         "type": "spacing"
       },
       "x2": {
@@ -126,44 +92,6 @@
     }
   },
   "borderRadius": {
-    "semantic": {
-      "tiny": {
-        "value": "{core.space.50}",
-        "type": "borderRadius"
-      },
-      "small": {
-        "value": "{core.space.100}",
-        "type": "borderRadius"
-      },
-      "regular": {
-        "value": "{core.space.200}",
-        "type": "borderRadius"
-      },
-      "medium": {
-        "value": "{core.space.300}",
-        "type": "borderRadius"
-      },
-      "large": {
-        "value": "{core.space.400}",
-        "type": "borderRadius"
-      },
-      "huge": {
-        "value": "{core.space.500}",
-        "type": "borderRadius"
-      },
-      "massive": {
-        "value": "{core.space.600}",
-        "type": "borderRadius"
-      },
-      "gigantic": {
-        "value": "{core.space.800}",
-        "type": "borderRadius"
-      },
-      "colossal": {
-        "value": "{core.space.1000} - 2",
-        "type": "borderRadius"
-      }
-    },
     "static": {
       "x05": {
         "value": "{core.space.50}",
@@ -171,6 +99,10 @@
       },
       "x1": {
         "value": "{core.space.100}",
+        "type": "borderRadius"
+      },
+      "x1,5": {
+        "value": "{core.space.100} * 1.5",
         "type": "borderRadius"
       },
       "x2": {
@@ -252,48 +184,6 @@
     }
   },
   "size": {
-    "semantic": {
-      "tiny": {
-        "value": "{core.space.50}",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "{core.space.100}",
-        "type": "sizing"
-      },
-      "regular": {
-        "value": "{core.space.200}",
-        "type": "sizing"
-      },
-      "medium": {
-        "value": "{core.space.300}",
-        "type": "sizing"
-      },
-      "large": {
-        "value": "{core.space.400}",
-        "type": "sizing"
-      },
-      "huge": {
-        "value": "{core.space.600}",
-        "type": "sizing"
-      },
-      "fat": {
-        "value": "{core.space.700}",
-        "type": "sizing"
-      },
-      "massive": {
-        "value": "{core.space.800}",
-        "type": "sizing"
-      },
-      "gigantic": {
-        "value": "{core.space.1000}",
-        "type": "sizing"
-      },
-      "colossal": {
-        "value": "{core.space.1200}",
-        "type": "sizing"
-      }
-    },
     "static": {
       "x05": {
         "value": "{core.space.50}",
@@ -301,6 +191,10 @@
       },
       "x1": {
         "value": "{core.space.100}",
+        "type": "sizing"
+      },
+      "x1,5": {
+        "value": "{core.space.100} * 1.5",
         "type": "sizing"
       },
       "x2": {

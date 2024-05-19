@@ -9,7 +9,6 @@
     "semantic/typography",
     "component/iOS",
     "component/Android",
-    "dimensions",
-    "component deprecated"
+    "dimensions"
   ]
 }
