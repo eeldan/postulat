@@ -9,7 +9,7 @@
       "type": "spacing"
     },
     "x1,5": {
-      "value": "{core.space.100} * 1.5",
+      "value": "{core.space.150}",
       "type": "spacing"
     },
     "x2": {
@@ -99,7 +99,7 @@
       "type": "borderRadius"
     },
     "x1,5": {
-      "value": "{core.space.100} * 1.5",
+      "value": "{core.space.150}",
       "type": "borderRadius"
     },
     "x2": {
@@ -189,7 +189,7 @@
       "type": "sizing"
     },
     "x1,5": {
-      "value": "{core.space.100} * 1.5",
+      "value": "{core.space.150",
       "type": "sizing"
     },
     "x2": {
