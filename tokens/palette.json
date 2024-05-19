@@ -1,23 +1,5 @@
 {
-  "palette": {
-    "absolute": {
-      "white": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "black": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "transparentWhite": {
-        "value": "#fff0",
-        "type": "color"
-      },
-      "transparentBlack": {
-        "value": "#0000",
-        "type": "color"
-      }
-    },
+  "color": {
     "state": {
       "50": {
         "value": "#F8FAFC",
@@ -1990,6 +1972,24 @@
         "$extensions": {
           "studio.tokens": {}
         }
+      }
+    },
+    "absolute": {
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "transparentWhite": {
+        "value": "#fff0",
+        "type": "color"
+      },
+      "transparentBlack": {
+        "value": "#0000",
+        "type": "color"
       }
     }
   }

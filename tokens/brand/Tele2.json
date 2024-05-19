@@ -1,13 +1,15 @@
 {
-  "semantic": {
-    "brand": {
-      "primary": {
-        "value": "{palette.absolute.black}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{palette.blue.500}",
-        "type": "color"
+  "color": {
+    "semantic": {
+      "brand": {
+        "primary": {
+          "value": "{color.absolute.black}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.blue.500}",
+          "type": "color"
+        }
       }
     }
   }

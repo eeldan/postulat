@@ -6,6 +6,7 @@
     "brand/Altel",
     "semantic/light",
     "semantic/dark",
+    "semantic/typography",
     "component/iOS",
     "component/Android",
     "dimensions",
