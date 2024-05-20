@@ -40,6 +40,10 @@
       "value": "{core.space.700}",
       "type": "spacing"
     },
+    "x7,5": {
+      "value": "{core.space.750}",
+      "type": "spacing"
+    },
     "x8": {
       "value": "{core.space.800}",
       "type": "spacing"
@@ -134,6 +138,10 @@
       "value": "{core.space.700}",
       "type": "borderRadius"
     },
+    "x7,5": {
+      "value": "{core.space.750}",
+      "type": "borderRadius"
+    },
     "x8": {
       "value": "{core.space.800}",
       "type": "borderRadius"
@@ -226,6 +234,10 @@
     },
     "x7": {
       "value": "{core.space.700}",
+      "type": "sizing"
+    },
+    "x7,5": {
+      "value": "{core.space.750}",
       "type": "sizing"
     },
     "x8": {

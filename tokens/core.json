@@ -151,6 +151,10 @@
         "value": "{core.xBase} * 7",
         "type": "spacing"
       },
+      "750": {
+        "value": "{core.xBase} * 7.5",
+        "type": "spacing"
+      },
       "800": {
         "value": "{core.xBase} * 8",
         "type": "spacing"
@@ -249,6 +253,10 @@
         "value": "{core.xBase} * 7",
         "type": "sizing"
       },
+      "750": {
+        "value": "{core.xBase} * 7.5",
+        "type": "sizing"
+      },
       "800": {
         "value": "{core.xBase} * 8",
         "type": "sizing"
@@ -345,6 +353,10 @@
       },
       "700": {
         "value": "{core.xBase} * 7",
+        "type": "borderRadius"
+      },
+      "750": {
+        "value": "{core.xBase} * 7.5",
         "type": "borderRadius"
       },
       "800": {
