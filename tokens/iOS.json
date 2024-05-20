@@ -197,7 +197,7 @@
           "type": "color"
         },
         "iconDisabled": {
-          "value": "{semantic.main.transparent6}",
+          "value": "{semantic.icon.tertiary}",
           "type": "color"
         },
         "cursor": {
