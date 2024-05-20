@@ -215,7 +215,7 @@
           "type": "color"
         },
         "icon": {
-          "value": "{semantic.text.primary}",
+          "value": "{semantic.icon.primary}",
           "type": "color"
         }
       },
