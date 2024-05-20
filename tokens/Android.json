@@ -203,6 +203,10 @@
         "iconDisabled": {
           "value": "{semantic.main.transparent6}",
           "type": "color"
+        },
+        "cursor": {
+          "value": "{semantic.accent.primary}",
+          "type": "color"
         }
       },
       "subhead": {
