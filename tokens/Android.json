@@ -165,11 +165,11 @@
           "type": "color"
         },
         "textPlaceholderDefault": {
-          "value": "{semantic.main.transparent9}",
+          "value": "{semantic.text.secondary}",
           "type": "color"
         },
         "textPlaceholderDisabled": {
-          "value": "{semantic.main.transparent6}",
+          "value": "{semantic.text.tertiary}",
           "type": "color"
         },
         "borderDefault": {
