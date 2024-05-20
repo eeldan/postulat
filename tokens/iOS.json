@@ -343,11 +343,7 @@
             "value": "{semantic.main.primary}",
             "type": "color"
           },
-          "knobDefault": {
-            "value": "{semantic.static.white.primary}",
-            "type": "color"
-          },
-          "knobSelected": {
+          "knob": {
             "value": "{semantic.static.white.primary}",
             "type": "color"
           }
@@ -361,12 +357,8 @@
             "value": "{semantic.main.transparent4}",
             "type": "color"
           },
-          "knobDefault": {
-            "value": "{semantic.muted.transparent8}",
-            "type": "color"
-          },
-          "knobSelected": {
-            "value": "{semantic.muted.transparent8}",
+          "knob": {
+            "value": "{semantic.muted.transparent10}",
             "type": "color"
           }
         }

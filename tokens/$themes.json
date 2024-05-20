@@ -489,7 +489,7 @@
       "semantic.icon.staticPrimaryBlack": "bae2284482f7a07ec48bed4ad65c8b963dbefc9e",
       "semantic.icon.staticSecondary": "d59488adbb218be7cb4055c1a335f972929b65d4",
       "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8",
-      "component.ios.switch.enabled.knobDefault": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c"
+      "component.ios.switch.enabled.knob": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c"
     },
     "group": "Theme"
   },
@@ -872,7 +872,7 @@
       "semantic.icon.staticPrimaryBlack": "bae2284482f7a07ec48bed4ad65c8b963dbefc9e",
       "semantic.icon.staticSecondary": "d59488adbb218be7cb4055c1a335f972929b65d4",
       "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8",
-      "component.ios.switch.enabled.knobDefault": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c"
+      "component.ios.switch.enabled.knob": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c"
     },
     "group": "Theme"
   }
