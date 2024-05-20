@@ -376,7 +376,6 @@
       "component.ios.switch.enabled.bodySelected": "73403bc6e4bcc652e44f166ff9ec78ae8e3ce641",
       "component.ios.switch.disabled.bodyDefault": "78888f33f733b089f823cc41bf4d2d04fc14b2e6",
       "component.ios.switch.disabled.bodySelected": "d9994a0451b4bac42d764360b7c901e01109d0e0",
-      "component.ios.switch.knob": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c",
       "component.ios.cell.bodyDefault": "9b20dfe606ea51aae82446d46938fa763c6292c0",
       "component.ios.cell.textTitle": "3b262555eac543ab4a306ded25385a2c76a32a8d",
       "component.ios.cell.textSubtitle": "590a8102731ea549bb16f72763d8e95d780b2574",
@@ -489,7 +488,8 @@
       "semantic.icon.staticSecondaryWhite": "6b45e8c0f9d8b288dfa66af26b7acb3cc06e044f",
       "semantic.icon.staticPrimaryBlack": "bae2284482f7a07ec48bed4ad65c8b963dbefc9e",
       "semantic.icon.staticSecondary": "d59488adbb218be7cb4055c1a335f972929b65d4",
-      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8"
+      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8",
+      "component.ios.switch.enabled.knobDefault": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c"
     },
     "group": "Theme"
   },
@@ -759,7 +759,6 @@
       "component.ios.switch.enabled.bodySelected": "73403bc6e4bcc652e44f166ff9ec78ae8e3ce641",
       "component.ios.switch.disabled.bodyDefault": "78888f33f733b089f823cc41bf4d2d04fc14b2e6",
       "component.ios.switch.disabled.bodySelected": "d9994a0451b4bac42d764360b7c901e01109d0e0",
-      "component.ios.switch.knob": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c",
       "component.ios.cell.bodyDefault": "9b20dfe606ea51aae82446d46938fa763c6292c0",
       "component.ios.cell.textTitle": "3b262555eac543ab4a306ded25385a2c76a32a8d",
       "component.ios.cell.textSubtitle": "590a8102731ea549bb16f72763d8e95d780b2574",
@@ -872,7 +871,8 @@
       "semantic.icon.staticSecondaryWhite": "6b45e8c0f9d8b288dfa66af26b7acb3cc06e044f",
       "semantic.icon.staticPrimaryBlack": "bae2284482f7a07ec48bed4ad65c8b963dbefc9e",
       "semantic.icon.staticSecondary": "d59488adbb218be7cb4055c1a335f972929b65d4",
-      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8"
+      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8",
+      "component.ios.switch.enabled.knobDefault": "f8082262161a4f6fc3147d9e8c5e93e0e7f9933c"
     },
     "group": "Theme"
   }

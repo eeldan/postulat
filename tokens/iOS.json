@@ -342,6 +342,14 @@
           "bodySelected": {
             "value": "{semantic.main.primary}",
             "type": "color"
+          },
+          "knobDefault": {
+            "value": "{semantic.static.white.primary}",
+            "type": "color"
+          },
+          "knobSelected": {
+            "value": "{semantic.static.white.primary}",
+            "type": "color"
           }
         },
         "disabled": {
@@ -352,11 +360,15 @@
           "bodySelected": {
             "value": "{semantic.main.transparent4}",
             "type": "color"
+          },
+          "knobDefault": {
+            "value": "{semantic.muted.transparent8}",
+            "type": "color"
+          },
+          "knobSelected": {
+            "value": "{semantic.muted.transparent8}",
+            "type": "color"
           }
-        },
-        "knob": {
-          "value": "{semantic.static.white.primary}",
-          "type": "color"
         }
       },
       "cell": {
