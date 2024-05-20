@@ -715,6 +715,10 @@
         "value": "{semantic.main.transparent7}",
         "type": "color"
       },
+      "tertiary": {
+        "value": "{semantic.main.transparent4}",
+        "type": "color"
+      },
       "accent": {
         "value": "{semantic.accent.primary}",
         "type": "color"
@@ -763,6 +767,10 @@
       },
       "secondary": {
         "value": "{semantic.main.transparent7}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{semantic.main.transparent4}",
         "type": "color"
       },
       "accent": {
