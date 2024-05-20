@@ -308,12 +308,12 @@
             "type": "color"
           },
           "separator": {
-            "value": "{semantic.main.transparent3}",
+            "value": "{semantic.main.transparent7}",
             "type": "color"
           }
         },
         "body": {
-          "value": "{semantic.main.transparent2}",
+          "value": "{semantic.main.transparent1}",
           "type": "color"
         }
       },
