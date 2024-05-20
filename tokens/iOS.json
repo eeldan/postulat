@@ -193,7 +193,7 @@
           "type": "color"
         },
         "iconDefault": {
-          "value": "{semantic.main.primary}",
+          "value": "{semantic.icon.primary}",
           "type": "color"
         },
         "iconDisabled": {

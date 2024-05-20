@@ -101,10 +101,6 @@
             "value": "{semantic.accent.primary}",
             "type": "color"
           },
-          "textHover": {
-            "value": "{semantic.accent.secondary}",
-            "type": "color"
-          },
           "textPressed": {
             "value": "{semantic.accent.tertiary}",
             "type": "color"
@@ -197,11 +193,11 @@
           "type": "color"
         },
         "iconDefault": {
-          "value": "{semantic.main.primary}",
+          "value": "{semantic.icon.primary}",
           "type": "color"
         },
         "iconDisabled": {
-          "value": "{semantic.main.transparent6}",
+          "value": "{semantic.icon.tertiary}",
           "type": "color"
         },
         "cursor": {
