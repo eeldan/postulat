@@ -243,7 +243,7 @@
           "type": "color"
         },
         "divider": {
-          "value": "{semantic.main.transparent5}",
+          "value": "{semantic.main.transparent2}",
           "type": "color"
         },
         "grabBar": {
@@ -391,6 +391,10 @@
         "icon": {
           "value": "{semantic.main.transparent4}",
           "type": "color"
+        },
+        "divider": {
+          "value": "{semantic.main.transparent2}",
+          "type": "color"
         }
       },
       "snackBar": {
@@ -412,6 +416,24 @@
         },
         "bodyError": {
           "value": "{semantic.accent.primary}",
+          "type": "color"
+        }
+      },
+      "amount": {
+        "textValueMajor": {
+          "value": "{semantic.text.primary}",
+          "type": "color"
+        },
+        "textValueMinor": {
+          "value": "{semantic.text.primary}",
+          "type": "color"
+        },
+        "textCurrencySymbol": {
+          "value": "{semantic.text.primary}",
+          "type": "color"
+        },
+        "textMathSymbol": {
+          "value": "{semantic.text.primary}",
           "type": "color"
         }
       }

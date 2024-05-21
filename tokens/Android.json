@@ -307,10 +307,6 @@
             "value": "{semantic.icon.primary}",
             "type": "color"
           }
-        },
-        "body": {
-          "value": "{semantic.main.transparent2}",
-          "type": "color"
         }
       },
       "tab": {
@@ -432,6 +428,24 @@
         },
         "bodyError": {
           "value": "{semantic.accent.primary}",
+          "type": "color"
+        }
+      },
+      "amount": {
+        "textValueMajor": {
+          "value": "{semantic.text.primary}",
+          "type": "color"
+        },
+        "textValueMinor": {
+          "value": "{semantic.text.primary}",
+          "type": "color"
+        },
+        "textCurrencySymbol": {
+          "value": "{semantic.text.primary}",
+          "type": "color"
+        },
+        "textMathSymbol": {
+          "value": "{semantic.text.primary}",
           "type": "color"
         }
       }
