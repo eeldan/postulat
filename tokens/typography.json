@@ -64,7 +64,7 @@
         "type": "typography"
       }
     },
-    "body": {
+    "label": {
       "regular": {
         "large": {
           "value": {
@@ -211,7 +211,7 @@
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.medium}",
           "letterSpacing": "{core.letterSpacing.sfPro.displayM}",
-          "lineHeight": "{core.lineheight.body.medium}"
+          "lineHeight": "{core.lineheight.display.medium}"
         },
         "type": "typography"
       },
@@ -258,7 +258,7 @@
         "type": "typography"
       }
     },
-    "body": {
+    "label": {
       "regular": {
         "large": {
           "value": {
