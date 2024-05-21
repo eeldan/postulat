@@ -105,14 +105,14 @@
       "android.body.accent.medium": "S:844a506fb06d0bd80dea2b669737873d5e5e8b0e,",
       "android.body.accent.small": "S:85fbf113a4a08e657241e121f7d9b239ceab3e65,",
       "android.body.accent.xsmall": "S:c747185e03926d1be37250fe19d014429a9eb87e,",
-      "ios.body.paragraph.large": "S:76e5a6cf3774e6ae8d5ae40db38395cc246399aa,",
-      "ios.body.paragraph.medium": "S:7ea3011653fde88c44472ca471bd320fb8604b41,",
-      "ios.body.paragraph.small": "S:f0758d4474904e6f94726560e3ae6b808f68a773,",
-      "ios.body.paragraph.xsmall": "S:37fcb0594a757652fa5a225ef1bbc27cf6176548,",
-      "android.body.paragraph.large": "S:44b9b7afb8791f1a5d9354a8d068a715bb5eb02d,",
-      "android.body.paragraph.medium": "S:a5347c520e26b92f42ae92fc5a8dfc1b85d61250,",
-      "android.body.paragraph.small": "S:a05e02eae38b5eff2fc5270d4bbbfee0ec18e44c,",
-      "android.body.paragraph.xsmall": "S:fdf1b6f316cb206dc85d226ed56d8f68aeca2e42,"
+      "android.paragraph.large": "S:44b9b7afb8791f1a5d9354a8d068a715bb5eb02d,",
+      "android.paragraph.medium": "S:a5347c520e26b92f42ae92fc5a8dfc1b85d61250,",
+      "android.paragraph.small": "S:a05e02eae38b5eff2fc5270d4bbbfee0ec18e44c,",
+      "android.paragraph.xsmall": "S:fdf1b6f316cb206dc85d226ed56d8f68aeca2e42,",
+      "ios.paragraph.large": "S:76e5a6cf3774e6ae8d5ae40db38395cc246399aa,",
+      "ios.paragraph.medium": "S:7ea3011653fde88c44472ca471bd320fb8604b41,",
+      "ios.paragraph.small": "S:f0758d4474904e6f94726560e3ae6b808f68a773,",
+      "ios.paragraph.xsmall": "S:37fcb0594a757652fa5a225ef1bbc27cf6176548,"
     },
     "selectedTokenSets": {
       "core": "source",
