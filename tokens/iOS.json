@@ -436,6 +436,22 @@
           "value": "{semantic.text.primary}",
           "type": "color"
         }
+      },
+      "graphicContainer": {
+        "textInitial": {
+          "value": "{semantic.text.staticPrimaryWhite}",
+          "type": "color"
+        },
+        "body": {
+          "primary": {
+            "value": "{semantic.main.transparent1}",
+            "type": "color"
+          },
+          "gradient1": {
+            "value": "linear-gradient(135deg, {core.palette.gray.400} , {core.palette.gray.500} )",
+            "type": "color"
+          }
+        }
       }
     }
   }

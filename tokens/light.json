@@ -813,6 +813,20 @@
         "value": "{core.palette.absolute.white}",
         "type": "color"
       }
+    },
+    "gradient": {
+      "1": {
+        "value": "linear-gradient(135deg, {core.palette.gray.400} 100% , {core.palette.gray.500} 100% )",
+        "type": "color"
+      },
+      "2": {
+        "value": "linear-gradient(135deg, {core.palette.red.500} 100% , {core.palette.red.600} 100% )",
+        "type": "color"
+      },
+      "3": {
+        "value": "linear-gradient(135deg, {core.palette.orange.300} 100% , {core.palette.orange.500} 100% )",
+        "type": "color"
+      }
     }
   }
 }
