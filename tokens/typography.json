@@ -6,7 +6,8 @@
           "fontFamily": "{core.fontFamily.sfPro.display}",
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.large}",
-          "letterSpacing": "{core.letterSpacing.sfPro.displayL}"
+          "letterSpacing": "{core.letterSpacing.sfPro.displayL}",
+          "lineHeight": "{core.lineheight.display.large}"
         },
         "type": "typography"
       },
@@ -15,7 +16,8 @@
           "fontFamily": "{core.fontFamily.sfPro.display}",
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.medium}",
-          "letterSpacing": "{core.letterSpacing.sfPro.displayM}"
+          "letterSpacing": "{core.letterSpacing.sfPro.displayM}",
+          "lineHeight": "{core.lineheight.display.medium}"
         },
         "type": "typography"
       },
@@ -24,7 +26,8 @@
           "fontFamily": "{core.fontFamily.sfPro.display}",
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.small}",
-          "letterSpacing": "{core.letterSpacing.sfPro.displayS}"
+          "letterSpacing": "{core.letterSpacing.sfPro.displayS}",
+          "lineHeight": "{core.lineheight.display.small}"
         },
         "type": "typography"
       }
@@ -35,25 +38,28 @@
           "fontFamily": "{core.fontFamily.sfPro.heading}",
           "fontWeight": "{core.fontWeight.semiBold}",
           "fontSize": "{core.fontSize.title.large}",
-          "letterSpacing": "{core.letterSpacing.sfPro.titleL}"
+          "letterSpacing": "{core.letterSpacing.sfPro.titleL}",
+          "lineHeight": "{core.lineheight.title.large}"
         },
         "type": "typography"
       },
       "medium": {
         "value": {
           "fontFamily": "{core.fontFamily.sfPro.heading}",
-          "fontWeight": "{core.fontWeight.bold}",
+          "fontWeight": "{core.fontWeight.semiBold}",
           "fontSize": "{core.fontSize.title.medium}",
-          "letterSpacing": "{core.letterSpacing.sfPro.titleM}"
+          "letterSpacing": "{core.letterSpacing.sfPro.titleM}",
+          "lineHeight": "{core.lineheight.title.medium}"
         },
         "type": "typography"
       },
       "small": {
         "value": {
           "fontFamily": "{core.fontFamily.sfPro.heading}",
-          "fontWeight": "{core.fontWeight.bold}",
+          "fontWeight": "{core.fontWeight.semiBold}",
           "fontSize": "{core.fontSize.title.small}",
-          "letterSpacing": "{core.letterSpacing.sfPro.titleS}"
+          "letterSpacing": "{core.letterSpacing.sfPro.titleS}",
+          "lineHeight": "{core.lineheight.title.small}"
         },
         "type": "typography"
       }
@@ -65,7 +71,8 @@
             "fontFamily": "{core.fontFamily.sfPro.body}",
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.large}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseL}"
+            "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
+            "lineHeight": "{core.lineheight.body.large}"
           },
           "type": "typography"
         },
@@ -74,7 +81,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.medium}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
           },
           "type": "typography"
         },
@@ -83,7 +91,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.small}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.small}"
           },
           "type": "typography"
         },
@@ -92,7 +101,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.xsmall}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
           },
           "type": "typography"
         }
@@ -103,7 +113,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.large}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.large}"
           },
           "type": "typography"
         },
@@ -112,7 +123,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.medium}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
           },
           "type": "typography"
         },
@@ -121,7 +133,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.small}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.small}"
           },
           "type": "typography"
         },
@@ -130,7 +143,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.xsmall}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
           },
           "type": "typography"
         }
@@ -151,7 +165,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.medium}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
           },
           "type": "typography"
         },
@@ -160,7 +175,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.small}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.small}"
           },
           "type": "typography"
         },
@@ -169,7 +185,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.xsmall}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
-            "fontFamily": "{core.fontFamily.sfPro.body}"
+            "fontFamily": "{core.fontFamily.sfPro.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
           },
           "type": "typography"
         }
@@ -183,7 +200,8 @@
           "fontFamily": "{core.fontFamily.inter.display}",
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.large}",
-          "letterSpacing": "{core.letterSpacing.sfPro.displayL}"
+          "letterSpacing": "{core.letterSpacing.sfPro.displayL}",
+          "lineHeight": "{core.lineheight.display.large}"
         },
         "type": "typography"
       },
@@ -192,7 +210,8 @@
           "fontFamily": "{core.fontFamily.inter.display}",
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.medium}",
-          "letterSpacing": "{core.letterSpacing.sfPro.displayM}"
+          "letterSpacing": "{core.letterSpacing.sfPro.displayM}",
+          "lineHeight": "{core.lineheight.body.medium}"
         },
         "type": "typography"
       },
@@ -201,7 +220,8 @@
           "fontFamily": "{core.fontFamily.inter.display}",
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.small}",
-          "letterSpacing": "{core.letterSpacing.sfPro.displayS}"
+          "letterSpacing": "{core.letterSpacing.sfPro.displayS}",
+          "lineHeight": "{core.lineheight.display.small}"
         },
         "type": "typography"
       }
@@ -212,25 +232,28 @@
           "fontFamily": "{core.fontFamily.inter.heading}",
           "fontWeight": "{core.fontWeight.semiBold}",
           "fontSize": "{core.fontSize.title.large}",
-          "letterSpacing": "{core.letterSpacing.sfPro.titleL}"
+          "letterSpacing": "{core.letterSpacing.sfPro.titleL}",
+          "lineHeight": "{core.lineheight.title.large}"
         },
         "type": "typography"
       },
       "medium": {
         "value": {
-          "fontWeight": "{core.fontWeight.bold}",
+          "fontWeight": "{core.fontWeight.semiBold}",
           "fontSize": "{core.fontSize.title.medium}",
           "letterSpacing": "{core.letterSpacing.sfPro.titleM}",
-          "fontFamily": "{core.fontFamily.inter.heading}"
+          "fontFamily": "{core.fontFamily.inter.heading}",
+          "lineHeight": "{core.lineheight.title.medium}"
         },
         "type": "typography"
       },
       "small": {
         "value": {
-          "fontWeight": "{core.fontWeight.bold}",
+          "fontWeight": "{core.fontWeight.semiBold}",
           "fontSize": "{core.fontSize.title.small}",
           "letterSpacing": "{core.letterSpacing.sfPro.titleS}",
-          "fontFamily": "{core.fontFamily.inter.heading}"
+          "fontFamily": "{core.fontFamily.inter.heading}",
+          "lineHeight": "{core.lineheight.title.small}"
         },
         "type": "typography"
       }
@@ -242,7 +265,8 @@
             "fontFamily": "{core.fontFamily.inter.body}",
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.large}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseL}"
+            "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
+            "lineHeight": "{core.lineheight.body.large}"
           },
           "type": "typography"
         },
@@ -251,7 +275,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.medium}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
           },
           "type": "typography"
         },
@@ -260,7 +285,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.small}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.small}"
           },
           "type": "typography"
         },
@@ -269,7 +295,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.xsmall}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
           },
           "type": "typography"
         }
@@ -280,7 +307,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.large}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.large}"
           },
           "type": "typography"
         },
@@ -289,7 +317,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.medium}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
           },
           "type": "typography"
         },
@@ -298,7 +327,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.small}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.small}"
           },
           "type": "typography"
         },
@@ -307,7 +337,8 @@
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.xsmall}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
           },
           "type": "typography"
         }
@@ -328,7 +359,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.medium}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
           },
           "type": "typography"
         },
@@ -337,7 +369,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.small}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.small}"
           },
           "type": "typography"
         },
@@ -346,7 +379,8 @@
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.xsmall}",
             "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
-            "fontFamily": "{core.fontFamily.inter.body}"
+            "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
           },
           "type": "typography"
         }
