@@ -142,14 +142,14 @@
       "android.label.accent.medium": "S:844a506fb06d0bd80dea2b669737873d5e5e8b0e,",
       "android.label.accent.small": "S:85fbf113a4a08e657241e121f7d9b239ceab3e65,",
       "android.label.accent.xsmall": "S:c747185e03926d1be37250fe19d014429a9eb87e,",
-      "ios.label.regular.large": "S:d17fdba98f78aecb3d210e170276eee58ab65660,",
-      "ios.label.regular.medium": "S:7d461209a9f3fb9b263672aff94f2347151de181,",
-      "ios.label.regular.small": "S:edc3943f3c9710e6a1575d4c315eefc11e6691f7,",
-      "ios.label.regular.xsmall": "S:4468eb01a293bb834bcc6f3510a0ab09fb119cf1,",
-      "ios.label.accent.large": "S:3ae383b958b1325ab98060a30ed58af8bc4dfc33,",
-      "ios.label.accent.medium": "S:517dc413421180d12a61c372791c5609c285da9c,",
-      "ios.label.accent.small": "S:66e4616bc0c21ba4eee0e5166d0a1a02ddb6c295,",
-      "ios.label.accent.xsmall": "S:e1cebcf348e3a131258c0beb1dca88f0adc0aa72,"
+      "ios.label.regular.large": "S:d76df4cef47a65cdc8d66a323c883a7cbbe1a0fa,",
+      "ios.label.regular.medium": "S:5e81a1044d04c7c50b9938759ef091256502e65e,",
+      "ios.label.regular.small": "S:96be20fdf1075853b48227ba094cbee36c434c50,",
+      "ios.label.regular.xsmall": "S:f315f5b73dc3769056cb22df17b478a86c28a3fd,",
+      "ios.label.accent.large": "S:030ca8d85b445be04dba85530d9d2e8760d1de90,",
+      "ios.label.accent.medium": "S:7dd6a60d380c61e29fe7c212ced28f633cf7cd35,",
+      "ios.label.accent.small": "S:97285601950afc4a333b22a99bfe8dda460f1b1a,",
+      "ios.label.accent.xsmall": "S:061e0b760006cb926a95893990889e2ef05e678c,"
     },
     "selectedTokenSets": {
       "core": "source",
