@@ -387,7 +387,6 @@
       "component.ios.subhead.textDiscription": "6ff6a6088f8764bf83835b6878ebb06bfa4ba6da",
       "component.ios.subhead.icon": "3fe0993faee773c491ec28f970d94938b471fee1",
       "component.ios.statusMessage.TextError": "205781805ef2dda58be5899f9cdc348d8d9882fc",
-      "component.ios.navBar.bodyFilled": "b3d4b6f4b5418fd3964c4b7984a50f3326156d42",
       "component.ios.navBar.bodyGhost": "9a640ada39142592019cfc4ab8bc5c2cdf927954",
       "component.ios.navBar.textTitle": "381f815fa97756c16bdd6a86c764573b85833d1c",
       "component.ios.navBar.textSubtitle": "61164de1beb01675ab4dbfd6264710fe1e572ee1",
@@ -535,7 +534,8 @@
       "semantic.icon.staticSecondaryWhite": "6b45e8c0f9d8b288dfa66af26b7acb3cc06e044f",
       "semantic.icon.staticPrimaryBlack": "bae2284482f7a07ec48bed4ad65c8b963dbefc9e",
       "semantic.icon.staticSecondary": "d59488adbb218be7cb4055c1a335f972929b65d4",
-      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8"
+      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8",
+      "component.ios.navBar.body": "b3d4b6f4b5418fd3964c4b7984a50f3326156d42"
     },
     "group": "Theme"
   },
@@ -808,7 +808,6 @@
       "component.ios.subhead.textDiscription": "6ff6a6088f8764bf83835b6878ebb06bfa4ba6da",
       "component.ios.subhead.icon": "3fe0993faee773c491ec28f970d94938b471fee1",
       "component.ios.statusMessage.TextError": "205781805ef2dda58be5899f9cdc348d8d9882fc",
-      "component.ios.navBar.bodyFilled": "b3d4b6f4b5418fd3964c4b7984a50f3326156d42",
       "component.ios.navBar.bodyGhost": "9a640ada39142592019cfc4ab8bc5c2cdf927954",
       "component.ios.navBar.textTitle": "381f815fa97756c16bdd6a86c764573b85833d1c",
       "component.ios.navBar.textSubtitle": "61164de1beb01675ab4dbfd6264710fe1e572ee1",
@@ -956,7 +955,8 @@
       "semantic.icon.staticSecondaryWhite": "6b45e8c0f9d8b288dfa66af26b7acb3cc06e044f",
       "semantic.icon.staticPrimaryBlack": "bae2284482f7a07ec48bed4ad65c8b963dbefc9e",
       "semantic.icon.staticSecondary": "d59488adbb218be7cb4055c1a335f972929b65d4",
-      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8"
+      "semantic.icon.inverted": "0db8bd618eb4ca2372caca8aea763adf7fa4f4b8",
+      "component.ios.navBar.body": "b3d4b6f4b5418fd3964c4b7984a50f3326156d42"
     },
     "group": "Theme"
   }

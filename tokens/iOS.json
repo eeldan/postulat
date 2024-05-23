@@ -222,7 +222,7 @@
         }
       },
       "navBar": {
-        "bodyFilled": {
+        "body": {
           "value": "{semantic.muted.transparent9}",
           "type": "color"
         },
