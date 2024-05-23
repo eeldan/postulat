@@ -113,10 +113,6 @@
             "value": "{semantic.accent.primary}",
             "type": "color"
           },
-          "iconHover": {
-            "value": "{semantic.accent.secondary}",
-            "type": "color"
-          },
           "iconPressed": {
             "value": "{semantic.accent.tertiary}",
             "type": "color"
