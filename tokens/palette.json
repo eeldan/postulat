@@ -11,11 +11,11 @@
           "type": "color"
         },
         "transparentWhite": {
-          "value": "#fff0",
+          "value": "#fff000",
           "type": "color"
         },
         "transparentBlack": {
-          "value": "#0000",
+          "value": "#0000FF",
           "type": "color"
         }
       },
@@ -645,7 +645,7 @@
       },
       "amber": {
         "50": {
-          "value": "#FFFBEB",
+          "value": "#FFFFFF",
           "type": "color",
           "description": "APCA: AAA",
           "$extensions": {

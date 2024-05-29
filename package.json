@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build-ios": "node build-ios.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.9.2"
+  }
+}
