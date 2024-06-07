@@ -148,6 +148,48 @@
           },
           "type": "typography"
         }
+      },
+      "mono": {
+        "large": {
+          "value": {
+            "fontWeight": "{core.fontWeight.semiBold}",
+            "fontSize": "{core.fontSize.base.large}",
+            "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
+            "fontFamily": "{core.fontFamily.sfMono.body}",
+            "lineHeight": "{core.lineheight.body.large}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontWeight": "{core.fontWeight.semiBold}",
+            "fontSize": "{core.fontSize.base.medium}",
+            "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
+            "fontFamily": "{core.fontFamily.sfMono.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontWeight": "{core.fontWeight.semiBold}",
+            "fontSize": "{core.fontSize.base.small}",
+            "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
+            "fontFamily": "{core.fontFamily.sfMono.body}",
+            "lineHeight": "{core.lineheight.body.small}"
+          },
+          "type": "typography"
+        },
+        "xsmall": {
+          "value": {
+            "fontWeight": "{core.fontWeight.semiBold}",
+            "fontSize": "{core.fontSize.base.xsmall}",
+            "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
+            "fontFamily": "{core.fontFamily.sfMono.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
+          },
+          "type": "typography"
+        }
       }
     },
     "paragraph": {
@@ -200,7 +242,7 @@
           "fontFamily": "{core.fontFamily.inter.display}",
           "fontWeight": "{core.fontWeight.bold}",
           "fontSize": "{core.fontSize.display.large}",
-          "letterSpacing": "{core.letterSpacing.sfPro.displayL}",
+          "letterSpacing": "{core.letterSpacing.inter.displayL}",
           "lineHeight": "{core.lineheight.display.large}"
         },
         "type": "typography"
@@ -265,7 +307,7 @@
             "fontFamily": "{core.fontFamily.inter.body}",
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.large}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
+            "letterSpacing": "{core.letterSpacing.inter.baseL}",
             "lineHeight": "{core.lineheight.body.large}"
           },
           "type": "typography"
@@ -274,7 +316,7 @@
           "value": {
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.medium}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
+            "letterSpacing": "{core.letterSpacing.inter.baseM}",
             "fontFamily": "{core.fontFamily.inter.body}",
             "lineHeight": "{core.lineheight.body.medium}"
           },
@@ -284,7 +326,7 @@
           "value": {
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.small}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
+            "letterSpacing": "{core.letterSpacing.inter.baseS}",
             "fontFamily": "{core.fontFamily.inter.body}",
             "lineHeight": "{core.lineheight.body.small}"
           },
@@ -294,7 +336,7 @@
           "value": {
             "fontWeight": "{core.fontWeight.regular}",
             "fontSize": "{core.fontSize.base.xsmall}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
+            "letterSpacing": "{core.letterSpacing.inter.baseXS}",
             "fontFamily": "{core.fontFamily.inter.body}",
             "lineHeight": "{core.lineheight.body.xsmall}"
           },
@@ -306,7 +348,7 @@
           "value": {
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.large}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
+            "letterSpacing": "{core.letterSpacing.inter.baseL}",
             "fontFamily": "{core.fontFamily.inter.body}",
             "lineHeight": "{core.lineheight.body.large}"
           },
@@ -316,7 +358,7 @@
           "value": {
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.medium}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
+            "letterSpacing": "{core.letterSpacing.inter.baseM}",
             "fontFamily": "{core.fontFamily.inter.body}",
             "lineHeight": "{core.lineheight.body.medium}"
           },
@@ -326,7 +368,7 @@
           "value": {
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.small}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
+            "letterSpacing": "{core.letterSpacing.inter.baseS}",
             "fontFamily": "{core.fontFamily.inter.body}",
             "lineHeight": "{core.lineheight.body.small}"
           },
@@ -336,8 +378,50 @@
           "value": {
             "fontWeight": "{core.fontWeight.semiBold}",
             "fontSize": "{core.fontSize.base.xsmall}",
-            "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
+            "letterSpacing": "{core.letterSpacing.inter.baseXS}",
             "fontFamily": "{core.fontFamily.inter.body}",
+            "lineHeight": "{core.lineheight.body.xsmall}"
+          },
+          "type": "typography"
+        }
+      },
+      "mono": {
+        "large": {
+          "value": {
+            "fontWeight": "{core.fontWeight.regular}",
+            "fontSize": "{core.fontSize.base.large}",
+            "letterSpacing": "{core.letterSpacing.inter.baseL}",
+            "fontFamily": "{core.fontFamily.ibmPlexMono.body}",
+            "lineHeight": "{core.lineheight.body.large}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontWeight": "{core.fontWeight.regular}",
+            "fontSize": "{core.fontSize.base.medium}",
+            "letterSpacing": "{core.letterSpacing.inter.baseM}",
+            "fontFamily": "{core.fontFamily.ibmPlexMono.body}",
+            "lineHeight": "{core.lineheight.body.medium}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontWeight": "{core.fontWeight.regular}",
+            "fontSize": "{core.fontSize.base.small}",
+            "letterSpacing": "{core.letterSpacing.inter.baseS}",
+            "fontFamily": "{core.fontFamily.ibmPlexMono.body}",
+            "lineHeight": "{core.lineheight.body.small}"
+          },
+          "type": "typography"
+        },
+        "xsmall": {
+          "value": {
+            "fontWeight": "{core.fontWeight.regular}",
+            "fontSize": "{core.fontSize.base.xsmall}",
+            "letterSpacing": "{core.letterSpacing.inter.baseXS}",
+            "fontFamily": "{core.fontFamily.ibmPlexMono.body}",
             "lineHeight": "{core.lineheight.body.xsmall}"
           },
           "type": "typography"
@@ -350,7 +434,7 @@
           "fontFamily": "{core.fontFamily.inter.body}",
           "fontWeight": "{core.fontWeight.regular}",
           "fontSize": "{core.fontSize.base.large}",
-          "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
+          "letterSpacing": "{core.letterSpacing.inter.baseL}",
           "lineHeight": "{core.lineheight.body.large}"
         },
         "type": "typography"
@@ -359,7 +443,7 @@
         "value": {
           "fontWeight": "{core.fontWeight.regular}",
           "fontSize": "{core.fontSize.base.medium}",
-          "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
+          "letterSpacing": "{core.letterSpacing.inter.baseM}",
           "fontFamily": "{core.fontFamily.inter.body}",
           "lineHeight": "{core.lineheight.body.medium}"
         },
@@ -369,7 +453,7 @@
         "value": {
           "fontWeight": "{core.fontWeight.regular}",
           "fontSize": "{core.fontSize.base.small}",
-          "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
+          "letterSpacing": "{core.letterSpacing.inter.baseS}",
           "fontFamily": "{core.fontFamily.inter.body}",
           "lineHeight": "{core.lineheight.body.small}"
         },
@@ -379,7 +463,7 @@
         "value": {
           "fontWeight": "{core.fontWeight.regular}",
           "fontSize": "{core.fontSize.base.xsmall}",
-          "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
+          "letterSpacing": "{core.letterSpacing.inter.baseXS}",
           "fontFamily": "{core.fontFamily.inter.body}",
           "lineHeight": "{core.lineheight.body.xsmall}"
         },

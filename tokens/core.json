@@ -28,6 +28,34 @@
           "value": "SF Pro",
           "type": "fontFamilies"
         }
+      },
+      "sfMono": {
+        "display": {
+          "value": "SF Mono",
+          "type": "fontFamilies"
+        },
+        "heading": {
+          "value": "SF Mono",
+          "type": "fontFamilies"
+        },
+        "body": {
+          "value": "SF Mono",
+          "type": "fontFamilies"
+        }
+      },
+      "ibmPlexMono": {
+        "display": {
+          "value": "IBM Plex Mono",
+          "type": "fontFamilies"
+        },
+        "heading": {
+          "value": "IBM Plex Mono",
+          "type": "fontFamilies"
+        },
+        "body": {
+          "value": "IBM Plex Mono",
+          "type": "fontFamilies"
+        }
       }
     },
     "fontWeight": {

@@ -201,6 +201,72 @@
           "type": "color"
         }
       },
+      "chips": {
+        "unselected": {
+          "bodyDisabled": {
+            "value": "{semantic.main.transparent1}",
+            "type": "color"
+          },
+          "bodyPressed": {
+            "value": "{semantic.muted.transparent9}",
+            "type": "color"
+          },
+          "borderDisabled": {
+            "value": "{semantic.main.transparent8}",
+            "type": "color"
+          },
+          "iconDefault": {
+            "value": "{semantic.icon.primary}",
+            "type": "color"
+          },
+          "iconDisabled": {
+            "value": "{semantic.icon.tertiary}",
+            "type": "color"
+          },
+          "textDefault": {
+            "value": "{semantic.text.primary}",
+            "type": "color"
+          },
+          "textDisabled": {
+            "value": "{semantic.main.transparent1}",
+            "type": "color"
+          },
+          "bodyDefault": {
+            "value": "{semantic.neutral.primary}",
+            "type": "color"
+          },
+          "borderDefault": {
+            "value": "{semantic.main.transparent1}",
+            "type": "color"
+          }
+        },
+        "select": {
+          "bodyDisabled": {
+            "value": "{semantic.main.transparent1}",
+            "type": "color"
+          },
+          "iconDefault": {
+            "value": "{semantic.icon.inverted}",
+            "type": "color"
+          },
+          "iconDisabled": {
+            "value": "{semantic.icon.tertiary}",
+            "type": "color"
+          },
+          "textDefault": {
+            "value": "{semantic.text.inverted}",
+            "type": "color"
+          },
+          "textDisabled": {
+            "value": "{semantic.muted.transparent9}",
+            "type": "color"
+          },
+          "bodyDefault": {
+            "value": "{semantic.brand.main.primary}",
+            "type": "color"
+          }
+        }
+      },
       "subhead": {
         "textLabel": {
           "value": "{semantic.text.primary}",
