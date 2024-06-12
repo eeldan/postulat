@@ -1,0 +1,2477 @@
+{
+  "core": {
+    "fontFamily": {
+      "inter": {
+        "display": {
+          "type": "fontFamilies",
+          "value": "Inter"
+        },
+        "heading": {
+          "type": "fontFamilies",
+          "value": "Inter"
+        },
+        "body": {
+          "type": "fontFamilies",
+          "value": "Inter"
+        }
+      },
+      "sfPro": {
+        "display": {
+          "type": "fontFamilies",
+          "value": "SF Pro"
+        },
+        "heading": {
+          "type": "fontFamilies",
+          "value": "SF Pro"
+        },
+        "body": {
+          "type": "fontFamilies",
+          "value": "SF Pro"
+        }
+      },
+      "sfMono": {
+        "display": {
+          "type": "fontFamilies",
+          "value": "SF Mono"
+        },
+        "heading": {
+          "type": "fontFamilies",
+          "value": "SF Mono"
+        },
+        "body": {
+          "type": "fontFamilies",
+          "value": "SF Mono"
+        }
+      },
+      "ibmPlexMono": {
+        "display": {
+          "type": "fontFamilies",
+          "value": "IBM Plex Mono"
+        },
+        "heading": {
+          "type": "fontFamilies",
+          "value": "IBM Plex Mono"
+        },
+        "body": {
+          "type": "fontFamilies",
+          "value": "IBM Plex Mono"
+        }
+      }
+    },
+    "fontWeight": {
+      "extraBold": {
+        "type": "fontWeights",
+        "value": "800",
+        "description": "Not recomended for regular use. Use it on your own risk!"
+      },
+      "bold": {
+        "type": "fontWeights",
+        "value": "700"
+      },
+      "semiBold": {
+        "type": "fontWeights",
+        "value": "600"
+      },
+      "medium": {
+        "type": "fontWeights",
+        "value": "500"
+      },
+      "regular": {
+        "type": "fontWeights",
+        "value": "400"
+      }
+    },
+    "core": {
+      "fontSize": {
+        "display": {
+          "large": {
+            "type": "fontSizes",
+            "value": "57px"
+          },
+          "medium": {
+            "type": "fontSizes",
+            "value": "45px"
+          },
+          "small": {
+            "type": "fontSizes",
+            "value": "36px"
+          }
+        },
+        "title": {
+          "large": {
+            "type": "fontSizes",
+            "value": "32px"
+          },
+          "medium": {
+            "type": "fontSizes",
+            "value": "28px"
+          },
+          "small": {
+            "type": "fontSizes",
+            "value": "20px"
+          }
+        },
+        "base": {
+          "large": {
+            "type": "fontSizes",
+            "value": "17px"
+          },
+          "medium": {
+            "type": "fontSizes",
+            "value": "14"
+          },
+          "small": {
+            "type": "fontSizes",
+            "value": "13"
+          },
+          "xsmall": {
+            "type": "fontSizes",
+            "value": "12",
+            "description": "Don't touch if you have no idea what it's made for :)"
+          }
+        }
+      },
+      "xBase": {
+        "type": "other",
+        "value": "4"
+      },
+      "type": {
+        "100": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 3"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 4"
+          }
+        },
+        "200": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 3.25"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 4.5"
+          }
+        },
+        "300": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 3.5"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 5"
+          }
+        },
+        "400": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 4.25"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 6"
+          }
+        },
+        "500": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 6"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 8"
+          }
+        },
+        "600": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 7"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 9"
+          }
+        },
+        "700": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 8"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 10"
+          }
+        },
+        "800": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 9"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 11"
+          }
+        },
+        "900": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 11.25"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 13"
+          }
+        },
+        "1000": {
+          "fontSize": {
+            "type": "other",
+            "value": "{core.xBase} * 14.25"
+          },
+          "lineHeight": {
+            "type": "other",
+            "value": "{core.xBase} * 16"
+          }
+        }
+      },
+      "letterSpacing": {
+        "sfPro": {
+          "baseL": {
+            "type": "letterSpacing",
+            "value": "-0.44"
+          },
+          "baseM": {
+            "type": "letterSpacing",
+            "value": "-0.15"
+          },
+          "baseS": {
+            "type": "letterSpacing",
+            "value": "-0.08"
+          },
+          "baseXS": {
+            "type": "letterSpacing",
+            "value": "0"
+          },
+          "titleL": {
+            "type": "letterSpacing",
+            "value": "0.42"
+          },
+          "titleM": {
+            "type": "letterSpacing",
+            "value": "0.39"
+          },
+          "titleS": {
+            "type": "letterSpacing",
+            "value": "0.07"
+          },
+          "displayL": {
+            "type": "letterSpacing",
+            "value": "0.34"
+          },
+          "displayM": {
+            "type": "letterSpacing",
+            "value": "0.36"
+          },
+          "displayS": {
+            "type": "letterSpacing",
+            "value": "0.36"
+          }
+        },
+        "inter": {
+          "baseL": {
+            "type": "letterSpacing",
+            "value": "-0.22"
+          },
+          "baseM": {
+            "type": "letterSpacing",
+            "value": "-0.09"
+          },
+          "baseS": {
+            "type": "letterSpacing",
+            "value": "-0.04"
+          },
+          "baseXS": {
+            "type": "letterSpacing",
+            "value": "0.01"
+          },
+          "titleL": {
+            "type": "letterSpacing",
+            "value": "-0.69"
+          },
+          "titleM": {
+            "type": "letterSpacing",
+            "value": "-0.59"
+          },
+          "titleS": {
+            "type": "letterSpacing",
+            "value": "-0.47"
+          },
+          "displayL": {
+            "type": "letterSpacing",
+            "value": "-1.27"
+          },
+          "displayM": {
+            "type": "letterSpacing",
+            "value": "-1"
+          },
+          "displayS": {
+            "type": "letterSpacing",
+            "value": "-0.79"
+          }
+        }
+      }
+    },
+    "space": {
+      "50": {
+        "type": "spacing",
+        "value": "{core.xBase} / 2"
+      },
+      "100": {
+        "type": "spacing",
+        "value": "{core.xBase}"
+      },
+      "150": {
+        "type": "spacing",
+        "value": "{core.xBase} * 1.5"
+      },
+      "200": {
+        "type": "spacing",
+        "value": "{core.xBase} * 2"
+      },
+      "250": {
+        "type": "spacing",
+        "value": "{core.xBase} * 2.5"
+      },
+      "300": {
+        "type": "spacing",
+        "value": "{core.xBase} * 3"
+      },
+      "350": {
+        "type": "spacing",
+        "value": "{core.xBase} * 3.5"
+      },
+      "400": {
+        "type": "spacing",
+        "value": "{core.xBase} * 4"
+      },
+      "500": {
+        "type": "spacing",
+        "value": "{core.xBase} * 5"
+      },
+      "600": {
+        "type": "spacing",
+        "value": "{core.xBase} * 6"
+      },
+      "700": {
+        "type": "spacing",
+        "value": "{core.xBase} * 7"
+      },
+      "750": {
+        "type": "spacing",
+        "value": "{core.xBase} * 7.5"
+      },
+      "800": {
+        "type": "spacing",
+        "value": "{core.xBase} * 8"
+      },
+      "900": {
+        "type": "spacing",
+        "value": "{core.xBase} * 9"
+      },
+      "1000": {
+        "type": "spacing",
+        "value": "{core.xBase} * 10"
+      },
+      "1100": {
+        "type": "spacing",
+        "value": "{core.xBase} * 11"
+      },
+      "1200": {
+        "type": "spacing",
+        "value": "{core.xBase} * 12"
+      },
+      "1300": {
+        "type": "spacing",
+        "value": "{core.xBase} * 13"
+      },
+      "1400": {
+        "type": "spacing",
+        "value": "{core.xBase} * 14"
+      },
+      "1500": {
+        "type": "spacing",
+        "value": "{core.xBase} * 15"
+      },
+      "1600": {
+        "type": "spacing",
+        "value": "{core.xBase} * 16"
+      },
+      "1700": {
+        "type": "spacing",
+        "value": "{core.xBase} * 17"
+      },
+      "1800": {
+        "type": "spacing",
+        "value": "{core.xBase} * 18"
+      },
+      "1900": {
+        "type": "spacing",
+        "value": "{core.xBase} * 19"
+      },
+      "2000": {
+        "type": "spacing",
+        "value": "{core.xBase} * 20"
+      }
+    },
+    "size": {
+      "50": {
+        "type": "sizing",
+        "value": "{core.xBase} / 2"
+      },
+      "100": {
+        "type": "sizing",
+        "value": "{core.xBase}"
+      },
+      "150": {
+        "type": "sizing",
+        "value": "{core.xBase} * 1.5"
+      },
+      "200": {
+        "type": "sizing",
+        "value": "{core.xBase} * 2"
+      },
+      "250": {
+        "type": "sizing",
+        "value": "{core.xBase} * 2.5"
+      },
+      "300": {
+        "type": "sizing",
+        "value": "{core.xBase} * 3"
+      },
+      "350": {
+        "type": "sizing",
+        "value": "{core.xBase} * 3.5"
+      },
+      "400": {
+        "type": "sizing",
+        "value": "{core.xBase} * 4"
+      },
+      "500": {
+        "type": "sizing",
+        "value": "{core.xBase} * 5"
+      },
+      "600": {
+        "type": "sizing",
+        "value": "{core.xBase} * 6"
+      },
+      "700": {
+        "type": "sizing",
+        "value": "{core.xBase} * 7"
+      },
+      "750": {
+        "type": "sizing",
+        "value": "{core.xBase} * 7.5"
+      },
+      "800": {
+        "type": "sizing",
+        "value": "{core.xBase} * 8"
+      },
+      "900": {
+        "type": "sizing",
+        "value": "{core.xBase} * 9"
+      },
+      "1000": {
+        "type": "sizing",
+        "value": "{core.xBase} * 10"
+      },
+      "1100": {
+        "type": "sizing",
+        "value": "{core.xBase} * 11"
+      },
+      "1200": {
+        "type": "sizing",
+        "value": "{core.xBase} * 12"
+      },
+      "1300": {
+        "type": "sizing",
+        "value": "{core.xBase} * 13"
+      },
+      "1400": {
+        "type": "sizing",
+        "value": "{core.xBase} * 14"
+      },
+      "1500": {
+        "type": "sizing",
+        "value": "{core.xBase} * 15"
+      },
+      "1600": {
+        "type": "sizing",
+        "value": "{core.xBase} * 16"
+      },
+      "1700": {
+        "type": "sizing",
+        "value": "{core.xBase} * 17"
+      },
+      "1800": {
+        "type": "sizing",
+        "value": "{core.xBase} * 18"
+      },
+      "1900": {
+        "type": "sizing",
+        "value": "{core.xBase} * 19"
+      },
+      "2000": {
+        "type": "sizing",
+        "value": "{core.xBase} * 20"
+      }
+    },
+    "borderRadius": {
+      "50": {
+        "type": "borderRadius",
+        "value": "{core.xBase} / 2"
+      },
+      "100": {
+        "type": "borderRadius",
+        "value": "{core.xBase}"
+      },
+      "150": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 1.5"
+      },
+      "200": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 2"
+      },
+      "250": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 2.5"
+      },
+      "300": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 3"
+      },
+      "350": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 3.5"
+      },
+      "400": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 4"
+      },
+      "500": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 5"
+      },
+      "600": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 6"
+      },
+      "700": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 7"
+      },
+      "750": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 7.5"
+      },
+      "800": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 8"
+      },
+      "900": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 9"
+      },
+      "1000": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 10"
+      },
+      "1100": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 11"
+      },
+      "1200": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 12"
+      },
+      "1300": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 13"
+      },
+      "1400": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 14"
+      },
+      "1500": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 15"
+      },
+      "1600": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 16"
+      },
+      "1700": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 17"
+      },
+      "1800": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 18"
+      },
+      "1900": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 19"
+      },
+      "2000": {
+        "type": "borderRadius",
+        "value": "{core.xBase} * 20"
+      }
+    },
+    "lineheight": {
+      "display": {
+        "large": {
+          "type": "lineHeights",
+          "value": "64"
+        },
+        "medium": {
+          "type": "lineHeights",
+          "value": "52"
+        },
+        "small": {
+          "type": "lineHeights",
+          "value": "44"
+        }
+      },
+      "title": {
+        "large": {
+          "type": "lineHeights",
+          "value": "40"
+        },
+        "medium": {
+          "type": "lineHeights",
+          "value": "36"
+        },
+        "small": {
+          "type": "lineHeights",
+          "value": "32"
+        }
+      },
+      "body": {
+        "large": {
+          "type": "lineHeights",
+          "value": "24"
+        },
+        "medium": {
+          "type": "lineHeights",
+          "value": "20"
+        },
+        "small": {
+          "type": "lineHeights",
+          "value": "18"
+        },
+        "xsmall": {
+          "type": "lineHeights",
+          "value": "16"
+        }
+      }
+    },
+    "palette": {
+      "absolute": {
+        "white": {
+          "type": "color",
+          "value": "#FFFFFF"
+        },
+        "black": {
+          "type": "color",
+          "value": "#000000"
+        },
+        "transparentWhite": {
+          "type": "color",
+          "value": "#fff0"
+        },
+        "transparentBlack": {
+          "type": "color",
+          "value": "#0000"
+        }
+      },
+      "state": {
+        "50": {
+          "type": "color",
+          "value": "#F8FAFC",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#F1F5F9",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#E2E8F0",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#CBD5E1",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#94A3B8",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#64748B",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#475569",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#334155",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#1E293B",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#0F172A",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#020617",
+          "description": "APCA: AAA"
+        }
+      },
+      "gray": {
+        "50": {
+          "type": "color",
+          "value": "#F9FAFB",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#F3F4F6",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#E5E7EB",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#D1D5DB",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#9CA3AF",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#6B7280",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#4B5563",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#374151",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#1F2937",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#111827",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#030712",
+          "description": "APCA: AAA"
+        }
+      },
+      "zink": {
+        "50": {
+          "type": "color",
+          "value": "#FAFAFA",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#F4F4F5",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#E4E4E7",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#D4D4D8",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#A1A1AA",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#71717A",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#52525B",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#3F3F46",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#27272A",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#18181B",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#09090B",
+          "description": "APCA: AAA"
+        }
+      },
+      "neutral": {
+        "50": {
+          "type": "color",
+          "value": "#FAFAFA",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#F5F5F5",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#E5E5E5",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#D4D4D4",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#A3A3A3",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#737373",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#525252",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#404040",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#262626",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#171717",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#0A0A0A",
+          "description": "APCA: AAA"
+        }
+      },
+      "stone": {
+        "50": {
+          "type": "color",
+          "value": "#FAFAF9",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#F5F5F4",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#E7E5E4",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#D6D3D1",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#A8A29E",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#78716C",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#57534E",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#44403C",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#292524",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#1C1917",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#0C0A09",
+          "description": "APCA: AAA"
+        }
+      },
+      "red": {
+        "50": {
+          "type": "color",
+          "value": "#FEF2F2",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#FEE2E2",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#FECACA",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#FCA5A5",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#F87171",
+          "description": "APCA: 58.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#EF4444",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#DC2626",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#B91C1C",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#991B1B",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#7F1D1D",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#450A0A",
+          "description": "APCA: AAA"
+        }
+      },
+      "orange": {
+        "50": {
+          "type": "color",
+          "value": "#FFF7ED",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#FFEDD5",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#FED7AA",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#FDBA74",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#FB923C",
+          "description": "APCA: 57.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#F97316",
+          "description": "APCA: 58.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "#EA580C",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#C2410C",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#9A3412",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#7C2D12",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#431407",
+          "description": "APCA: AAA"
+        }
+      },
+      "amber": {
+        "50": {
+          "type": "color",
+          "value": "#FFFBEB",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#FEF3C7",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#FDE68A",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#FCD34D",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#FBBF24",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#F59E0B",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#D97706",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#B45309",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#92400E",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#78350F",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#431407",
+          "description": "APCA: AAA"
+        }
+      },
+      "yellow": {
+        "50": {
+          "type": "color",
+          "value": "#FEFCE8",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#FEF9C3",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#FEF08A",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#FDE047",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#FACC15",
+          "description": "APCA: AAA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#EAB308",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#CA8A04",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#A16207",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#854D0E",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#713F12",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#422006",
+          "description": "APCA: AAA"
+        }
+      },
+      "lime": {
+        "50": {
+          "type": "color",
+          "value": "#F7FEE7",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#ECFCCB",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#D9F99D",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#BEF264",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#A3E635",
+          "description": "APCA: AAA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#84CC16",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#65A30D",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#4D7C0F",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#3F6212",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#365314",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#1A2E05",
+          "description": "APCA: AAA"
+        }
+      },
+      "green": {
+        "50": {
+          "type": "color",
+          "value": "#F0FDF4",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#DCFCE7",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#BBF7D0",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#86EFAC",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#4ADE80",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#22C55E",
+          "description": "APCA: 57.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "#16A34A",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#15803D",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#166534",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#14532D",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#052E16",
+          "description": "APCA: AAA"
+        }
+      },
+      "emerald": {
+        "50": {
+          "type": "color",
+          "value": "#ECFDF5",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#D1FAE5",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#A7F3D0",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#6EE7B7",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#34D399",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#10B981",
+          "description": "APCA: 54.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "#059669",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#047857",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#065F46",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#064E3B",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#022C22",
+          "description": "APCA: AAA"
+        }
+      },
+      "teal": {
+        "50": {
+          "type": "color",
+          "value": "#F0FDFA",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#CCFBF1",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#99F6E4",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#5EEAD4",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#2DD4BF",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#14B8A6",
+          "description": "APCA: 53.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "#0D9488",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#0F766E",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#115E59",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#134E4A",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#042F2E",
+          "description": "APCA: AAA"
+        }
+      },
+      "cyan": {
+        "50": {
+          "type": "color",
+          "value": "#ECFEFF",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#CFFAFE",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#A5F3FC",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#67E8F9",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#22D3EE",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#06B6D4",
+          "description": "APCA: 54.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "#0891B2",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#0E7490",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#155E75",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#164E63",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#083344",
+          "description": "APCA: AAA"
+        }
+      },
+      "sky": {
+        "50": {
+          "type": "color",
+          "value": "#F0F9FF",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#E0F2FE",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#BAE6FD",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#7DD3FC",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#38BDF8",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#0EA5E9",
+          "description": "APCA: 58.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "#0284C7",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#0369A1",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#075985",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#0C4A6E",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#082F49",
+          "description": "APCA: AAA"
+        }
+      },
+      "blue": {
+        "50": {
+          "type": "color",
+          "value": "#EFF6FF",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#DBEAFE",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#BFDBFE",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#93C5FD",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#60A5FA",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#3B82F6",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#2563EB",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#1D4ED8",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#1E40AF",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#1E3A8A",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#172554",
+          "description": "APCA: AAA"
+        }
+      },
+      "indigo": {
+        "50": {
+          "type": "color",
+          "value": "#EEF2FF",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#E0E7FF",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#C7D2FE",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#A5B4FC",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#818CF8",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "#6366F1",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#4F46E5",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#4338CA",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#3730A3",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#312E81",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#1E1B4B",
+          "description": "APCA: AAA"
+        }
+      },
+      "violet": {
+        "50": {
+          "type": "color",
+          "value": "#F5F3FF",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#EDE9FE",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#DDD6FE",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#C4B5FD",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#A78BFA",
+          "description": "APCA: 58.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#8B5CF6",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#7C3AED",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#6D28D9",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#5B21B6",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#4C1D95",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#2E1065",
+          "description": "APCA: AAA"
+        }
+      },
+      "purple": {
+        "50": {
+          "type": "color",
+          "value": "#FAF5FF",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#F3E8FF",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#E9D5FF",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#D8B4FE",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#C084FC",
+          "description": "APCA: 56.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#A855F7",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#9333EA",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#7E22CE",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#6B21A8",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#581C87",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#3B0764",
+          "description": "APCA: AAA"
+        }
+      },
+      "fuchsia": {
+        "50": {
+          "type": "color",
+          "value": "#FDF4FF",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#FAE8FF",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#F5D0FE",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#F0ABFC",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#E879F9",
+          "description": "APCA: 54.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#D946EF",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#C026D3",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#A21CAF",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#86198F",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#701A75",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#4A044E",
+          "description": "APCA: AAA"
+        }
+      },
+      "pink": {
+        "50": {
+          "type": "color",
+          "value": "#FDF2F8",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#FCE7F3",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#FBCFE8",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#F9A8D4",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#F472B6",
+          "description": "APCA: 56.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#EC4899",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#DB2777",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#BE185D",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#9D174D",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#831843",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#500724",
+          "description": "APCA: AAA"
+        }
+      },
+      "rose": {
+        "50": {
+          "type": "color",
+          "value": "#FFF1F2",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "#FFE4E6",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "#FECDD3",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "#FDA4AF",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "#FB7185",
+          "description": "APCA: 57.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "#F43F5E",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "#E11D48",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "#BE123C",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "#9F1239",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "#881337",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "#4C0519",
+          "description": "APCA: AAA"
+        }
+      }
+    }
+  },
+  "$themes": [
+    {
+      "id": "4bed2fa26bcefc3d386c01739580c29728a7d2a6",
+      "name": "Tele2",
+      "$figmaStyleReferences": {
+        "android.label.regular.large": "S:1f0142487e1d4e9d510acaa9901ed2e444f657f5,",
+        "android.label.regular.medium": "S:7d326330966b31c0f8bcfafebf353793e83740fc,",
+        "android.label.regular.small": "S:27362c666eeda1be42ad588cb9148aa8f7d8d174,",
+        "android.label.regular.xsmall": "S:887eedaa931ea97ea2cf8f657e6ceab518c55362,",
+        "android.label.accent.large": "S:d9534ba3d5d433f8cb6e04574abb2ad14f3b02a6,",
+        "android.label.accent.medium": "S:844a506fb06d0bd80dea2b669737873d5e5e8b0e,",
+        "android.label.accent.small": "S:85fbf113a4a08e657241e121f7d9b239ceab3e65,",
+        "android.label.accent.xsmall": "S:c747185e03926d1be37250fe19d014429a9eb87e,",
+        "ios.label.regular.large": "S:d17fdba98f78aecb3d210e170276eee58ab65660,",
+        "ios.label.regular.medium": "S:7d461209a9f3fb9b263672aff94f2347151de181,",
+        "ios.label.regular.small": "S:edc3943f3c9710e6a1575d4c315eefc11e6691f7,",
+        "ios.label.regular.xsmall": "S:4468eb01a293bb834bcc6f3510a0ab09fb119cf1,",
+        "ios.label.accent.large": "S:3ae383b958b1325ab98060a30ed58af8bc4dfc33,",
+        "ios.label.accent.medium": "S:517dc413421180d12a61c372791c5609c285da9c,",
+        "ios.label.accent.small": "S:66e4616bc0c21ba4eee0e5166d0a1a02ddb6c295,",
+        "ios.label.accent.xsmall": "S:e1cebcf348e3a131258c0beb1dca88f0adc0aa72,",
+        "ios.display.regular.large": "S:ba46bc5ef1790880c2fe1c45ba392569a45e4af8,",
+        "ios.display.regular.medium": "S:8a74cc0315c455aedaceb94f1258eb8571548227,",
+        "ios.display.regular.small": "S:ed82b5bf86ed8639e4fb77ec23a7896923eac236,",
+        "ios.title.regular.large": "S:68e7a1e156e238d6b5b40abc3e6b77e1e786a90c,",
+        "ios.title.regular.medium": "S:ac74166507ddc764494a09b0466e80e331f21ceb,",
+        "ios.title.regular.small": "S:0d3e6cf66fb59b3fc060a61ce330c88c3b5044e2,",
+        "ios.paragraph.regular.large": "S:76e5a6cf3774e6ae8d5ae40db38395cc246399aa,",
+        "ios.paragraph.regular.medium": "S:7ea3011653fde88c44472ca471bd320fb8604b41,",
+        "ios.paragraph.regular.small": "S:f0758d4474904e6f94726560e3ae6b808f68a773,",
+        "ios.paragraph.regular.xsmall": "S:37fcb0594a757652fa5a225ef1bbc27cf6176548,",
+        "android.display.regular.large": "S:fd2add6d14611f9bb392ddc87c17f720379dda0b,",
+        "android.display.regular.medium": "S:580b649b30134b596cd6ea13837536015e76cacd,",
+        "android.display.regular.small": "S:2851c2caef235534a427ce666b869dc064715db4,",
+        "android.title.regular.large": "S:ace5dba1a1c6fa0bd56df03e43149bfe90786558,",
+        "android.title.regular.medium": "S:0548ebb15a7e4e25e66b8af28fcf5653ff66aae6,",
+        "android.title.regular.small": "S:017226bc754cf67fdd5fefe82f74f6749dbe67d8,",
+        "android.paragraph.regular.large": "S:44b9b7afb8791f1a5d9354a8d068a715bb5eb02d,",
+        "android.paragraph.regular.medium": "S:a5347c520e26b92f42ae92fc5a8dfc1b85d61250,",
+        "android.paragraph.regular.small": "S:a05e02eae38b5eff2fc5270d4bbbfee0ec18e44c,",
+        "android.paragraph.regular.xsmall": "S:fdf1b6f316cb206dc85d226ed56d8f68aeca2e42,"
+      },
+      "selectedTokenSets": {
+        "core": "source"
+      },
+      "$figmaCollectionId": "VariableCollectionId:8:4",
+      "$figmaModeId": "8:1",
+      "$figmaVariableReferences": {},
+      "group": "Brand"
+    },
+    {
+      "id": "acbe9414ea1f51012599fdcd7bb76baa7f7f1fcb",
+      "name": "Altel",
+      "$figmaStyleReferences": {
+        "android.label.regular.large": "S:1f0142487e1d4e9d510acaa9901ed2e444f657f5,",
+        "android.label.regular.medium": "S:7d326330966b31c0f8bcfafebf353793e83740fc,",
+        "android.label.regular.small": "S:27362c666eeda1be42ad588cb9148aa8f7d8d174,",
+        "android.label.regular.xsmall": "S:887eedaa931ea97ea2cf8f657e6ceab518c55362,",
+        "android.label.accent.large": "S:d9534ba3d5d433f8cb6e04574abb2ad14f3b02a6,",
+        "android.label.accent.medium": "S:844a506fb06d0bd80dea2b669737873d5e5e8b0e,",
+        "android.label.accent.small": "S:85fbf113a4a08e657241e121f7d9b239ceab3e65,",
+        "android.label.accent.xsmall": "S:c747185e03926d1be37250fe19d014429a9eb87e,",
+        "ios.display.regular.large": "S:ba46bc5ef1790880c2fe1c45ba392569a45e4af8,",
+        "ios.display.regular.medium": "S:8a74cc0315c455aedaceb94f1258eb8571548227,",
+        "ios.display.regular.small": "S:ed82b5bf86ed8639e4fb77ec23a7896923eac236,",
+        "ios.title.regular.large": "S:68e7a1e156e238d6b5b40abc3e6b77e1e786a90c,",
+        "ios.title.regular.medium": "S:ac74166507ddc764494a09b0466e80e331f21ceb,",
+        "ios.title.regular.small": "S:0d3e6cf66fb59b3fc060a61ce330c88c3b5044e2,",
+        "ios.paragraph.regular.large": "S:76e5a6cf3774e6ae8d5ae40db38395cc246399aa,",
+        "ios.paragraph.regular.medium": "S:7ea3011653fde88c44472ca471bd320fb8604b41,",
+        "ios.paragraph.regular.small": "S:f0758d4474904e6f94726560e3ae6b808f68a773,",
+        "ios.paragraph.regular.xsmall": "S:37fcb0594a757652fa5a225ef1bbc27cf6176548,",
+        "android.display.regular.large": "S:fd2add6d14611f9bb392ddc87c17f720379dda0b,",
+        "android.display.regular.medium": "S:580b649b30134b596cd6ea13837536015e76cacd,",
+        "android.display.regular.small": "S:2851c2caef235534a427ce666b869dc064715db4,",
+        "android.title.regular.large": "S:ace5dba1a1c6fa0bd56df03e43149bfe90786558,",
+        "android.title.regular.medium": "S:0548ebb15a7e4e25e66b8af28fcf5653ff66aae6,",
+        "android.title.regular.small": "S:017226bc754cf67fdd5fefe82f74f6749dbe67d8,",
+        "android.paragraph.regular.large": "S:44b9b7afb8791f1a5d9354a8d068a715bb5eb02d,",
+        "android.paragraph.regular.medium": "S:a5347c520e26b92f42ae92fc5a8dfc1b85d61250,",
+        "android.paragraph.regular.small": "S:a05e02eae38b5eff2fc5270d4bbbfee0ec18e44c,",
+        "android.paragraph.regular.xsmall": "S:fdf1b6f316cb206dc85d226ed56d8f68aeca2e42,"
+      },
+      "selectedTokenSets": {
+        "core": "source"
+      },
+      "$figmaCollectionId": "VariableCollectionId:8:4",
+      "$figmaModeId": "8:2",
+      "$figmaVariableReferences": {},
+      "group": "Brand"
+    },
+    {
+      "id": "94ad3bad5bc2513cdcedcffd36fa7bd9133f80fc",
+      "name": "Light",
+      "$figmaStyleReferences": {
+        "android.label.regular.large": "S:1f0142487e1d4e9d510acaa9901ed2e444f657f5,",
+        "android.label.regular.medium": "S:7d326330966b31c0f8bcfafebf353793e83740fc,",
+        "android.label.regular.small": "S:27362c666eeda1be42ad588cb9148aa8f7d8d174,",
+        "android.label.regular.xsmall": "S:887eedaa931ea97ea2cf8f657e6ceab518c55362,",
+        "android.label.accent.large": "S:d9534ba3d5d433f8cb6e04574abb2ad14f3b02a6,",
+        "android.label.accent.medium": "S:844a506fb06d0bd80dea2b669737873d5e5e8b0e,",
+        "android.label.accent.small": "S:85fbf113a4a08e657241e121f7d9b239ceab3e65,",
+        "android.label.accent.xsmall": "S:c747185e03926d1be37250fe19d014429a9eb87e,",
+        "ios.label.regular.large": "S:d76df4cef47a65cdc8d66a323c883a7cbbe1a0fa,",
+        "ios.label.regular.medium": "S:5e81a1044d04c7c50b9938759ef091256502e65e,",
+        "ios.label.regular.small": "S:96be20fdf1075853b48227ba094cbee36c434c50,",
+        "ios.label.regular.xsmall": "S:f315f5b73dc3769056cb22df17b478a86c28a3fd,",
+        "ios.label.accent.large": "S:030ca8d85b445be04dba85530d9d2e8760d1de90,",
+        "ios.label.accent.medium": "S:7dd6a60d380c61e29fe7c212ced28f633cf7cd35,",
+        "ios.label.accent.small": "S:97285601950afc4a333b22a99bfe8dda460f1b1a,",
+        "ios.label.accent.xsmall": "S:061e0b760006cb926a95893990889e2ef05e678c,",
+        "ios.display.regular.large": "S:ba46bc5ef1790880c2fe1c45ba392569a45e4af8,",
+        "ios.display.regular.medium": "S:8a74cc0315c455aedaceb94f1258eb8571548227,",
+        "ios.display.regular.small": "S:ed82b5bf86ed8639e4fb77ec23a7896923eac236,",
+        "ios.title.regular.large": "S:68e7a1e156e238d6b5b40abc3e6b77e1e786a90c,",
+        "ios.title.regular.medium": "S:ac74166507ddc764494a09b0466e80e331f21ceb,",
+        "ios.title.regular.small": "S:0d3e6cf66fb59b3fc060a61ce330c88c3b5044e2,",
+        "ios.paragraph.regular.large": "S:76e5a6cf3774e6ae8d5ae40db38395cc246399aa,",
+        "ios.paragraph.regular.medium": "S:7ea3011653fde88c44472ca471bd320fb8604b41,",
+        "ios.paragraph.regular.small": "S:f0758d4474904e6f94726560e3ae6b808f68a773,",
+        "ios.paragraph.regular.xsmall": "S:37fcb0594a757652fa5a225ef1bbc27cf6176548,",
+        "android.display.regular.large": "S:fd2add6d14611f9bb392ddc87c17f720379dda0b,",
+        "android.display.regular.medium": "S:580b649b30134b596cd6ea13837536015e76cacd,",
+        "android.display.regular.small": "S:2851c2caef235534a427ce666b869dc064715db4,",
+        "android.title.regular.large": "S:ace5dba1a1c6fa0bd56df03e43149bfe90786558,",
+        "android.title.regular.medium": "S:0548ebb15a7e4e25e66b8af28fcf5653ff66aae6,",
+        "android.title.regular.small": "S:017226bc754cf67fdd5fefe82f74f6749dbe67d8,",
+        "android.paragraph.regular.large": "S:44b9b7afb8791f1a5d9354a8d068a715bb5eb02d,",
+        "android.paragraph.regular.medium": "S:a5347c520e26b92f42ae92fc5a8dfc1b85d61250,",
+        "android.paragraph.regular.small": "S:a05e02eae38b5eff2fc5270d4bbbfee0ec18e44c,",
+        "android.paragraph.regular.xsmall": "S:fdf1b6f316cb206dc85d226ed56d8f68aeca2e42,"
+      },
+      "selectedTokenSets": {
+        "core": "source"
+      },
+      "$figmaCollectionId": "VariableCollectionId:8:5",
+      "$figmaModeId": "8:3",
+      "$figmaVariableReferences": {},
+      "group": "Theme"
+    },
+    {
+      "id": "3fd2f0e4aea34648ef0c47a69c57912315935698",
+      "name": "Dark",
+      "$figmaStyleReferences": {
+        "android.label.regular.large": "S:1f0142487e1d4e9d510acaa9901ed2e444f657f5,",
+        "android.label.regular.medium": "S:7d326330966b31c0f8bcfafebf353793e83740fc,",
+        "android.label.regular.small": "S:27362c666eeda1be42ad588cb9148aa8f7d8d174,",
+        "android.label.regular.xsmall": "S:887eedaa931ea97ea2cf8f657e6ceab518c55362,",
+        "android.label.accent.large": "S:d9534ba3d5d433f8cb6e04574abb2ad14f3b02a6,",
+        "android.label.accent.medium": "S:844a506fb06d0bd80dea2b669737873d5e5e8b0e,",
+        "android.label.accent.small": "S:85fbf113a4a08e657241e121f7d9b239ceab3e65,",
+        "android.label.accent.xsmall": "S:c747185e03926d1be37250fe19d014429a9eb87e,",
+        "ios.display.regular.large": "S:ba46bc5ef1790880c2fe1c45ba392569a45e4af8,",
+        "ios.display.regular.medium": "S:8a74cc0315c455aedaceb94f1258eb8571548227,",
+        "ios.display.regular.small": "S:ed82b5bf86ed8639e4fb77ec23a7896923eac236,",
+        "ios.title.regular.large": "S:68e7a1e156e238d6b5b40abc3e6b77e1e786a90c,",
+        "ios.title.regular.medium": "S:ac74166507ddc764494a09b0466e80e331f21ceb,",
+        "ios.title.regular.small": "S:0d3e6cf66fb59b3fc060a61ce330c88c3b5044e2,",
+        "ios.paragraph.regular.large": "S:76e5a6cf3774e6ae8d5ae40db38395cc246399aa,",
+        "ios.paragraph.regular.medium": "S:7ea3011653fde88c44472ca471bd320fb8604b41,",
+        "ios.paragraph.regular.small": "S:f0758d4474904e6f94726560e3ae6b808f68a773,",
+        "ios.paragraph.regular.xsmall": "S:37fcb0594a757652fa5a225ef1bbc27cf6176548,",
+        "android.display.regular.large": "S:fd2add6d14611f9bb392ddc87c17f720379dda0b,",
+        "android.display.regular.medium": "S:580b649b30134b596cd6ea13837536015e76cacd,",
+        "android.display.regular.small": "S:2851c2caef235534a427ce666b869dc064715db4,",
+        "android.title.regular.large": "S:ace5dba1a1c6fa0bd56df03e43149bfe90786558,",
+        "android.title.regular.medium": "S:0548ebb15a7e4e25e66b8af28fcf5653ff66aae6,",
+        "android.title.regular.small": "S:017226bc754cf67fdd5fefe82f74f6749dbe67d8,",
+        "android.paragraph.regular.large": "S:44b9b7afb8791f1a5d9354a8d068a715bb5eb02d,",
+        "android.paragraph.regular.medium": "S:a5347c520e26b92f42ae92fc5a8dfc1b85d61250,",
+        "android.paragraph.regular.small": "S:a05e02eae38b5eff2fc5270d4bbbfee0ec18e44c,",
+        "android.paragraph.regular.xsmall": "S:fdf1b6f316cb206dc85d226ed56d8f68aeca2e42,"
+      },
+      "selectedTokenSets": {
+        "core": "source"
+      },
+      "$figmaCollectionId": "VariableCollectionId:8:5",
+      "$figmaModeId": "8:4",
+      "$figmaVariableReferences": {},
+      "group": "Theme"
+    },
+    {
+      "id": "74f79be89fcb653f7e08fdf3cb55886314071abe",
+      "name": "default",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "enabled"
+      },
+      "group": "typography",
+      "$figmaCollectionId": "VariableCollectionId:8:2",
+      "$figmaModeId": "8:5",
+      "$figmaVariableReferences": {
+        "core1.palette.absolute.white": "e0c796dbf5550312d2a18db39ca653c409bb54dd",
+        "core1.palette.absolute.black": "47231567c9190dfc2e18d95756c4c8deddb86d47",
+        "core1.palette.absolute.transparentWhite": "1ea96276c4ff5c09fdf7dca8c52281aee4265db0",
+        "core1.palette.absolute.transparentBlack": "79a080a99e5ed7fd7e7d58b1ff7c4d1344dc75b4",
+        "core1.palette.state.50": "449b0d46565155a3bdc92039c5af9cb6730d600e",
+        "core1.palette.state.100": "b2d693d81bdf4934600c88227b09b38dcaaef933",
+        "core1.palette.state.200": "2ef18da3fc8f5d50bfab4ab3e30c7aed531c8cd5",
+        "core1.palette.state.300": "4d1873c2f272c5f4d8f3608c3f2c595a1b953b30",
+        "core1.palette.state.400": "e1b13cd5624b6ae28d90bad42123ab7469283854",
+        "core1.palette.state.500": "e5c8fe4c8659957bd7a325ec999efc002aab667f",
+        "core1.palette.state.600": "e4c1c06e27e2aa034981cb824cb8c2872f322b1a",
+        "core1.palette.state.700": "954997bea6d3b2afc0f1ee433d6443390a82cf73",
+        "core1.palette.state.800": "81dbeb927f76720153824ffaab4cf5298f1b71f9",
+        "core1.palette.state.900": "ee3484f9d669d4e0855038118480cbd77fb5bd93",
+        "core1.palette.state.950": "143ffd671c727923e8e8781f744e1d75737da95e",
+        "core1.palette.gray.50": "933290d93a382d4d5c21a5138dbfb2de4b7708c2",
+        "core1.palette.gray.100": "4222350af67f89c2ff79fd9544b6c814fe2bc405",
+        "core1.palette.gray.200": "093f09a6eeb87a539c86e06fca9c58df2a8a3e19",
+        "core1.palette.gray.300": "fe4602c51cd025081e05f2a9b8cd58aa7120b610",
+        "core1.palette.gray.400": "db04088bad810c26da397b248b743a5b7b8f2ca7",
+        "core1.palette.gray.500": "74a0064e49b085331edfd43b19b57f07cd21df4d",
+        "core1.palette.gray.600": "bf2b333ef5f171d4492a6862e217a71bc8095812",
+        "core1.palette.gray.700": "441974ab4101be2b0b54ba32d08487d0dbe307f5",
+        "core1.palette.gray.800": "45ac52c94b5039da6720f128852aec59a0a56cad",
+        "core1.palette.gray.900": "051874bfb3d7ee436b09020f22e140944d70e247",
+        "core1.palette.gray.950": "f9b7be16d5a3b69a05e30118d1949badc639b3e0",
+        "core1.palette.zink.50": "f9e5e204571a213096351bac60e6bdcdb2accefc",
+        "core1.palette.zink.100": "f266910e3b9727404cb82725139819ded06f6c97",
+        "core1.palette.zink.200": "8b7737c238771a7a1da6d9bec5150bd2d20ebe3a",
+        "core1.palette.zink.300": "b4baff4ea8523308f52457f648b786bebeb75106",
+        "core1.palette.zink.400": "780f3062f1413a2d718ea82ff876f0c74d2fae9a",
+        "core1.palette.zink.500": "6bdec78b31c0e3794e6375ca71241bdb5f902e24",
+        "core1.palette.zink.600": "a93ca4e4a64f63fafd946c7992853884b05cbe28",
+        "core1.palette.zink.700": "1f1614372847b322ca38f640246966cc7b7c5869",
+        "core1.palette.zink.800": "bda09473a8b45991bafb0bb04ff5f97229364d70",
+        "core1.palette.zink.900": "66d9b066192455449f7242dfff71b6cb04c59d9f",
+        "core1.palette.zink.950": "9da35e0343ecc41bb5b2645fc4524c904ba27e20",
+        "core1.palette.neutral.50": "7d74473b7af94a5e741b09f5def3be183e77190f",
+        "core1.palette.neutral.100": "01cca7f9eba28439078790130897304ecf48ff87",
+        "core1.palette.neutral.200": "7fa6c1b38d1aaf9bc40b932dd52202c92b465594",
+        "core1.palette.neutral.300": "36581996032042be1ce6e3e3806925126b7d324b",
+        "core1.palette.neutral.400": "b120f82f87454322ed7d7da70f937167dbf0dc6a",
+        "core1.palette.neutral.500": "737b2ef6f20efdba373bb5973762ceb48771bae4",
+        "core1.palette.neutral.600": "a1791b15eb1dc4cf775ea7c76dd74343cc8bf5c5",
+        "core1.palette.neutral.700": "e5776595a2a4ded1a623342450f1fd739c03723a",
+        "core1.palette.neutral.800": "12f189ea8a12155b97146d1f3c90ceb58e37999d",
+        "core1.palette.neutral.900": "b8202ed0224b9cc2764e1fca5f2f74b9e694af04",
+        "core1.palette.neutral.950": "1eeaa794037bea4542c85fd984b156e438fb9f4b",
+        "core1.palette.stone.50": "d088eaf0ee9591fdaa299d55e9cee3e1e6b7802d",
+        "core1.palette.stone.100": "cafe29ec00cf506c27abfa6a79967b3fa21cea5a",
+        "core1.palette.stone.200": "39ea94d89f24723b4973aa09fbb95636c5e95fb1",
+        "core1.palette.stone.300": "6f3d1c1d2d1233642b52abcce576c6a1cfc38a2b",
+        "core1.palette.stone.400": "a82ff41f117643b38ed75fa67d33da6381af4f79",
+        "core1.palette.stone.500": "b2d60d2590a4019a4e0abe6bc04e1b059dd005f6",
+        "core1.palette.stone.600": "5a7d8498f2cfbafe9fd766ff9f5e22fd2e59af01",
+        "core1.palette.stone.700": "0333ca4b1b4abdd8d424271b22ba0e1b3fb0536d",
+        "core1.palette.stone.800": "91594ba8717cf93e0ac66843ead210b7b13c5408",
+        "core1.palette.stone.900": "2a0260254d643ff9c9c8c659876839d99dd27b57",
+        "core1.palette.stone.950": "90f39423ab1ab52365990f191ae02185c0012177",
+        "core1.palette.red.50": "b2a7a493f631769726cf692171146a8c163577ae",
+        "core1.palette.red.100": "1fe7995f0816540345907ae7b9482bc023c4c430",
+        "core1.palette.red.200": "aa1dc7dbf1acd2c4c50b54f9def54438e4f8db33",
+        "core1.palette.red.300": "c8d9c385e9ba6e3dec840888a340a4c14d28ca82",
+        "core1.palette.red.400": "7e5e9c39ccfe708a3279bab983532326f1e4dcfa",
+        "core1.palette.red.500": "64d427b41b2491d863a1651dc18919951c788533",
+        "core1.palette.red.600": "de1916ae6a3c4431659bb32365c9cc09d5116723",
+        "core1.palette.red.700": "c97586909fe932eddbc487ad47cb7f1c769dc249",
+        "core1.palette.red.800": "8d510a8dc61e68431bb2acaaa07bae54b3174ea8",
+        "core1.palette.red.900": "d08afebdfa583c0980c88924f72b4109c9840619",
+        "core1.palette.red.950": "5426cbe82f8759125a84d1dc198b1b3dbd4aa56c",
+        "core1.palette.orange.50": "73de83f923a6da2f62487531aa8717fdedaa6dbf",
+        "core1.palette.orange.100": "65c98532dbb8d2ec3a1ba677c079c693b95d0957",
+        "core1.palette.orange.200": "09b358e89f6861a7ac9cccb78d7331798479378f",
+        "core1.palette.orange.300": "741b1d47f4f08006201f3dd016f74315776497a6",
+        "core1.palette.orange.400": "9c453de9acfb8b10af291a9d25bf3761e3aeb9b8",
+        "core1.palette.orange.500": "8178bb0d29d8e1f5d577aa885f08bb0aabad990e",
+        "core1.palette.orange.600": "557b096705145c3c5e7b0428d1a61d26cfb748d8",
+        "core1.palette.orange.700": "873a863260fff76ab22b89add38dff7a7c586ad2",
+        "core1.palette.orange.800": "8cfcbe1542ea980aff5d384a930ff4944a6f73d8",
+        "core1.palette.orange.900": "b93379b6f26045a9c0ed31d9d08ff5fc48368b7d",
+        "core1.palette.orange.950": "bb4fe86210ae4c3ef73bda7b1f7ee0f02741eab3",
+        "core1.palette.amber.50": "a40af8345eb7dd34452de7f46f2eb76a670bd2f6",
+        "core1.palette.amber.100": "2dab2d3206dc2412f7496c6413cabdad42e7e8d6",
+        "core1.palette.amber.200": "8414a9b29570d93ac90d7dabdd276bc6336a4ab8",
+        "core1.palette.amber.300": "ad27303152b18680caf09cd7da52450c600e19e2",
+        "core1.palette.amber.400": "e8e5accb27edb52271dabfc8e09b8d5067038ec9",
+        "core1.palette.amber.500": "da1a437c7c7db2545f5fc8ef1ee81a019f2b7017",
+        "core1.palette.amber.600": "ed9c1bc0f530eaab70a138d9e1217bee472058d3",
+        "core1.palette.amber.700": "db002842d6407fd4588c0f79b35eef654c05000c",
+        "core1.palette.amber.800": "2d25c91287547f79cb5fd3833c1263b5bd28c3b5",
+        "core1.palette.amber.900": "98f21b750b3d24bae2ae0689d30d2cc216005df8",
+        "core1.palette.amber.950": "343390a014084127fbb233a87ab18790eefe297d",
+        "core1.palette.yellow.50": "02b49aef9460c92b11c2e33848b83e55883261d5",
+        "core1.palette.yellow.100": "b02c9f81f412908d710ff366d77c7111f9adfd87",
+        "core1.palette.yellow.200": "7574b469841d0b1b7e797cdd35dfe7662d1b2e6e",
+        "core1.palette.yellow.300": "4650b07d7cb458e69571071aed6986afa50965b7",
+        "core1.palette.yellow.400": "482d1769de5fd533222136074c0d337c8b5b0460",
+        "core1.palette.yellow.500": "29f27922c4041fe0e3546d59d244a9da7e84549a",
+        "core1.palette.yellow.600": "46fad8feefe1fd92a7b8e94066f6c3bf95b9f52c",
+        "core1.palette.yellow.700": "60dca769bd3bbad0375b8ef7cdad23707ea4235c",
+        "core1.palette.yellow.800": "f77f46f5420640c8110c5236bc1fa5ef8bcb17ce",
+        "core1.palette.yellow.900": "5d1812702c89c04408a06b280401bd0555d6e42b",
+        "core1.palette.yellow.950": "6997eb4548719217cd4aae8c108ece82ccee15d2",
+        "core1.palette.lime.50": "8282395f35c1144340c9c98e9c9051d9313180f1",
+        "core1.palette.lime.100": "2db1d3550eefec0a338af59c969b5bcf62489cc8",
+        "core1.palette.lime.200": "338c483eb54b49c787022c94886d4e5d3bc96acc",
+        "core1.palette.lime.300": "8f538c3708a21bd3d1575872c2d3f7013e186ad2",
+        "core1.palette.lime.400": "98fc9325ed665af9c3bc5271c6f1983e10cc0bce",
+        "core1.palette.lime.500": "d9ba7f2c958f58285ead2540a97ec7dbf8e83060",
+        "core1.palette.lime.600": "a2875106b4f18f5e9f3aecf70a58098be6d7b3f2",
+        "core1.palette.lime.700": "444cd6359b0793623135059b3f27203615b37778",
+        "core1.palette.lime.800": "1812805b5f372eea88a8f381c03eef05d381ede2",
+        "core1.palette.lime.900": "7bc74370ae47b5e3451e89646ac8ee735313a085",
+        "core1.palette.lime.950": "017899be16078978aefd19e736d0bc20187e8ef5",
+        "core1.palette.green.50": "431797ad463920bf8272187e5fda18d1ede94c81",
+        "core1.palette.green.100": "c83f07f884a46bf3c72a2bcc5c1852ad0afe6043",
+        "core1.palette.green.200": "12510a8fd6dc6b3d632b255bc47d386d6e5dcb09",
+        "core1.palette.green.300": "c2524cf74cfbc6f10190e6949d06986a0e684e49",
+        "core1.palette.green.400": "807df1cab1cb2508072eda2d79f7dfc570701bdf",
+        "core1.palette.green.500": "7391c23758fc550c35bd41487f2664daecca3712",
+        "core1.palette.green.600": "4eb912666cbb8d31ac2c754d86b4796ef80bc4ac",
+        "core1.palette.green.700": "27f9d041b862d0669443aec37512b70d016d79ca",
+        "core1.palette.green.800": "1efdeeea179154598406be22b5168cf0432ce988",
+        "core1.palette.green.900": "9c25e453c1d949eaac508f7cf4f574592e472c3b",
+        "core1.palette.green.950": "53a1da0ea824d81ca480cf1617dada165ff5ce0e",
+        "core1.palette.emerald.50": "7d3227b1a12cad55a93bb43135ccbcf5c20709d3",
+        "core1.palette.emerald.100": "a4042fee5aa96ff88e89af064c43fbacff364253",
+        "core1.palette.emerald.200": "e12e44982d15f5fdb52b88127f301aee6bfc7293",
+        "core1.palette.emerald.300": "629f73420745d352f32fb475af6e8878c72753e3",
+        "core1.palette.emerald.400": "89fb436f1cd3955393fa13dcc44c68afa10103f7",
+        "core1.palette.emerald.500": "a0da8ed25ac01ae32434e15bac6ffe888bee1f49",
+        "core1.palette.emerald.600": "5032d1e2eb3a3eb5d935a390dee4e696ca35957d",
+        "core1.palette.emerald.700": "a6cab8a683ae7c3ccbe53d711cea32e1266f46fd",
+        "core1.palette.emerald.800": "c77e7d7f0d450691d4d9cec6527583e3c68f4d68",
+        "core1.palette.emerald.900": "3cd147c3d3c8206b678e2ed70f21909cc7bd712e",
+        "core1.palette.emerald.950": "2bef0f651e7eb449469864aa95315526bc4e34be",
+        "core1.palette.teal.50": "d9767a166320897968b01faf9bb159927d09e0ed",
+        "core1.palette.teal.100": "f3b85da4da783cfb3c2f0608bb8d716a4862617f",
+        "core1.palette.teal.200": "39df608e44e200592bd31e15f621d5454a5bb7cb",
+        "core1.palette.teal.300": "1a9e8012dbf6930539ad0203377f865efb74fa02",
+        "core1.palette.teal.400": "f973eeabb4de7419cab02307d571b1070b9fe7f2",
+        "core1.palette.teal.500": "c14042ba41e1514a816e11df04cd24eeeead7026",
+        "core1.palette.teal.600": "3ae7341e553073f65965ac4fdf90f296d5986409",
+        "core1.palette.teal.700": "416272efb29762bf195c57e37de9c39a91f26253",
+        "core1.palette.teal.800": "522270d952b60992c60c2934add30d7dc20b3a0a",
+        "core1.palette.teal.900": "e7c8472aacbf5f1b083f7b6703574cc8571ba9be",
+        "core1.palette.teal.950": "6ed34a32fb38781a9d3aaa9772c7d24f32d16e2a",
+        "core1.palette.cyan.50": "85f4a39ed6f7a8cec4d095d942f865052f9e6fd7",
+        "core1.palette.cyan.100": "5c9e3b47d4a7c1c4153ab377a3f92381536a8898",
+        "core1.palette.cyan.200": "ce14c64d4cbaaeb579af5a30ffed4d14f88e34b1",
+        "core1.palette.cyan.300": "96188503ffab2027ed07bf554bef4957175c46cd",
+        "core1.palette.cyan.400": "6477c32bc1ea8bfefabd8429972fd9cf8e77c9d0",
+        "core1.palette.cyan.500": "13816bcb009bd2634b2c9c0aa8f74d5a4b28ac81",
+        "core1.palette.cyan.600": "e93280515ef25f1ed74bf46213e0f18c5ebdb698",
+        "core1.palette.cyan.700": "855857db0539955a7899a506a38ae5902380d965",
+        "core1.palette.cyan.800": "afe15afa4f6b53599f05da52ba050531b76edfc9",
+        "core1.palette.cyan.900": "fe5a4bd7adac3d6eeef0e9f87c831828587f263b",
+        "core1.palette.cyan.950": "f25697097271731952a65a21e0400e2b2c7f9d8c",
+        "core1.palette.sky.50": "0e4c9b76df92474bac8e03a4ebb6d54fe7f0b4ca",
+        "core1.palette.sky.100": "c52a9499d354f1cfd27f0494cd822a59b20272b7",
+        "core1.palette.sky.200": "ebfd3a4eae041795057fd831e1c22ee4bce13b2e",
+        "core1.palette.sky.300": "98e65959198d3b16d4801b209538082e4053e28e",
+        "core1.palette.sky.400": "1d97b4a0c8baea02c05429b7ccbd3f34867a0de0",
+        "core1.palette.sky.500": "b425c3514a98abbac29f50121104d6600ba0cb03",
+        "core1.palette.sky.600": "79fe438b8afa26699cad441d7039f336875815e5",
+        "core1.palette.sky.700": "90024922626563c515f49dffaa0ca5b3ed40e7b4",
+        "core1.palette.sky.800": "350825bd71ff5c084a3d0a7de79b3996fd99d21c",
+        "core1.palette.sky.900": "2542114d99e70bb5d57210c48df3209708024f5d",
+        "core1.palette.sky.950": "2dcee23a92879733bc2709bca1879224b7a9ea82",
+        "core1.palette.blue.50": "c54b37906390012bc7aefa8376e16834f4f42f4c",
+        "core1.palette.blue.100": "c6b95114cf69543aef8d966bbab949437b6afe43",
+        "core1.palette.blue.200": "d83cce1c9c2e24b7011c7e1fc36508aa8c02cf6d",
+        "core1.palette.blue.300": "44e5c5cac9edb4d819ef8ecd9b515ae66bf21d9c",
+        "core1.palette.blue.400": "b28362f9a042f5a942f8a59f904cedf31107bf58",
+        "core1.palette.blue.500": "11269442e36cbf6de46ef7903a7b58d8b64fa359",
+        "core1.palette.blue.600": "1480cb016b8072544b5ea32f35a182adefbefa51",
+        "core1.palette.blue.700": "25718f572fce8015319a700a9b06f618c396ceca",
+        "core1.palette.blue.800": "969e5c3d2a137d4c02573288e826b5e8ff3e4516",
+        "core1.palette.blue.900": "71b61d0c703f4274a154ee4e0f2d108b6cf747da",
+        "core1.palette.blue.950": "b5399d6d80a551633f1affaaa8fae739b6cf66ce",
+        "core1.palette.indigo.50": "9f9a8be551858353d914cc7c65ffad9aae791cfd",
+        "core1.palette.indigo.100": "e31e63f2a09455590efc3c5d8c37e20543965881",
+        "core1.palette.indigo.200": "c36fec7c54604ef43617c1528daee75792e6cb8b",
+        "core1.palette.indigo.300": "55ee8730a449c093af357e1b02c44b527ddc2fb2",
+        "core1.palette.indigo.400": "7ac16e399f37949ceee51c5f2fe9b660341f338d",
+        "core1.palette.indigo.500": "7fa733d2511acbd6201fca406c4b0968809c9a08",
+        "core1.palette.indigo.600": "ecac5fe0ba97b2a03b959a489746411bbfc013a0",
+        "core1.palette.indigo.700": "934889684fffcd84fb8ce86203eb05710486e3fd",
+        "core1.palette.indigo.800": "a20033894998375c09ab5228ce3446af632d9dc6",
+        "core1.palette.indigo.900": "ea270920cfeff961f866a05b0ec7d6f9849c36b4",
+        "core1.palette.indigo.950": "f9c38242ca10b834ad755982fbba95a9fa86d5e5",
+        "core1.palette.violet.50": "93386f499e0a7b79b92785828a0335f195106b4d",
+        "core1.palette.violet.100": "856723b92f3b02e8e45bbdc8a6acdf7cddaa1033",
+        "core1.palette.violet.200": "64c2981f23535712e15a80c79cd09b2e476473a1",
+        "core1.palette.violet.300": "cf47b66d39bcdf0c948da1146a96adef5d49afde",
+        "core1.palette.violet.400": "e1553281f818090358d4ad5c4c1772238850ea46",
+        "core1.palette.violet.500": "0662cb7e0de6d1febadb6392efff3ae1a9f670cd",
+        "core1.palette.violet.600": "a3a35318ea88f13606396e262612495f7e464921",
+        "core1.palette.violet.700": "c5eabf542c88a767627ec74abcab3ebcf8bcb9f4",
+        "core1.palette.violet.800": "861c673d7cb1ee56bb69883d51ca02bbcd3ca8ee",
+        "core1.palette.violet.900": "1c755af9233cf030cf7f0f4c8dc85c1c1f35abdb",
+        "core1.palette.violet.950": "4f1099a93974915bb3afa8ae89e257991a94cdb0",
+        "core1.palette.purple.50": "af74121a34857ef0037543dd859e6609b0c6e3f3",
+        "core1.palette.purple.100": "1b19cad67cfd8075f32dc093d53e8dbf7779c412",
+        "core1.palette.purple.200": "bf6d0d8d18383e68bf1834180668f307c0052dfc",
+        "core1.palette.purple.300": "4d0fe2a1a7cfcf3a05a43f70030fe3b0c6c2a136",
+        "core1.palette.purple.400": "fd5713cc5bdf0c25e34038bae4bf442134b8b596",
+        "core1.palette.purple.500": "db829ea597293dcf1f8c6a0e7f348a74d70f0c37",
+        "core1.palette.purple.600": "93b7606e31f7812afe168f36555893629a7bc953",
+        "core1.palette.purple.700": "3c934d29be62a46e699eb2e33b5fae439ff6bbdd",
+        "core1.palette.purple.800": "6c860792097b4810785dcd5eaca31a0f33643950",
+        "core1.palette.purple.900": "aed3b67449206c4bdd4ce347c4c89fa669ed22ea",
+        "core1.palette.purple.950": "2f10fb55ac67bd904625ad4ca8aae2c478928a0d",
+        "core1.palette.fuchsia.50": "67b5f507d759c32c07ee3bf8040712353d1ead33",
+        "core1.palette.fuchsia.100": "28dafe1fee3ab9332e2f3de3c0100b96313fd0f5",
+        "core1.palette.fuchsia.200": "3a283a2d172066124381a76f26d56c9d36795ede",
+        "core1.palette.fuchsia.300": "a83b2bc9bd5283c23eac0777e0627bbdbf349f71",
+        "core1.palette.fuchsia.400": "b8544e39cebd341414bca30a59e455a57322c092",
+        "core1.palette.fuchsia.500": "16c1ed4ba31facc989bfddf90fb7fdb0a1b76ae6",
+        "core1.palette.fuchsia.600": "2aa2f93713993e3a6b63e27b1573a1c7cd81863a",
+        "core1.palette.fuchsia.700": "18f86204f55f31811e56b347629ce30d0f7a56a8",
+        "core1.palette.fuchsia.800": "11100ca41a0e565d35f2e60b6b8365287cc8979e",
+        "core1.palette.fuchsia.900": "2a40876db97a02e64bdd7d9bafa61a5da4847fed",
+        "core1.palette.fuchsia.950": "8b026af5d854b3c10ed1045381d9b56e316fbcc4",
+        "core1.palette.pink.50": "b00071043b04271e79165d1f801d8c8a5e868c49",
+        "core1.palette.pink.100": "082f7118623594d46154e7d63fb6f940dc118270",
+        "core1.palette.pink.200": "7af3a97c8e4f4f99becc06df5fe642f1e5a410d2",
+        "core1.palette.pink.300": "810a4ccc102a31ddf280ceb27dd107e57b9803dd",
+        "core1.palette.pink.400": "a4b9ff7cb8408af38cee022919e2502af10d15fc",
+        "core1.palette.pink.500": "e950aff1d7c40bb4159ca4280bd7857e7fbb5137",
+        "core1.palette.pink.600": "eaac560b16500817ea967c9ee5b27354bff3d009",
+        "core1.palette.pink.700": "918d49ade6ce50c3e6cb13a7a407afb5a5438632",
+        "core1.palette.pink.800": "2523088fdff7daa67e1ff95e9e7b3569f44efb21",
+        "core1.palette.pink.900": "8aa1934799f2229fa7f91adcae1d30df2088cc50",
+        "core1.palette.pink.950": "e452ac09550cf8cacf69b6386394a9fe78a1affa",
+        "core1.palette.rose.50": "249176ac12d4a9bac2e961d386bd9d6aaff61319",
+        "core1.palette.rose.100": "394de34f7011c9558d8df284b7bc328a339f3e9b",
+        "core1.palette.rose.200": "ee74379630445ca8fb3e88bd8cdc6adfd4c97e37",
+        "core1.palette.rose.300": "8386d8643fa8b10230bbb2960990caf364df5cef",
+        "core1.palette.rose.400": "9b29420840f9e796692289e7a00b2ba539478021",
+        "core1.palette.rose.500": "408e8bebcb3bdc8bba8aa253b32ab719d9f69c7c",
+        "core1.palette.rose.600": "748180bed37dc579e486bc8a060f97e1ef911d46",
+        "core1.palette.rose.700": "408c6ecfd9e4d0e0edff89f1d2b34d1e8986f7b8",
+        "core1.palette.rose.800": "0171c01ccddbae91ed3fb69f128d3c9c49427dd5",
+        "core1.palette.rose.900": "70590aa0e78d90ef8bb42376e4d802ef9c46dc95",
+        "core1.palette.rose.950": "6deece3e803ce6f880fafb121bedcad41150af74",
+        "size.50": "db69b4b42ac86ab5328d08a76a9ea9a42228d6b9",
+        "size.100": "6cd0cbc64b29cdbd74955b6954858189b23112cf",
+        "size.150": "29df9b76dd080cb831092415fb7e49d648b43c0e",
+        "size.200": "1e5fa48fd57631b59eef2fd8b6ab8ee5ab2e4a94",
+        "size.250": "b594e92d548b23a640e491405ffa712ef8332505",
+        "size.300": "e6656be6267904ee50c67cf16d836fa0d78e5785",
+        "size.350": "bdd985d9708827861b2d7b6154ae35cff71c259f",
+        "size.400": "b63b68dbe933c663bd7b749fb28509a747b398a5",
+        "size.500": "706b59695a31eb5b5807c1baf2067e9fafed92a1",
+        "size.600": "130c1b216e4a738b6f6652e5fe4f8819ccfb62c4",
+        "size.700": "e2a547bba119aaf926f31c4b24d96a6545a22a6d",
+        "size.750": "2daa44c94e6a97a34b21bc3a157373dfd5ef5739",
+        "size.800": "0e7ca885d522689979817048292721074cc620ec",
+        "size.900": "def8906ae6ebb910819830cdbddcc6d4be51d638",
+        "size.1000": "66d7446b5ba0e510a31819be9ccb009f8c5e885e",
+        "size.1100": "ab124b3093ee7fec685d952b1caeab402d471e12",
+        "size.1200": "dbf1793d85c3190c0f00debd27c616e9b281a9e3",
+        "size.1300": "c4fb1c1f0010c060bebbaf6c86edc038bce577b6",
+        "size.1400": "f8fcc595dfeb5187e7908c551604ca09d344d41d",
+        "size.1500": "75ad9cc77c2ca7482186804034e72d96fb401fd3",
+        "size.1600": "612a49f16765695b4295df85a40d8ad4f72348c8",
+        "size.1700": "0c138cc3c31b8dca6e903f04df7b677c0ce6bb84",
+        "size.1800": "92ce10bb7e1ea566757281212d57e400bf14edc9",
+        "size.1900": "fe467d2f528057e6464c7d418648d61b92ea28a4",
+        "size.2000": "ae4f7c8d15193d5e4824d17fde5a0f1225676c4d",
+        "space.50": "8cdc89b9479ddec4bf602e7b32d19103f8ae92f4",
+        "space.100": "49c54872279e738fd9b8981339e2c54da20de499",
+        "space.150": "fdfb01d57d07687d79530db25bd216f8efd4400f",
+        "space.200": "6e5c001f5ab8f38e60d988e10c1e8833e056e5ca",
+        "space.250": "b1d20cffe97e010024bddf23c2ef6322ec3cf2b2",
+        "space.300": "eb3d6ad4a21d702ce3fb558e2d597fa14354d9a1",
+        "space.350": "4227b415ec04c854c0021baa9f0e45d8064272db",
+        "space.400": "83fed9a518abd4d8187051f6ce5b2d7a9bfa84c0",
+        "space.500": "f687687bd7b0333b7ca9f5b811c25d7c6cf2c0d4",
+        "space.600": "dc791ec6bd9e5e807a0e2258316d6b2a6b8fb441",
+        "space.700": "48ac07a79ab8501e3e86049334285a21c46a6da7",
+        "space.750": "64f253abf83c25ae4309fd4f44257da8590657d8",
+        "space.800": "a84d2f1dd02e1e510d987661236f4f1d0a21abbc",
+        "space.900": "f42488cabb2dfb02034f94ef5e2c83fbe0c3bd88",
+        "space.1000": "3f65563c3b9b009c1ea1e62ca12a88f0348f1e74",
+        "space.1100": "b8f4ba556639e9483c5e94243bf33d6a716abf1b",
+        "space.1200": "136dbb56cce61119024b8ae98a7b2e1db86f7d3e",
+        "space.1300": "72616dcf5f48cbd5fd79fff10ce02c98eeeaaf33",
+        "space.1400": "573269d39921198ec569f012618fb787e6e66b8a",
+        "space.1500": "806875bab2cf07d46db98367c3cb3b3ae826491f",
+        "space.1600": "316a6d94c745697403292311a000e567a71b736c",
+        "space.1700": "690afede5b63fc248ac23236d3954654d73906ed",
+        "space.1800": "5ee97aa69aa3874d6f46a8774801dd1f4ab06bc8",
+        "space.1900": "b99469d5d5569c1dc05d8ce5009b259ce36709e4",
+        "space.2000": "087e3afd7edbb29bb437be4414ba6b313be0f98e",
+        "borderRadius.50": "fc05a97ec6bf4330ccfc5cc9d9ce2daa77617780",
+        "borderRadius.100": "bcee1c5a5205ef1c646d455893693b1f7af88da1",
+        "borderRadius.150": "88c09bb2c5df3975fd6b0e80fd4cc1e3d186ab1e",
+        "borderRadius.200": "1f637a9d1ebebdc3c19d74d218cb7b8149d1a6ab",
+        "borderRadius.250": "94465265070b65cacec2d9144b7cbc3a8dd17875",
+        "borderRadius.300": "930dc046adc52455ebffef6487bf562ec525662d",
+        "borderRadius.350": "8579c306f952af4140ab31b3065a4b4c87dc74db",
+        "borderRadius.400": "dbcc6c7d4c98ff5e5e19c9aa08fdcc34eeb715ce",
+        "borderRadius.500": "143c80e89b6ab6036e7bf524eaf0f62cb0956e8e",
+        "borderRadius.600": "14af54780a47c95f90eb1ccaa3eb08fb2e88e54d",
+        "borderRadius.700": "ac3a07c3746baf8871fbe76bd69cbbfab443664e",
+        "borderRadius.750": "471bea8d1bf18c6a13c6ec3b42b5662c10cf5979",
+        "borderRadius.800": "bc3e1c2903e2d8e2537ae8b6d3f7a87e5858691e",
+        "borderRadius.900": "23e839f8646caba2784c1e9d2a9b52fc7dc80624",
+        "borderRadius.1000": "6801c116c08136ffda9b12f1a10db544b0737060",
+        "borderRadius.1100": "6963e7ab3c0d3613b2cfb166f977fe5fef166d81",
+        "borderRadius.1200": "11dc24dd732203fda6682cff77a51f3a1fe309bd",
+        "borderRadius.1300": "a21b97c44afd8009221583d9e1e741b8dcb38913",
+        "borderRadius.1400": "2639034d70d4b15c432554036acf562f08da5859",
+        "borderRadius.1500": "bf089e51179046e15645bf23b9e90084e860c75e",
+        "borderRadius.1600": "313b94d46f500311259eb8b71d03c0e972d34575",
+        "borderRadius.1700": "fd4ad09895045dce33b713632703c29c9f7cdd1e",
+        "borderRadius.1800": "55e003a039736b03382bf91ea5a5643e37cdfd22",
+        "borderRadius.1900": "463ab8faa951c9d4caeaa0a11a83cf78f0c74a96",
+        "borderRadius.2000": "7da4ab916231d2c770f69f5395c1d27999f33ea9"
+      }
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core"
+    ]
+  }
+}
