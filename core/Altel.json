@@ -1,0 +1,48 @@
+{
+  "semantic": {
+    "brand": {
+      "main": {
+        "primary": {
+          "value": "{core.palette.pink.600}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.palette.pink.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{core.palette.pink.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.32",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "additional": {
+        "primary": {
+          "value": "{core.palette.absolute.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.palette.neutral.950}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
