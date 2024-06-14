@@ -42,7 +42,6 @@
     },
     "selectedTokenSets": {
       "core": "source",
-      "palette": "source",
       "typography": "enabled",
       "Tele2": "enabled"
     },
@@ -95,7 +94,6 @@
     },
     "selectedTokenSets": {
       "core": "source",
-      "palette": "source",
       "typography": "enabled",
       "Altel": "enabled"
     },
@@ -153,7 +151,6 @@
     },
     "selectedTokenSets": {
       "core": "source",
-      "palette": "source",
       "dimensions": "enabled",
       "light": "enabled",
       "typography": "enabled",
@@ -574,7 +571,6 @@
     },
     "selectedTokenSets": {
       "core": "source",
-      "palette": "source",
       "dimensions": "enabled",
       "dark": "enabled",
       "typography": "enabled",
