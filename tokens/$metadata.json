@@ -1,8 +1,6 @@
 {
   "tokenSetOrder": [
-    "core/colors",
-    "core/scales",
-    "core/typeCore",
+    "core",
     "semantic/dimensions",
     "semantic/light",
     "semantic/dark",
