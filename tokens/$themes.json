@@ -4,10 +4,14 @@
     "name": "value",
     "group": "Core",
     "selectedTokenSets": {
-      "colors": "enabled",
-      "typeCore": "enabled",
-      "coreScaling": "enabled",
-      "coreDimensions": "enabled"
+      "core/colors": "enabled",
+      "core/scales": "enabled",
+      "brands/tele2Light": "disabled",
+      "brands/tele2Dark": "disabled",
+      "brands/altelLight": "disabled",
+      "brands/altelDark": "disabled",
+      "semantic/dimensions": "enabled",
+      "core/typeCore": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -96,8 +100,15 @@
     "group": "Theme",
     "selectedTokenSets": {
       "semantic/light": "enabled",
-      "colors": "source",
-      "semantic/static": "enabled"
+      "semantic/static": "enabled",
+      "core/colors": "source",
+      "core/scales": "disabled",
+      "brands/tele2Light": "disabled",
+      "brands/tele2Dark": "disabled",
+      "brands/altelLight": "disabled",
+      "brands/altelDark": "disabled",
+      "semantic/dimensions": "disabled",
+      "core/typeCore": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -132,8 +143,15 @@
     "group": "Theme",
     "selectedTokenSets": {
       "semantic/dark": "enabled",
-      "colors": "source",
-      "semantic/static": "enabled"
+      "semantic/static": "enabled",
+      "core/colors": "source",
+      "core/scales": "disabled",
+      "brands/tele2Light": "disabled",
+      "brands/tele2Dark": "disabled",
+      "brands/altelLight": "disabled",
+      "brands/altelDark": "disabled",
+      "semantic/dimensions": "disabled",
+      "core/typeCore": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -161,8 +179,14 @@
     "name": "Tele2",
     "group": "Brands",
     "selectedTokenSets": {
-      "colors": "source",
-      "brands/Tele2": "enabled"
+      "core/colors": "source",
+      "core/scales": "disabled",
+      "brands/tele2Light": "enabled",
+      "brands/tele2Dark": "disabled",
+      "brands/altelLight": "disabled",
+      "brands/altelDark": "disabled",
+      "semantic/dimensions": "disabled",
+      "core/typeCore": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -185,8 +209,14 @@
     "name": "Altel",
     "group": "Brands",
     "selectedTokenSets": {
-      "colors": "source",
-      "brands/Altel": "enabled"
+      "core/colors": "source",
+      "core/scales": "disabled",
+      "brands/tele2Light": "disabled",
+      "brands/tele2Dark": "disabled",
+      "brands/altelLight": "enabled",
+      "brands/altelDark": "disabled",
+      "semantic/dimensions": "disabled",
+      "core/typeCore": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -209,11 +239,15 @@
     "name": "iOS",
     "group": "Platforms",
     "selectedTokenSets": {
-      "colors": "source",
-      "typeCore": "source",
-      "coreScaling": "source",
-      "coreDimensions": "source",
-      "platforms/ios": "enabled"
+      "platforms/ios": "enabled",
+      "core/colors": "source",
+      "core/scales": "source",
+      "brands/tele2Light": "disabled",
+      "brands/tele2Dark": "disabled",
+      "brands/altelLight": "disabled",
+      "brands/altelDark": "disabled",
+      "semantic/dimensions": "source",
+      "core/typeCore": "source"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -239,11 +273,15 @@
     "name": "Android",
     "group": "Platforms",
     "selectedTokenSets": {
-      "colors": "source",
-      "typeCore": "source",
-      "coreScaling": "source",
-      "coreDimensions": "source",
-      "platforms/android": "enabled"
+      "platforms/android": "enabled",
+      "core/colors": "source",
+      "core/scales": "source",
+      "brands/tele2Light": "disabled",
+      "brands/tele2Dark": "disabled",
+      "brands/altelLight": "disabled",
+      "brands/altelDark": "disabled",
+      "semantic/dimensions": "source",
+      "core/typeCore": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {

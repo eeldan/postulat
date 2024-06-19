@@ -1,0 +1,41 @@
+{
+  "semantic": {
+    "brand": {
+      "primary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
+        "type": "color",
+        "value": "{core.palette.absolute.black}"
+      },
+      "secondary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        },
+        "type": "color",
+        "value": "{core.palette.absolute.black}"
+      },
+      "tertiary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.32",
+              "space": "lch"
+            }
+          }
+        },
+        "type": "color",
+        "value": "{core.palette.absolute.black}"
+      }
+    }
+  }
+}

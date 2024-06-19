@@ -4,15 +4,15 @@
       "buttonPrimary": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.brand.accent.primary.high}"
+          "value": "{semantic.brand.primary}}"
         },
         "bodyPressed": {
           "type": "color",
-          "value": "{semantic.brand.accent.secondary}"
+          "value": "{semantic.brand.secondary}"
         },
         "bodyDisabled": {
           "type": "color",
-          "value": "{semantic.brand.accent.tertiary}"
+          "value": "{semantic.brand.tertiary}"
         },
         "textDefault": {
           "type": "color",
@@ -260,7 +260,7 @@
         },
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.brand.accent.primary.high}"
+          "value": "{semantic.brand.primary}"
         }
       },
       "subhead": {

@@ -69,35 +69,35 @@
       "display": {
         "large": {
           "type": "fontSizes",
-          "value": "57px"
+          "value": "57"
         },
         "medium": {
           "type": "fontSizes",
-          "value": "45px"
+          "value": "45"
         },
         "small": {
           "type": "fontSizes",
-          "value": "36px"
+          "value": "36"
         }
       },
       "title": {
         "large": {
           "type": "fontSizes",
-          "value": "32px"
+          "value": "32"
         },
         "medium": {
           "type": "fontSizes",
-          "value": "28px"
+          "value": "28"
         },
         "small": {
           "type": "fontSizes",
-          "value": "20px"
+          "value": "20"
         }
       },
       "base": {
         "large": {
           "type": "fontSizes",
-          "value": "17px"
+          "value": "17"
         },
         "medium": {
           "type": "fontSizes",

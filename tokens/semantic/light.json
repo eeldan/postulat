@@ -3,15 +3,15 @@
     "accent": {
       "primary": {
         "type": "color",
-        "value": "{semantic.brand.additional.primary}"
+        "value": "{core.palette.blue.500}"
       },
       "secondary": {
         "type": "color",
-        "value": "{semantic.brand.accent.primary.medium}"
+        "value": "{core.palette.blue.600}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{semantic.brand.accent.primary.low}"
+        "value": "{core.palette.blue.700}"
       }
     },
     "accentPale": {
