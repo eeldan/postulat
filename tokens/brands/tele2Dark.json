@@ -16,7 +16,7 @@
           }
         },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.absolute.white}"
       },
       "tertiary": {
         "$extensions": {
@@ -29,7 +29,7 @@
           }
         },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.absolute.white}"
       }
     }
   }

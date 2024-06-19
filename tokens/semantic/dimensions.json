@@ -313,7 +313,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{semantic.baseStrong.transparent08}",
+          "color": "{semantic.baseStrong.transparent8}",
           "type": "innerShadow"
         }
       ]
@@ -326,7 +326,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{semantic.baseStrong.transparent08}",
+          "color": "{semantic.baseStrong.transparent8}",
           "type": "innerShadow"
         }
       ]
@@ -339,7 +339,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{semantic.baseStrong.transparent08}",
+          "color": "{semantic.baseStrong.transparent8}",
           "type": "innerShadow"
         }
       ]

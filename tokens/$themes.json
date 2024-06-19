@@ -5,7 +5,10 @@
     "group": "Core",
     "selectedTokenSets": {
       "semantic/dimensions": "enabled",
-      "core": "enabled"
+      "core": "enabled",
+      "components/ios": "disabled",
+      "components/android": "disabled",
+      "components/typography": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -95,7 +98,9 @@
     "selectedTokenSets": {
       "semantic/light": "enabled",
       "semantic/static": "enabled",
-      "core": "disabled"
+      "components/ios": "disabled",
+      "components/android": "disabled",
+      "components/typography": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -131,7 +136,9 @@
     "selectedTokenSets": {
       "semantic/dark": "enabled",
       "semantic/static": "enabled",
-      "core": "disabled"
+      "components/ios": "disabled",
+      "components/android": "disabled",
+      "components/typography": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -160,7 +167,9 @@
     "group": "Brands",
     "selectedTokenSets": {
       "brands/tele2Light": "enabled",
-      "core": "disabled"
+      "components/ios": "disabled",
+      "components/android": "disabled",
+      "components/typography": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -184,7 +193,9 @@
     "group": "Brands",
     "selectedTokenSets": {
       "brands/altelLight": "enabled",
-      "core": "disabled"
+      "components/ios": "disabled",
+      "components/android": "disabled",
+      "components/typography": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -207,9 +218,11 @@
     "name": "iOS",
     "group": "Platforms",
     "selectedTokenSets": {
-      "platforms/ios": "enabled",
       "semantic/dimensions": "source",
-      "core": "source"
+      "core": "source",
+      "components/ios": "enabled",
+      "components/android": "disabled",
+      "components/typography": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -235,9 +248,11 @@
     "name": "Android",
     "group": "Platforms",
     "selectedTokenSets": {
-      "platforms/android": "enabled",
       "semantic/dimensions": "source",
-      "core": "source"
+      "core": "source",
+      "components/ios": "disabled",
+      "components/android": "enabled",
+      "components/typography": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {

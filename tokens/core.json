@@ -1733,7 +1733,7 @@
         "value": "IBM Plex Mono"
       }
     },
-    "fontWeight-copy": {
+    "fontWeight": {
       "extraBold": {
         "type": "fontWeights",
         "value": "800",

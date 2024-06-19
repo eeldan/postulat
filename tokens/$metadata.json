@@ -9,7 +9,8 @@
     "brands/tele2Dark",
     "brands/altelLight",
     "brands/altelDark",
-    "platforms/ios",
-    "platforms/android"
+    "components/ios",
+    "components/android",
+    "components/typography"
   ]
 }

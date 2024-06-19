@@ -3,7 +3,7 @@
     "brand": {
       "primary": {
         "type": "color",
-        "value": "{core.palette.pink.600}"
+        "value": "{core.palette.pink.700}"
       },
       "secondary": {
         "$extensions": {
@@ -16,7 +16,7 @@
           }
         },
         "type": "color",
-        "value": "{core.palette.pink.600}"
+        "value": "{core.palette.pink.700}"
       },
       "tertiary": {
         "$extensions": {
@@ -29,7 +29,7 @@
           }
         },
         "type": "color",
-        "value": "{core.palette.pink.600}"
+        "value": "{core.palette.pink.700}"
       }
     }
   }
