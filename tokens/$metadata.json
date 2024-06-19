@@ -1,13 +1,15 @@
 {
   "tokenSetOrder": [
-    "core",
-    "Tele2",
-    "Altel",
-    "light",
-    "dark",
-    "typography",
-    "iOS",
-    "Android",
-    "dimensions"
+    "colors",
+    "coreScaling",
+    "coreDimensions",
+    "typeCore",
+    "semantic/light",
+    "semantic/dark",
+    "semantic/static",
+    "brands/Tele2",
+    "brands/Altel",
+    "platforms/ios",
+    "platforms/android"
   ]
 }

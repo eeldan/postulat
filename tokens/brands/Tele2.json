@@ -3,6 +3,11 @@
     "brand": {
       "main": {
         "primary": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {}
+            }
+          },
           "type": "color",
           "value": "{core.palette.absolute.black}"
         },
@@ -33,26 +38,41 @@
           "value": "{core.palette.absolute.black}"
         }
       },
-      "additional": {
+      "mainAlt": {
         "primary": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {}
+            }
+          },
           "type": "color",
-          "value": "{core.palette.blue.400}"
+          "value": "{core.palette.absolute.black}"
         },
         "secondary": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "lch"
+              }
+            }
+          },
           "type": "color",
-          "value": "{core.palette.red.600}"
+          "value": "{core.palette.absolute.black}"
         },
         "tertiary": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.32",
+                "space": "lch"
+              }
+            }
+          },
           "type": "color",
-          "value": "{core.palette.green.400}"
-        },
-        "quaternary": {
-          "type": "color",
-          "value": "{core.palette.orange.400}"
-        },
-        "webBlack": {
-          "type": "color",
-          "value": "{core.palette.gray.950}"
+          "value": "{core.palette.absolute.black}"
         }
       }
     }

@@ -301,7 +301,7 @@
         "y": "1",
         "blur": "1",
         "spread": "0",
-        "color": "{semantic.main.transparent4}",
+        "color": "{semantic.baseGlass.transparent4}",
         "type": "dropShadow"
       }
     },
@@ -313,7 +313,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{semantic.main.transparent2}",
+          "color": "{semantic.baseStrong.transparent08}",
           "type": "innerShadow"
         }
       ]
@@ -326,7 +326,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{semantic.main.transparent2}",
+          "color": "{semantic.baseStrong.transparent08}",
           "type": "innerShadow"
         }
       ]
@@ -339,7 +339,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "{semantic.main.transparent2}",
+          "color": "{semantic.baseStrong.transparent08}",
           "type": "innerShadow"
         }
       ]
