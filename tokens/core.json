@@ -421,1272 +421,2526 @@
       "absolute": {
         "white": {
           "type": "color",
-          "value": "#FFFFFF"
+          "value": "hsla(0, 0%, 100%, 1)"
         },
         "black": {
           "type": "color",
-          "value": "#000000"
+          "value": "hsla(0, 0%, 0%, 1)"
         },
         "transparentWhite": {
           "type": "color",
-          "value": "#fff0"
+          "value": "hsla(0, 0%, 100%, 0)"
         },
         "transparentBlack": {
           "type": "color",
-          "value": "#0000"
+          "value": "hsla(0, 0%, 0%, 0)"
         }
       },
       "state": {
         "50": {
           "type": "color",
-          "value": "#F8FAFC",
+          "value": "hsla(210, 40%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#F1F5F9",
+          "value": "hsla(210, 40%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#E2E8F0",
+          "value": "hsla(214, 32%, 91%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#CBD5E1",
+          "value": "hsla(213, 27%, 84%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#94A3B8",
+          "value": "hsla(215, 20%, 65%, 1)",
           "description": "APCA: 55.0"
         },
         "500": {
           "type": "color",
-          "value": "#64748B",
+          "value": "hsla(215, 16%, 47%, 1)",
           "description": "APCA: AAA"
         },
         "600": {
           "type": "color",
-          "value": "#475569",
+          "value": "hsla(215, 19%, 35%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#334155",
+          "value": "hsla(215, 25%, 27%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#1E293B",
+          "value": "hsla(217, 33%, 17%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#0F172A",
+          "value": "hsla(222, 47%, 11%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "hsla(229,84%,5%,1)",
+          "value": "hsla(229, 84%, 5%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "stateAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(210, 75%, 35%, 0.03)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(210, 75%, 35%, 0.06)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(214, 82%, 28%, 0.12)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(213, 88%, 23%, 0.21)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(215, 100%, 17%, 0.42)",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(216, 97%, 13%, 0.61)",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(216, 89%, 10%, 0.73)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(215, 100%, 8%, 0.8)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(216, 89%, 7%, 0.89)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(221, 88%, 6%, 0.95)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(229, 84%, 5%, 1)",
           "description": "APCA: AAA"
         }
       },
       "gray": {
         "50": {
           "type": "color",
-          "value": "#F9FAFB",
+          "value": "hsla(210, 20%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#F3F4F6",
+          "value": "hsla(220, 14%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#E5E7EB",
+          "value": "hsla(220, 13%, 91%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#D1D5DB",
+          "value": "hsla(216, 12%, 84%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#9CA3AF",
+          "value": "hsla(218, 11%, 65%, 1)",
           "description": "APCA: 55.0"
         },
         "500": {
           "type": "color",
-          "value": "#6B7280",
+          "value": "hsla(220, 9%, 46%, 1)",
           "description": "APCA: AAA"
         },
         "600": {
           "type": "color",
-          "value": "#4B5563",
+          "value": "hsla(215, 14%, 34%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#374151",
+          "value": "hsla(217, 19%, 27%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#1F2937",
+          "value": "hsla(215, 28%, 17%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#111827",
+          "value": "hsla(221, 39%, 11%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#030712",
+          "value": "hsla(224, 71%, 4%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "grayAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(210, 38%, 35%, 0.03)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(220, 59%, 18%, 0.11)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(220, 67%, 18%, 0.05)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(216, 67%, 15%, 0.19)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(218, 96%, 10%, 0.39)",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(220, 82%, 9%, 0.59)",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(214, 94%, 7%, 0.71)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(218, 89%, 7%, 0.79)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(214, 100%, 5%, 0.88)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(222, 85%, 5%, 0.94)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(225, 100%, 3%, 0.99)",
           "description": "APCA: AAA"
         }
       },
       "zink": {
         "50": {
           "type": "color",
-          "value": "#FAFAFA",
+          "value": "hsla(0, 0%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#F4F4F5",
+          "value": "hsla(240, 5%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#E4E4E7",
+          "value": "hsla(240, 6%, 90%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#D4D4D8",
+          "value": "hsla(240, 5%, 84%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#A1A1AA",
+          "value": "hsla(240, 5%, 65%, 1)",
           "description": "APCA: 55.0"
         },
         "500": {
           "type": "color",
-          "value": "#71717A",
+          "value": "hsla(208, 7%, 46%, 1)",
           "description": "APCA: AAA"
         },
         "600": {
           "type": "color",
-          "value": "#52525B",
+          "value": "hsla(240, 5%, 34%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#3F3F46",
+          "value": "hsla(240, 5%, 26%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#27272A",
+          "value": "hsla(240, 4%, 16%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#18181B",
+          "value": "hsla(240, 6%, 10%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#09090B",
+          "value": "hsla(240, 10%, 4%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "zinkAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(0, 0%, 2%, 0.02)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(240, 22%, 18%, 0.05)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(240, 57%, 9%, 0.11)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(240, 86%, 5%, 0.17)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(240, 92%, 5%, 0.37)",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(240, 89%, 4%, 0.56)",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(240, 87%, 3%, 0.68)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(240, 71%, 3%, 0.76)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(240, 60%, 1%, 0.85)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(240, 60%, 1%, 0.91)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(240, 50%, 1%, 0.97)",
           "description": "APCA: AAA"
         }
       },
       "neutral": {
         "50": {
           "type": "color",
-          "value": "#FAFAFA",
+          "value": "hsla(0, 0%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#F5F5F5",
+          "value": "hsla(0, 0%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#E5E5E5",
+          "value": "hsla(0, 0%, 90%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#D4D4D4",
+          "value": "hsla(0, 0%, 83%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#A3A3A3",
+          "value": "hsla(0, 0%, 64%, 1)",
           "description": "APCA: 55.0"
         },
         "500": {
           "type": "color",
-          "value": "#737373",
+          "value": "hsla(0, 0%, 45%, 1)",
           "description": "APCA: AAA"
         },
         "600": {
           "type": "color",
-          "value": "#525252",
+          "value": "hsla(0, 0%, 32%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#404040",
+          "value": "hsla(0, 0%, 25%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#262626",
+          "value": "hsla(0, 0%, 15%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#171717",
+          "value": "hsla(0, 0%, 9%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#0A0A0A",
+          "value": "hsla(0, 0%, 4%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "neutralAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(0, 0%, 2%, 0.02)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(0, 0%, 2%, 0.04)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(0, 0%, 7%, 0.11)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(0, 0%, 1%, 0.17)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(0, 0%, 2%, 0.37)",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(0, 0%, 0%, 0.55)",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(0, 0%, 0%, 0.68)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(0, 0%, 0%, 0.68)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(0, 0%, 1%, 0.86)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(0, 0%, 0%, 0.91)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(0, 0%, 1%, 0.97)",
           "description": "APCA: AAA"
         }
       },
       "stone": {
         "50": {
           "type": "color",
-          "value": "#FAFAF9",
+          "value": "hsla(60, 9%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#F5F5F4",
+          "value": "hsla(60, 5%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#E7E5E4",
+          "value": "hsla(20, 6%, 90%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#D6D3D1",
+          "value": "hsla(24, 6%, 83%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#A8A29E",
+          "value": "hsla(24, 5%, 64%, 1)",
           "description": "APCA: 55.0"
         },
         "500": {
           "type": "color",
-          "value": "#78716C",
+          "value": "hsla(25, 5%, 45%, 1)",
           "description": "APCA: AAA"
         },
         "600": {
           "type": "color",
-          "value": "#57534E",
+          "value": "hsla(33, 5%, 32%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#44403C",
+          "value": "hsla(30, 6%, 25%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#292524",
+          "value": "hsla(12, 6%, 15%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#1C1917",
+          "value": "hsla(24, 10%, 10%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#0C0A09",
+          "value": "hsla(20, 14%, 4%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "stoneAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(60, 23%, 28%, 0.03)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(60, 22%, 18%, 0.05)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(20, 57%, 9%, 0.11)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(23, 50%, 10%, 0.19)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(25, 68%, 7%, 0.39)",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(24, 83%, 5%, 0.58)",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(32, 76%, 3%, 0.7)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(30, 71%, 3%, 0.77)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(20, 100%, 1%, 0.86)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(20, 100%, 1%, 0.91)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(20, 60%, 1%, 0.97)",
           "description": "APCA: AAA"
         }
       },
       "red": {
         "50": {
           "type": "color",
-          "value": "#FEF2F2",
+          "value": "hsla(0, 86%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#FEE2E2",
+          "value": "hsla(0, 93%, 94%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#FECACA",
+          "value": "hsla(0, 96%, 89%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#FCA5A5",
+          "value": "hsla(0, 94%, 82%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#F87171",
+          "value": "hsla(0, 91%, 71%, 1)",
           "description": "APCA: 58.0"
         },
         "500": {
           "type": "color",
-          "value": "#EF4444",
+          "value": "hsla(0, 84%, 60%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#DC2626",
+          "value": "hsla(0, 72%, 51%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#B91C1C",
+          "value": "hsla(0, 74%, 42%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#991B1B",
+          "value": "hsla(0, 70%, 35%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#7F1D1D",
+          "value": "hsla(0, 63%, 31%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#450A0A",
+          "value": "hsla(0, 75%, 15%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "redAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(0, 85%, 54%, 0.06)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(0, 94%, 51%, 0.12)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(0, 98%, 50%, 0.21)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(0, 96%, 49%, 0.36)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(0, 99%, 48%, 0.56)",
+          "description": "APCA: 58.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(0, 98%, 46%, 0.74)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(0, 97%, 43%, 0.86)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(0, 97%, 35%, 0.9)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(0, 97%, 28%, 0.9)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(0, 98%, 22%, 0.89)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(0, 94%, 13%, 0.97)",
           "description": "APCA: AAA"
         }
       },
       "orange": {
         "50": {
           "type": "color",
-          "value": "#FFF7ED",
+          "value": "hsla(33, 100%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#FFEDD5",
+          "value": "hsla(34, 100%, 92%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#FED7AA",
+          "value": "hsla(32, 98%, 83%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#FDBA74",
+          "value": "hsla(31, 97%, 72%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#FB923C",
+          "value": "hsla(31, 97%, 72%, 1)",
           "description": "APCA: 57.0"
         },
         "500": {
           "type": "color",
-          "value": "#F97316",
+          "value": "hsla(25, 95%, 53%, 1)",
           "description": "APCA: 58.0"
         },
         "600": {
           "type": "color",
-          "value": "#EA580C",
+          "value": "hsla(21, 90%, 48%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#C2410C",
+          "value": "hsla(17, 88%, 40%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#9A3412",
+          "value": "hsla(15, 79%, 34%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#7C2D12",
+          "value": "hsla(15, 75%, 28%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#431407",
+          "value": "hsla(13, 81%, 15%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "orangeAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(33, 100%, 56%, 0.08)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(34, 100%, 52%, 0.17)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(32, 98%, 50%, 0.34)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(31, 98%, 50%, 0.55)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(27, 98%, 49%, 0.77)",
+          "description": "APCA: 57.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(25, 98%, 49%, 0.92)",
+          "description": "APCA: 58.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(21, 98%, 46%, 0.96)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(17, 98%, 38%, 0.96)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(15, 100%, 29%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(15, 100%, 22%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(13, 94%, 13%, 0.98)",
           "description": "APCA: AAA"
         }
       },
       "amber": {
         "50": {
           "type": "color",
-          "value": "#FFFBEB",
+          "value": "hsla(48, 100%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#FEF3C7",
+          "value": "hsla(48, 96%, 89%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#FDE68A",
+          "value": "hsla(48, 97%, 77%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#FCD34D",
+          "value": "hsla(46, 97%, 65%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#FBBF24",
+          "value": "hsla(43, 96%, 56%, 1)",
           "description": "APCA: AA"
         },
         "500": {
           "type": "color",
-          "value": "#F59E0B",
+          "value": "hsla(38, 92%, 50%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#D97706",
+          "value": "hsla(32, 95%, 44%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#B45309",
+          "value": "hsla(26, 90%, 37%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#92400E",
+          "value": "hsla(23, 83%, 31%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#78350F",
+          "value": "hsla(22, 78%, 26%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#431407",
+          "value": "hsla(13, 81%, 15%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "amberAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(48, 100%, 51%, 0.08)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(48, 100%, 49%, 0.22)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(48, 99%, 49%, 0.46)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(46, 99%, 49%, 0.7)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(43, 100%, 49%, 0.86)",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(38, 99%, 48%, 0.96)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(32, 99%, 43%, 0.98)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(26, 99%, 35%, 0.97)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(23, 99%, 28%, 0.95)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(22, 97%, 23%, 0.95)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(13, 94%, 13%, 0.98)",
           "description": "APCA: AAA"
         }
       },
       "yellow": {
         "50": {
           "type": "color",
-          "value": "#FEFCE8",
+          "value": "hsla(55, 92%, 95%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#FEF9C3",
+          "value": "hsla(55, 97%, 88%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#FEF08A",
+          "value": "hsla(53, 98%, 77%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#FDE047",
+          "value": "hsla(50, 98%, 64%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#FACC15",
+          "value": "hsla(48, 96%, 53%, 1)",
           "description": "APCA: AAA"
         },
         "500": {
           "type": "color",
-          "value": "#EAB308",
+          "value": "hsla(45, 93%, 47%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#CA8A04",
+          "value": "hsla(41, 96%, 40%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#A16207",
+          "value": "hsla(35, 92%, 33%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#854D0E",
+          "value": "hsla(32, 81%, 29%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#713F12",
+          "value": "hsla(28, 73%, 26%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#422006",
+          "value": "hsla(26, 83%, 14%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "yellowAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(55, 92%, 53%, 0.1)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(55, 97%, 50%, 0.24)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(53, 99%, 50%, 0.46)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(51, 98%, 50%, 0.73)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(48, 99%, 49%, 0.92)",
+          "description": "APCA: AAA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(46, 100%, 46%, 0.97)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(41, 99%, 40%, 0.99)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(36, 98%, 32%, 0.98)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(32, 98%, 25%, 0.95)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(29, 100%, 20%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(26, 97%, 12%, 0.98)",
           "description": "APCA: AAA"
         }
       },
       "lime": {
         "50": {
           "type": "color",
-          "value": "#F7FEE7",
+          "value": "hsla(78, 92%, 95%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#ECFCCB",
+          "value": "hsla(80, 89%, 89%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#D9F99D",
+          "value": "hsla(81, 88%, 80%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#BEF264",
+          "value": "hsla(82, 85%, 67%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#A3E635",
+          "value": "hsla(83, 78%, 55%, 1)",
           "description": "APCA: AAA"
         },
         "500": {
           "type": "color",
-          "value": "#84CC16",
+          "value": "hsla(84, 81%, 44%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#65A30D",
+          "value": "hsla(85, 85%, 35%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#4D7C0F",
+          "value": "hsla(86, 78%, 27%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#3F6212",
+          "value": "hsla(86, 69%, 23%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#365314",
+          "value": "hsla(88, 61%, 20%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#1A2E05",
+          "value": "hsla(89, 80%, 10%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "limeAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(78, 92%, 51%, 0.1)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(79, 94%, 49%, 0.21)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(79, 94%, 49%, 0.21)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(82, 99%, 46%, 0.61)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(83, 97%, 45%, 0.8)",
+          "description": "APCA: AAA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(84, 98%, 40%, 0.92)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(85, 100%, 31%, 0.95)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(86, 97%, 23%, 0.95)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(86, 100%, 17%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(87, 94%, 14%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(89, 91%, 9%, 0.99)",
           "description": "APCA: AAA"
         }
       },
       "green": {
         "50": {
           "type": "color",
-          "value": "#F0FDF4",
+          "value": "hsla(138, 76%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#DCFCE7",
+          "value": "hsla(141, 84%, 93%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#BBF7D0",
+          "value": "hsla(141, 79%, 85%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#86EFAC",
+          "value": "hsla(142, 77%, 73%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#4ADE80",
+          "value": "hsla(142, 69%, 58%, 1)",
           "description": "APCA: AA"
         },
         "500": {
           "type": "color",
-          "value": "#22C55E",
+          "value": "hsla(142, 71%, 45%, 1)",
           "description": "APCA: 57.0"
         },
         "600": {
           "type": "color",
-          "value": "#16A34A",
+          "value": "hsla(142, 76%, 36%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#15803D",
+          "value": "hsla(142, 72%, 29%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#166534",
+          "value": "hsla(143, 64%, 24%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#14532D",
+          "value": "hsla(144, 61%, 20%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#052E16",
+          "value": "hsla(145, 80%, 10%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "greenAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(139, 96%, 45%, 0.06)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(141, 96%, 47%, 0.14)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(141, 97%, 45%, 0.27)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(142, 97%, 44%, 0.48)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(142, 100%, 41%, 0.71)",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(142, 99%, 37%, 0.87)",
+          "description": "APCA: 57.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(142, 97%, 31%, 0.92)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(142, 98%, 23%, 0.92)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(142, 96%, 18%, 0.92)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(144, 94%, 14%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(146, 91%, 9%, 0.99)",
           "description": "APCA: AAA"
         }
       },
       "emerald": {
         "50": {
           "type": "color",
-          "value": "#ECFDF5",
+          "value": "hsla(152, 81%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#D1FAE5",
+          "value": "hsla(149, 80%, 90%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#A7F3D0",
+          "value": "hsla(152, 76%, 80%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#6EE7B7",
+          "value": "hsla(156, 72%, 67%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#34D399",
+          "value": "hsla(158, 64%, 52%, 1)",
           "description": "APCA: AA"
         },
         "500": {
           "type": "color",
-          "value": "#10B981",
+          "value": "hsla(160, 84%, 39%, 1)",
           "description": "APCA: 54.0"
         },
         "600": {
           "type": "color",
-          "value": "#059669",
+          "value": "hsla(161, 94%, 30%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#047857",
+          "value": "hsla(163, 94%, 24%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#065F46",
+          "value": "hsla(163, 88%, 20%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#064E3B",
+          "value": "hsla(164, 86%, 16%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#022C22",
+          "value": "hsla(166, 91%, 9%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "emeraldAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(152, 85%, 49%, 0.08)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(149, 89%, 47%, 0.19)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(152, 96%, 44%, 0.35)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(156, 99%, 42%, 0.57)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(158, 99%, 39%, 0.8)",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(160, 99%, 36%, 0.94)",
+          "description": "APCA: 54.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(161, 97%, 30%, 0.99)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(163, 98%, 24%, 0.99)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(163, 98%, 18%, 0.98)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(164, 97%, 15%, 0.98)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(166, 91%, 9%, 1)",
           "description": "APCA: AAA"
         }
       },
       "teal": {
         "50": {
           "type": "color",
-          "value": "#F0FDFA",
+          "value": "hsla(166, 76%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#CCFBF1",
+          "value": "hsla(167, 85%, 89%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#99F6E4",
+          "value": "hsla(168, 84%, 78%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#5EEAD4",
+          "value": "hsla(171, 77%, 64%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#2DD4BF",
+          "value": "hsla(172, 66%, 50%, 1)",
           "description": "APCA: AA"
         },
         "500": {
           "type": "color",
-          "value": "#14B8A6",
+          "value": "hsla(173, 80%, 40%, 1)",
           "description": "APCA: 53.0"
         },
         "600": {
           "type": "color",
-          "value": "#0D9488",
+          "value": "hsla(175, 84%, 32%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#0F766E",
+          "value": "hsla(175, 77%, 26%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#115E59",
+          "value": "hsla(176, 69%, 22%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#134E4A",
+          "value": "hsla(176, 61%, 19%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#042F2E",
+          "value": "hsla(179, 84%, 10%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "tealAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(166, 96%, 45%, 0.06)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(167, 100%, 46%, 0.2)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(168, 100%, 46%, 0.4)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(171, 97%, 44%, 0.64)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(173, 98%, 40%, 0.83)",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(173, 98%, 35%, 0.93)",
+          "description": "APCA: 53.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(175, 100%, 28%, 0.95)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(175, 96%, 22%, 0.95)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(176, 95%, 17%, 0.94)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(175, 97%, 13%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(179, 96%, 9%, 0.99)",
           "description": "APCA: AAA"
         }
       },
       "cyan": {
         "50": {
           "type": "color",
-          "value": "#ECFEFF",
+          "value": "hsla(183, 100%, 96%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#CFFAFE",
+          "value": "hsla(185, 96%, 90%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#A5F3FC",
+          "value": "hsla(186, 94%, 82%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#67E8F9",
+          "value": "hsla(187, 92%, 69%, 1)",
           "description": "APCA: AAA"
         },
         "400": {
           "type": "color",
-          "value": "#22D3EE",
+          "value": "hsla(188, 86%, 53%, 1)",
           "description": "APCA: AA"
         },
         "500": {
           "type": "color",
-          "value": "#06B6D4",
+          "value": "hsla(189, 94%, 43%, 1)",
           "description": "APCA: 54.0"
         },
         "600": {
           "type": "color",
-          "value": "#0891B2",
+          "value": "hsla(192, 91%, 36%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#0E7490",
+          "value": "hsla(193, 82%, 31%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#155E75",
+          "value": "hsla(194, 70%, 27%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#164E63",
+          "value": "hsla(196, 64%, 24%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#083344",
+          "value": "hsla(197, 79%, 15%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "cyanAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(183, 100%, 54%, 0.08)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(185, 98%, 49%, 0.19)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(186, 96%, 49%, 0.36)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(187, 98%, 48%, 0.6)",
+          "description": "APCA: AAA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(188, 99%, 46%, 0.87)",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(189, 99%, 42%, 0.98)",
+          "description": "APCA: 54.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(192, 100%, 35%, 0.97)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(193, 99%, 27%, 0.95)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(194, 98%, 21%, 0.92)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(196, 95%, 17%, 0.92)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(196, 100%, 12%, 0.97)",
           "description": "APCA: AAA"
         }
       },
       "sky": {
         "50": {
           "type": "color",
-          "value": "#F0F9FF",
+          "value": "hsla(204, 100%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#E0F2FE",
+          "value": "hsla(204, 94%, 94%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#BAE6FD",
+          "value": "hsla(201, 94%, 86%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#7DD3FC",
+          "value": "hsla(199, 95%, 74%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#38BDF8",
+          "value": "hsla(198, 93%, 60%, 1)",
           "description": "APCA: AA"
         },
         "500": {
           "type": "color",
-          "value": "#0EA5E9",
+          "value": "hsla(199, 89%, 48%, 1)",
           "description": "APCA: 58.0"
         },
         "600": {
           "type": "color",
-          "value": "#0284C7",
+          "value": "hsla(200, 98%, 39%, 1)",
           "description": "APCA: AA"
         },
         "700": {
           "type": "color",
-          "value": "#0369A1",
+          "value": "hsla(201, 96%, 32%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#075985",
+          "value": "hsla(201, 90%, 27%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#0C4A6E",
+          "value": "hsla(202, 80%, 24%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#082F49",
+          "value": "hsla(204, 80%, 16%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "skyAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(204, 100%, 51%, 0.06)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(204, 93%, 52%, 0.13)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(201, 94%, 50%, 0.28)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(199, 100%, 49%, 0.51)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(199, 98%, 49%, 0.79)",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(199, 99%, 46%, 0.95)",
+          "description": "APCA: 58.0"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(200, 98%, 39%, 1)",
+          "description": "APCA: AA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(201, 100%, 31%, 0.99)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(201, 97%, 26%, 0.98)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(202, 96%, 21%, 0.96)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(203, 100%, 13%, 0.97)",
           "description": "APCA: AAA"
         }
       },
       "blue": {
         "50": {
           "type": "color",
-          "value": "#EFF6FF",
+          "value": "hsla(214, 100%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#DBEAFE",
+          "value": "hsla(214, 95%, 93%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#BFDBFE",
+          "value": "hsla(213, 97%, 87%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#93C5FD",
+          "value": "hsla(212, 96%, 78%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#60A5FA",
+          "value": "hsla(213, 94%, 68%, 1)",
           "description": "APCA: 55.0"
         },
         "500": {
           "type": "color",
-          "value": "#3B82F6",
+          "value": "hsla(217, 91%, 60%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#2563EB",
+          "value": "hsla(221, 83%, 53%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#1D4ED8",
+          "value": "hsla(224, 76%, 48%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#1E40AF",
+          "value": "hsla(226, 71%, 40%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#1E3A8A",
+          "value": "hsla(224, 64%, 33%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#172554",
+          "value": "hsla(226, 57%, 21%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "blueAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(214, 100%, 55%, 0.07)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(214, 94%, 52%, 0.15)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(213, 97%, 51%, 0.26)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(212, 97%, 50%, 0.43)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(213, 98%, 49%, 0.63)",
+          "description": "APCA: 55.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(217, 100%, 48%, 0.77)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(221, 98%, 46%, 0.86)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(224, 99%, 42%, 0.89)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(226, 98%, 33%, 0.89)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(224, 97%, 25%, 0.89)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(227, 100%, 13%, 0.91)",
           "description": "APCA: AAA"
         }
       },
       "indigo": {
         "50": {
           "type": "color",
-          "value": "#EEF2FF",
+          "value": "hsla(226, 100%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#E0E7FF",
+          "value": "hsla(226, 100%, 94%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#C7D2FE",
+          "value": "hsla(228, 96%, 89%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#A5B4FC",
+          "value": "hsla(230, 94%, 82%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#818CF8",
+          "value": "hsla(234, 89%, 74%, 1)",
           "description": "APCA: AA"
         },
         "500": {
           "type": "color",
-          "value": "#6366F1",
+          "value": "hsla(239, 84%, 67%, 1)",
           "description": "APCA: AAA"
         },
         "600": {
           "type": "color",
-          "value": "#4F46E5",
+          "value": "hsla(243, 75%, 59%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#4338CA",
+          "value": "hsla(245, 58%, 51%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#3730A3",
+          "value": "hsla(244, 55%, 41%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#312E81",
+          "value": "hsla(242, 47%, 34%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#1E1B4B",
+          "value": "hsla(244, 47%, 20%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "indigoAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(226, 100%, 52%, 0.07)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(227, 100%, 53%, 0.13)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(228, 100%, 49%, 0.22)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(230, 96%, 49%, 0.36)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(234, 98%, 48%, 0.5)",
+          "description": "APCA: AA"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(239, 97%, 46%, 0.62)",
+          "description": "APCA: AAA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(243, 98%, 43%, 0.73)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(245, 97%, 37%, 0.79)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(243, 96%, 29%, 0.82)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(242, 100%, 20%, 0.82)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(243, 93%, 11%, 0.9)",
           "description": "APCA: AAA"
         }
       },
       "violet": {
         "50": {
           "type": "color",
-          "value": "#F5F3FF",
+          "value": "hsla(250, 100%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#EDE9FE",
+          "value": "hsla(251, 91%, 95%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#DDD6FE",
+          "value": "hsla(251, 95%, 92%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#C4B5FD",
+          "value": "hsla(252, 95%, 85%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#A78BFA",
+          "value": "hsla(255, 92%, 76%, 1)",
           "description": "APCA: 58.0"
         },
         "500": {
           "type": "color",
-          "value": "#8B5CF6",
+          "value": "hsla(258, 90%, 66%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#7C3AED",
+          "value": "hsla(262, 83%, 58%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#6D28D9",
+          "value": "hsla(263, 70%, 50%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#5B21B6",
+          "value": "hsla(263, 69%, 42%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#4C1D95",
+          "value": "hsla(264, 67%, 35%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#2E1065",
+          "value": "hsla(261, 73%, 23%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "violetAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(250, 100%, 53%, 0.05)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(251, 91%, 50%, 0.09)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(250, 95%, 52%, 0.17)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(252, 94%, 50%, 0.3)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(255, 98%, 48%, 0.46)",
+          "description": "APCA: 58.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(258, 100%, 47%, 0.64)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(262, 98%, 46%, 0.78)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(263, 98%, 42%, 0.85)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(263, 97%, 34%, 0.88)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(264, 99%, 27%, 0.89)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(261, 98%, 18%, 0.94)",
           "description": "APCA: AAA"
         }
       },
       "purple": {
         "50": {
           "type": "color",
-          "value": "#FAF5FF",
+          "value": "hsla(270, 100%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#F3E8FF",
+          "value": "hsla(269, 100%, 95%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#E9D5FF",
+          "value": "hsla(269, 100%, 92%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#D8B4FE",
+          "value": "hsla(269, 97%, 85%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#C084FC",
+          "value": "hsla(270, 95%, 75%, 1)",
           "description": "APCA: 56.0"
         },
         "500": {
           "type": "color",
-          "value": "#A855F7",
+          "value": "hsla(271, 91%, 65%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#9333EA",
+          "value": "hsla(271, 81%, 56%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#7E22CE",
+          "value": "hsla(272, 72%, 47%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#6B21A8",
+          "value": "hsla(273, 67%, 39%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#581C87",
+          "value": "hsla(274, 66%, 32%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#3B0764",
+          "value": "hsla(274, 87%, 21%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "purpleAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(270, 100%, 51%, 0.04)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(269, 100%, 55%, 0.1)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(269, 100%, 52%, 0.17)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(269, 98%, 50%, 0.3)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(270, 97%, 50%, 0.49)",
+          "description": "APCA: 56.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(271, 99%, 48%, 0.67)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(271, 100%, 45%, 0.8)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(272, 99%, 39%, 0.87)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(273, 96%, 31%, 0.88)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(273, 95%, 25%, 0.9)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(273, 96%, 19%, 0.98)",
           "description": "APCA: AAA"
         }
       },
       "fuchsia": {
         "50": {
           "type": "color",
-          "value": "#FDF4FF",
+          "value": "hsla(289, 100%, 98%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#FAE8FF",
+          "value": "hsla(287, 100%, 95%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#F5D0FE",
+          "value": "hsla(288, 96%, 91%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#F0ABFC",
+          "value": "hsla(291, 93%, 83%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#E879F9",
+          "value": "hsla(292, 91%, 73%, 1)",
           "description": "APCA: 54.0"
         },
         "500": {
           "type": "color",
-          "value": "#D946EF",
+          "value": "hsla(292, 84%, 61%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#C026D3",
+          "value": "hsla(293, 69%, 49%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#A21CAF",
+          "value": "hsla(295, 72%, 40%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#86198F",
+          "value": "hsla(295, 70%, 33%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#701A75",
+          "value": "hsla(297, 64%, 28%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#4A044E",
+          "value": "hsla(297, 90%, 16%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "fuchsiaAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(289, 100%, 57%, 0.05)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(287, 100%, 55%, 0.1)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(288, 96%, 51%, 0.19)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(291, 100%, 48%, 0.33)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(292, 98%, 48%, 0.53)",
+          "description": "APCA: 54.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(292, 98%, 46%, 0.73)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(293, 97%, 41%, 0.86)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(295, 96%, 33%, 0.9)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(295, 97%, 26%, 0.91)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(296, 98%, 20%, 0.9)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(297, 97%, 15%, 0.99)",
           "description": "APCA: AAA"
         }
       },
       "pink": {
         "50": {
           "type": "color",
-          "value": "#FDF2F8",
+          "value": "hsla(327, 73%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#FCE7F3",
+          "value": "hsla(326, 78%, 95%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#FBCFE8",
+          "value": "hsla(326, 85%, 90%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#F9A8D4",
+          "value": "hsla(327, 87%, 82%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#F472B6",
+          "value": "hsla(329, 86%, 70%, 1)",
           "description": "APCA: 56.0"
         },
         "500": {
           "type": "color",
-          "value": "#EC4899",
+          "value": "hsla(330, 81%, 60%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#DB2777",
+          "value": "hsla(333, 71%, 51%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#BE185D",
+          "value": "hsla(335, 78%, 42%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#9D174D",
+          "value": "hsla(336, 74%, 35%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#831843",
+          "value": "hsla(336, 69%, 30%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#500724",
+          "value": "hsla(336, 84%, 17%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "pinkAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(327, 74%, 51%, 0.06)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(326, 88%, 47%, 0.1)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(326, 98%, 46%, 0.19)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(327, 95%, 48%, 0.35)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(328, 97%, 47%, 0.56)",
+          "description": "APCA: 56.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(331, 99%, 45%, 0.72)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(333, 99%, 42%, 0.85)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(335, 99%, 36%, 0.91)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(336, 100%, 29%, 0.91)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(336, 98%, 24%, 0.91)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(336, 95%, 15%, 0.98)",
           "description": "APCA: AAA"
         }
       },
       "rose": {
         "50": {
           "type": "color",
-          "value": "#FFF1F2",
+          "value": "hsla(356, 100%, 97%, 1)",
           "description": "APCA: AAA"
         },
         "100": {
           "type": "color",
-          "value": "#FFE4E6",
+          "value": "hsla(356, 100%, 95%, 1)",
           "description": "APCA: AAA"
         },
         "200": {
           "type": "color",
-          "value": "#FECDD3",
+          "value": "hsla(353, 96%, 90%, 1)",
           "description": "APCA: AAA"
         },
         "300": {
           "type": "color",
-          "value": "#FDA4AF",
+          "value": "hsla(353, 96%, 82%, 1)",
           "description": "APCA: AA"
         },
         "400": {
           "type": "color",
-          "value": "#FB7185",
+          "value": "hsla(351, 95%, 71%, 1)",
           "description": "APCA: 57.0"
         },
         "500": {
           "type": "color",
-          "value": "#F43F5E",
+          "value": "hsla(350, 89%, 60%, 1)",
           "description": "APCA: AA"
         },
         "600": {
           "type": "color",
-          "value": "#E11D48",
+          "value": "hsla(347, 77%, 50%, 1)",
           "description": "APCA: AAA"
         },
         "700": {
           "type": "color",
-          "value": "#BE123C",
+          "value": "hsla(345, 83%, 41%, 1)",
           "description": "APCA: AAA"
         },
         "800": {
           "type": "color",
-          "value": "#9F1239",
+          "value": "hsla(343, 80%, 35%, 1)",
           "description": "APCA: AAA"
         },
         "900": {
           "type": "color",
-          "value": "#881337",
+          "value": "hsla(342, 75%, 30%, 1)",
           "description": "APCA: AAA"
         },
         "950": {
           "type": "color",
-          "value": "#4C0519",
+          "value": "hsla(343, 88%, 16%, 1)",
+          "description": "APCA: AAA"
+        }
+      },
+      "roseAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(356, 100%, 54%, 0.06)",
+          "description": "APCA: AAA"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(356, 100%, 52%, 0.11)",
+          "description": "APCA: AAA"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(353, 96%, 50%, 0.2)",
+          "description": "APCA: AAA"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(352, 98%, 49%, 0.36)",
+          "description": "APCA: AA"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(351, 99%, 49%, 0.56)",
+          "description": "APCA: 57.0"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(350, 98%, 48%, 0.76)",
+          "description": "APCA: AA"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(347, 99%, 44%, 0.89)",
+          "description": "APCA: AAA"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(345, 100%, 36%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(343, 100%, 30%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(343, 100%, 30%, 0.93)",
+          "description": "APCA: AAA"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(343, 95%, 15%, 0.99)",
           "description": "APCA: AAA"
         }
       }
