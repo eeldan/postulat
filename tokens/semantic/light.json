@@ -34,147 +34,48 @@
         "value": "{core.palette.absolute.black}"
       },
       "transparent1": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.04",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.50}"
       },
       "transparent2": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.100}"
       },
       "transparent3": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.12",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.200}"
       },
       "transparent4": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.300}"
       },
       "transparent5": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.24",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.400}"
       },
       "transparent6": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.32",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.500}"
       },
       "transparent7": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.600}"
       },
       "transparent8": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.700}"
       },
       "transparent9": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.800}"
       },
       "transparent10": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.900}"
       },
       "transparent11": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.absolute.black}"
+        "value": "{core.palette.grayAlpha.950}"
       }
     },
     "baseGlass": {
