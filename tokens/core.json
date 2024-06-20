@@ -2943,6 +2943,63 @@
           "value": "hsla(343, 95%, 15%, 0.99)",
           "description": "APCA: AAA"
         }
+      },
+      "whiteAlpha": {
+        "50": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.04)",
+          "description": "APCA (Lᶜ 0) Low contrast value. Use on your own risk. Contrast calculated on black #000 background"
+        },
+        "100": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.06)",
+          "description": "APCA (Lᶜ 0) Low contrast value. Use on your own risk. Contrast calculated on black #000 background"
+        },
+        "200": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.11)",
+          "description": "APCA (Lᶜ 0) Low contrast value. Use on your own risk. Contrast calculated on black #000 background"
+        },
+        "300": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.17)",
+          "description": "APCA (Lᶜ 0) Low contrast value. Use on your own risk. Contrast calculated on black #000 background"
+        },
+        "400": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.37)",
+          "description": "APCA (Lᶜ 15) Use for non-text elements. Contrast calculated on black #000 background"
+        },
+        "500": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.56)",
+          "description": "APCA (Lᶜ 30) Approved for spot text. Contrast calculated on black #000 background"
+        },
+        "600": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.68)",
+          "description": "APCA (Lᶜ 45) Approved for headlines. Contrast calculated on black #000 background"
+        },
+        "700": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.76)",
+          "description": "APCA (Lᶜ 60) Approved for content text. Contrast calculated on black #000 background"
+        },
+        "800": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.85)",
+          "description": "APCA (Lᶜ 75) Approved for body text. Contrast calculated on black #000 background"
+        },
+        "900": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.91)",
+          "description": "APCA (Lᶜ 90) Approved for any case. Contrast calculated on black #000 background"
+        },
+        "950": {
+          "type": "color",
+          "value": "hsla(0, 0%, 100%, 0.97)",
+          "description": "APCA (Lᶜ 90) Approved for any case. Contrast calculated on black #000 background"
+        }
       }
     },
     "fontFamily": {
