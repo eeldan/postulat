@@ -221,7 +221,7 @@
     "floor": {
       "0": {
         "type": "color",
-        "value": "{core.palette.absolute.white}"
+        "value": "{core.palette.absolute.black}"
       },
       "1": {
         "type": "color",

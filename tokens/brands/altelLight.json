@@ -6,30 +6,12 @@
         "value": "{core.palette.pink.600}"
       },
       "secondary": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.pink.600}"
+        "value": "{core.palette.pink.700}"
       },
       "tertiary": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.32",
-              "space": "lch"
-            }
-          }
-        },
         "type": "color",
-        "value": "{core.palette.pink.600}"
+        "value": "{core.palette.pink.800}"
       }
     }
   }
