@@ -5,7 +5,9 @@
     "group": "Core",
     "selectedTokenSets": {
       "semantic/dimensions": "enabled",
-      "core": "enabled"
+      "core": "enabled",
+      "components/typeAndroid": "disabled",
+      "components/typeiOS": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -94,7 +96,9 @@
     "group": "Theme",
     "selectedTokenSets": {
       "semantic/light": "enabled",
-      "semantic/static": "enabled"
+      "semantic/static": "enabled",
+      "components/typeAndroid": "disabled",
+      "components/typeiOS": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -129,7 +133,9 @@
     "group": "Theme",
     "selectedTokenSets": {
       "semantic/dark": "enabled",
-      "semantic/static": "enabled"
+      "semantic/static": "enabled",
+      "components/typeAndroid": "disabled",
+      "components/typeiOS": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -157,7 +163,9 @@
     "name": "Tele2",
     "group": "Brands",
     "selectedTokenSets": {
-      "brands/tele2Light": "enabled"
+      "brands/tele2Light": "enabled",
+      "components/typeAndroid": "disabled",
+      "components/typeiOS": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -180,7 +188,9 @@
     "name": "Altel",
     "group": "Brands",
     "selectedTokenSets": {
-      "brands/altelLight": "enabled"
+      "brands/altelLight": "enabled",
+      "components/typeAndroid": "disabled",
+      "components/typeiOS": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -205,7 +215,9 @@
     "selectedTokenSets": {
       "semantic/dimensions": "source",
       "core": "source",
-      "components/ios": "enabled"
+      "components/ios": "enabled",
+      "components/typeAndroid": "disabled",
+      "components/typeiOS": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -233,7 +245,9 @@
     "selectedTokenSets": {
       "semantic/dimensions": "source",
       "core": "source",
-      "components/android": "enabled"
+      "components/android": "enabled",
+      "components/typeAndroid": "disabled",
+      "components/typeiOS": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {

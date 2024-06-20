@@ -11,6 +11,7 @@
     "brands/altelDark",
     "components/ios",
     "components/android",
-    "components/typography"
+    "components/typeiOS",
+    "components/typeAndroid"
   ]
 }
