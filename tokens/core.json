@@ -3000,41 +3000,21 @@
     "fontFamily": {
       "sfPro": {
         "parent": "typo/properties",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "fontFamilies",
         "value": "SF Pro"
       },
       "sfMono": {
         "parent": "typo/properties",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "fontFamilies",
         "value": "SF Mono"
       },
       "inter": {
         "parent": "typo/properties",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "fontFamilies",
         "value": "Inter"
       },
       "ibmPlexMono": {
         "parent": "typo/properties",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "fontFamilies",
         "value": "IBM Plex Mono"
       }
