@@ -1,11 +1,6 @@
 {
   "core": {
     "xBase": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "type": "other",
       "value": "4"
     },
