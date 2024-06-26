@@ -69,7 +69,7 @@
           }
         }
       },
-      "label": {
+      "body": {
         "regular": {
           "large": {
             "type": "typography",
@@ -192,50 +192,6 @@
               "fontSize": "{core.fontSize.base.xsmall}",
               "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
               "fontFamily": "{core.fontFamily.ibmPlexMono}",
-              "lineHeight": "{core.lineheight.body.xsmall}"
-            }
-          }
-        }
-      },
-      "paragraph": {
-        "regular": {
-          "large": {
-            "type": "typography",
-            "value": {
-              "fontFamily": "{core.fontFamily.inter}",
-              "fontWeight": "{core.fontWeight.regular}",
-              "fontSize": "{core.fontSize.base.large}",
-              "letterSpacing": "{core.letterSpacing.sfPro.baseL}",
-              "lineHeight": "{core.lineheight.body.large}"
-            }
-          },
-          "medium": {
-            "type": "typography",
-            "value": {
-              "fontWeight": "{core.fontWeight.regular}",
-              "fontSize": "{core.fontSize.base.medium}",
-              "letterSpacing": "{core.letterSpacing.sfPro.baseM}",
-              "fontFamily": "{core.fontFamily.inter}",
-              "lineHeight": "{core.lineheight.body.medium}"
-            }
-          },
-          "small": {
-            "type": "typography",
-            "value": {
-              "fontWeight": "{core.fontWeight.regular}",
-              "fontSize": "{core.fontSize.base.small}",
-              "letterSpacing": "{core.letterSpacing.sfPro.baseS}",
-              "fontFamily": "{core.fontFamily.inter}",
-              "lineHeight": "{core.lineheight.body.small}"
-            }
-          },
-          "xsmall": {
-            "type": "typography",
-            "value": {
-              "fontWeight": "{core.fontWeight.regular}",
-              "fontSize": "{core.fontSize.base.xsmall}",
-              "letterSpacing": "{core.letterSpacing.sfPro.baseXS}",
-              "fontFamily": "{core.fontFamily.inter}",
               "lineHeight": "{core.lineheight.body.xsmall}"
             }
           }
