@@ -5,8 +5,7 @@
     "group": "Core",
     "selectedTokenSets": {
       "semantic/dimensions": "enabled",
-      "core": "enabled",
-      "specific": "disabled"
+      "core": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -95,8 +94,7 @@
     "group": "Theme",
     "selectedTokenSets": {
       "semantic/light": "enabled",
-      "semantic/static": "enabled",
-      "specific": "disabled"
+      "semantic/static": "enabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -131,8 +129,7 @@
     "group": "Theme",
     "selectedTokenSets": {
       "semantic/dark": "enabled",
-      "semantic/static": "enabled",
-      "specific": "disabled"
+      "semantic/static": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -160,8 +157,7 @@
     "name": "Tele2",
     "group": "Brands",
     "selectedTokenSets": {
-      "brands/tele2Light": "enabled",
-      "specific": "disabled"
+      "brands/tele2Light": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -184,8 +180,7 @@
     "name": "Altel",
     "group": "Brands",
     "selectedTokenSets": {
-      "brands/altelLight": "enabled",
-      "specific": "disabled"
+      "brands/altelLight": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -210,8 +205,7 @@
     "selectedTokenSets": {
       "semantic/dimensions": "source",
       "core": "source",
-      "components/ios": "enabled",
-      "specific": "disabled"
+      "components/ios": "enabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -239,8 +233,7 @@
     "selectedTokenSets": {
       "semantic/dimensions": "source",
       "core": "source",
-      "components/android": "enabled",
-      "specific": "disabled"
+      "components/android": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {

@@ -220,29 +220,14 @@
     },
     "floor": {
       "zero": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "color",
         "value": "{core.palette.absolute.white}"
       },
       "one": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "color",
         "value": "{semantic.baseStrong.transparent1}"
       },
       "two": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {}
-          }
-        },
         "type": "color",
         "value": "{semantic.baseStrong.transparent1}"
       }
