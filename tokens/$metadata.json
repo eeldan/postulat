@@ -12,6 +12,7 @@
     "components/ios",
     "components/android",
     "components/typeiOS",
-    "components/typeAndroid"
+    "components/typeAndroid",
+    "specific"
   ]
 }

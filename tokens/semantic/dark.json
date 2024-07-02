@@ -219,15 +219,30 @@
       }
     },
     "floor": {
-      "0": {
+      "zero": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
         "type": "color",
         "value": "{core.palette.absolute.black}"
       },
-      "1": {
+      "one": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
         "type": "color",
         "value": "{semantic.baseStrong.transparent1}"
       },
-      "2": {
+      "two": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
         "type": "color",
         "value": "{semantic.baseStrong.transparent1}"
       }
@@ -338,20 +353,6 @@
       "inverted": {
         "type": "color",
         "value": "{core.palette.absolute.white}"
-      }
-    },
-    "gradient": {
-      "1": {
-        "type": "color",
-        "value": "linear-gradient(135deg, {core.palette.gray.400} 20% , {core.palette.gray.500} 100% )"
-      },
-      "2": {
-        "type": "color",
-        "value": "linear-gradient(135deg, {core.palette.red.500} 30% , {core.palette.red.600} 100% )"
-      },
-      "3": {
-        "type": "color",
-        "value": "linear-gradient(135deg, {core.palette.orange.300} 30% , {core.palette.orange.500} 100% )"
       }
     }
   }

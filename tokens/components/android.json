@@ -254,7 +254,7 @@
         },
         "body": {
           "type": "color",
-          "value": "{semantic.floor.0}"
+          "value": "{semantic.floor.zero}"
         }
       },
       "tabBar": {

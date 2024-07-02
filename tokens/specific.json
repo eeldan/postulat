@@ -1,0 +1,33 @@
+{
+  "semantic": {
+    "gradient": {
+      "one": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
+        "type": "gradient",
+        "value": "linear-gradient(135deg, {core.palette.gray.400} 20% , {core.palette.gray.500} 100% )"
+      },
+      "two": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
+        "type": "gradient",
+        "value": "linear-gradient(135deg, {core.palette.red.500} 30% , {core.palette.red.600} 100% )"
+      },
+      "three": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {}
+          }
+        },
+        "type": "gradient",
+        "value": "linear-gradient(135deg, {core.palette.orange.300} 30% , {core.palette.orange.500} 100% )"
+      }
+    }
+  }
+}
