@@ -9,9 +9,7 @@
     "tele2Dark",
     "altelLight",
     "altelDark",
-    "ios",
-    "android",
-    "typeiOS",
-    "typeAndroid"
+    "component",
+    "typography"
   ]
 }

@@ -5,7 +5,9 @@
     "group": "Core",
     "selectedTokenSets": {
       "core": "enabled",
-      "dimensions": "enabled"
+      "dimensions": "enabled",
+      "typography": "disabled",
+      "component": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -94,7 +96,9 @@
     "group": "Theme",
     "selectedTokenSets": {
       "light": "enabled",
-      "static": "enabled"
+      "static": "enabled",
+      "typography": "disabled",
+      "component": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -129,7 +133,9 @@
     "group": "Theme",
     "selectedTokenSets": {
       "dark": "enabled",
-      "static": "enabled"
+      "static": "enabled",
+      "typography": "disabled",
+      "component": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -157,7 +163,9 @@
     "name": "Tele2",
     "group": "Brands",
     "selectedTokenSets": {
-      "tele2Light": "enabled"
+      "tele2Light": "enabled",
+      "typography": "disabled",
+      "component": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -180,7 +188,9 @@
     "name": "Altel",
     "group": "Brands",
     "selectedTokenSets": {
-      "altelLight": "enabled"
+      "altelLight": "enabled",
+      "typography": "disabled",
+      "component": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -205,7 +215,8 @@
     "selectedTokenSets": {
       "core": "source",
       "dimensions": "source",
-      "ios": "enabled"
+      "typography": "disabled",
+      "component": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -233,7 +244,8 @@
     "selectedTokenSets": {
       "core": "source",
       "dimensions": "source",
-      "android": "enabled"
+      "typography": "disabled",
+      "component": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
