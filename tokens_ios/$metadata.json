@@ -1,0 +1,17 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "dimensions",
+    "light",
+    "dark",
+    "static",
+    "tele2Light",
+    "tele2Dark",
+    "altelLight",
+    "altelDark",
+    "ios",
+    "android",
+    "typeiOS",
+    "typeAndroid"
+  ]
+}
