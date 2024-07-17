@@ -4,507 +4,507 @@
       "buttonPrimary": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.brand.primary}}"
+          "value": "{brand.primary}}"
         },
         "bodyPressed": {
           "type": "color",
-          "value": "{semantic.brand.secondary}"
+          "value": "{brand.secondary}"
         },
         "bodyDisabled": {
           "type": "color",
-          "value": "{semantic.brand.tertiary}"
+          "value": "{brand.tertiary}"
         },
         "textDefault": {
           "type": "color",
-          "value": "{semantic.text.inverted}"
+          "value": "{text.inverted}"
         },
         "textDisabled": {
           "type": "color",
-          "value": "{semantic.text.inverted}"
+          "value": "{text.inverted}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.icon.inverted}"
+          "value": "{icon.inverted}"
         },
         "iconDisabled": {
           "type": "color",
-          "value": "{semantic.icon.inverted}"
+          "value": "{icon.inverted}"
         }
       },
       "buttonSecondary": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyPressed": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent2}"
+          "value": "{baseStrong.transparent2}"
         },
         "bodyDisabled": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "textDefault": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textDisabled": {
           "type": "color",
-          "value": "{semantic.text.secondary}"
+          "value": "{text.secondary}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.icon.primary}"
+          "value": "{icon.primary}"
         },
         "iconDisabled": {
           "type": "color",
-          "value": "{semantic.icon.secondary}"
+          "value": "{icon.secondary}"
         }
       },
       "buttonTertiary": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "bodyPressed": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent2}"
+          "value": "{baseStrong.transparent2}"
         },
         "bodyDisabled": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "textDefault": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textDisabled": {
           "type": "color",
-          "value": "{semantic.text.secondary}"
+          "value": "{text.secondary}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.icon.primary}"
+          "value": "{icon.primary}"
         },
         "iconDisabled": {
           "type": "color",
-          "value": "{semantic.icon.secondary}"
+          "value": "{icon.secondary}"
         }
       },
       "buttonGhost": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "textDefault": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         },
         "textPressed": {
           "type": "color",
-          "value": "{semantic.accent.tertiary}"
+          "value": "{accent.tertiary}"
         },
         "textDisabled": {
           "type": "color",
-          "value": "{semantic.accentPale.tertiary}"
+          "value": "{accentPale.tertiary}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         },
         "iconPressed": {
           "type": "color",
-          "value": "{semantic.accent.tertiary}"
+          "value": "{accent.tertiary}"
         },
         "iconDisabled": {
           "type": "color",
-          "value": "{semantic.accentPale.tertiary}"
+          "value": "{accentPale.tertiary}"
         }
       },
       "input": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyActive": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyError": {
           "type": "color",
-          "value": "{semantic.critical.tertiary}"
+          "value": "{critical.tertiary}"
         },
         "bodySuccess": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyDisabled": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyReadOnly": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "textDisabled": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent8}"
+          "value": "{baseGlass.transparent8}"
         },
         "textDefault": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textPlaceholderDefault": {
           "type": "color",
-          "value": "{semantic.text.secondary}"
+          "value": "{text.secondary}"
         },
         "textPlaceholderDisabled": {
           "type": "color",
-          "value": "{semantic.text.tertiary}"
+          "value": "{text.tertiary}"
         },
         "borderDefault": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "borderActive": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         },
         "borderError": {
           "type": "color",
-          "value": "{semantic.critical.primary}"
+          "value": "{critical.primary}"
         },
         "borderSuccess": {
           "type": "color",
-          "value": "{semantic.success.primary}"
+          "value": "{success.primary}"
         },
         "borderDisabled": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent2}"
+          "value": "{baseStrong.transparent2}"
         },
         "borderReadOnly": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent5}"
+          "value": "{baseGlass.transparent5}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.icon.primary}"
+          "value": "{icon.primary}"
         },
         "iconDisabled": {
           "type": "color",
-          "value": "{semantic.icon.tertiary}"
+          "value": "{icon.tertiary}"
         },
         "cursor": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         }
       },
       "chipsOff": {
         "bodyDisabled": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyPressed": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent9}"
+          "value": "{baseGlass.transparent9}"
         },
         "borderDisabled": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent8}"
+          "value": "{baseGlass.transparent8}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.icon.primary}"
+          "value": "{icon.primary}"
         },
         "iconDisabled": {
           "type": "color",
-          "value": "{semantic.icon.tertiary}"
+          "value": "{icon.tertiary}"
         },
         "textDefault": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textDisabled": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.neutral.primary}"
+          "value": "{neutral.primary}"
         },
         "borderDefault": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         }
       },
       "chipsOn": {
         "bodyDisabled": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.icon.inverted}"
+          "value": "{icon.inverted}"
         },
         "iconDisabled": {
           "type": "color",
-          "value": "{semantic.icon.tertiary}"
+          "value": "{icon.tertiary}"
         },
         "textDefault": {
           "type": "color",
-          "value": "{semantic.text.inverted}"
+          "value": "{text.inverted}"
         },
         "textDisabled": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent9}"
+          "value": "{baseGlass.transparent9}"
         },
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.brand.primary}"
+          "value": "{brand.primary}"
         }
       },
       "subhead": {
         "textLabel": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textDiscription": {
           "type": "color",
-          "value": "{semantic.text.secondary}"
+          "value": "{text.secondary}"
         },
         "icon": {
           "type": "color",
-          "value": "{semantic.icon.primary}"
+          "value": "{icon.primary}"
         }
       },
       "statusMessage": {
         "TextError": {
           "type": "color",
-          "value": "{semantic.text.critical}"
+          "value": "{text.critical}"
         }
       },
       "navBar": {
         "body": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent9}"
+          "value": "{baseGlass.transparent9}"
         },
         "bodyGhost": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "textTitle": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textSubtitle": {
           "type": "color",
-          "value": "{semantic.text.secondary}"
+          "value": "{text.secondary}"
         },
         "divider": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent2}"
+          "value": "{baseStrong.transparent2}"
         },
         "grabBar": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent5}"
+          "value": "{baseGlass.transparent5}"
         }
       },
       "sheet": {
         "grabBar": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent5}"
+          "value": "{baseGlass.transparent5}"
         },
         "body": {
           "type": "color",
-          "value": "{semantic.floor.zero}"
+          "value": "{floor.zero}"
         }
       },
       "tabBar": {
         "body": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent9}"
+          "value": "{baseGlass.transparent9}"
         }
       },
       "tabButton": {
         "textLabelDefault": {
           "type": "color",
-          "value": "{semantic.text.secondary}"
+          "value": "{text.secondary}"
         },
         "textLabelSelected": {
           "type": "color",
-          "value": "{semantic.text.accent}"
+          "value": "{text.accent}"
         },
         "iconDefault": {
           "type": "color",
-          "value": "{semantic.icon.secondary}"
+          "value": "{icon.secondary}"
         },
         "iconSelected": {
           "type": "color",
-          "value": "{semantic.text.accent}"
+          "value": "{text.accent}"
         },
         "body": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         }
       },
       "segmentButton": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "bodySelected": {
           "type": "color",
-          "value": "{semantic.neutral.primary}"
+          "value": "{neutral.primary}"
         },
         "text": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "icon": {
           "type": "color",
-          "value": "{semantic.icon.primary}"
+          "value": "{icon.primary}"
         },
         "separator": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent7}"
+          "value": "{baseGlass.transparent7}"
         }
       },
       "segmentedControl": {
         "body": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         }
       },
       "tab": {
         "textDefault": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent5}"
+          "value": "{baseGlass.transparent5}"
         },
         "textActive": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         }
       },
       "sectionHeader": {
         "textDefault": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         }
       },
       "switchOn": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent2}"
+          "value": "{baseStrong.transparent2}"
         },
         "bodySelected": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         },
         "knob": {
           "type": "color",
-          "value": "{semantic.baseGlass.primary}"
+          "value": "{baseGlass.primary}"
         }
       },
       "switchOff": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodySelected": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent4}"
+          "value": "{baseGlass.transparent4}"
         },
         "knob": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent10}"
+          "value": "{baseGlass.transparent10}"
         }
       },
       "cell": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "textTitle": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textSubtitle": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textExtraSubtitle": {
           "type": "color",
-          "value": "{semantic.text.secondary}"
+          "value": "{text.secondary}"
         },
         "textValue": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textSubValue": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "icon": {
           "type": "color",
-          "value": "{semantic.baseGlass.transparent4}"
+          "value": "{baseGlass.transparent4}"
         },
         "divider": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent2}"
+          "value": "{baseStrong.transparent2}"
         }
       },
       "snackBar": {
         "bodyDefault": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         },
         "bodySuccess": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         },
         "bodyInfo": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         },
         "bodyWarning": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         },
         "bodyError": {
           "type": "color",
-          "value": "{semantic.accent.primary}"
+          "value": "{accent.primary}"
         }
       },
       "amount": {
         "textValueMajor": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textValueMinor": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textCurrencySymbol": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         },
         "textMathSymbol": {
           "type": "color",
-          "value": "{semantic.text.primary}"
+          "value": "{text.primary}"
         }
       },
       "graphicContainer": {
         "textInitial": {
           "type": "color",
-          "value": "{semantic.text.staticPrimaryWhite}"
+          "value": "{text.staticPrimaryWhite}"
         },
         "bodyPrimary": {
           "type": "color",
-          "value": "{semantic.baseStrong.transparent1}"
+          "value": "{baseStrong.transparent1}"
         },
         "bodyGradient1": {
           "type": "color",
-          "value": "linear-gradient(135deg, {core.palette.gray.400} , {core.palette.gray.500} )"
+          "value": "linear-gradient(135deg, {palette.gray.400} , {palette.gray.500} )"
         }
       }
     }

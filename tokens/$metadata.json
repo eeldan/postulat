@@ -1,18 +1,18 @@
 {
   "tokenSetOrder": [
     "core",
-    "semantic/dimensions",
-    "semantic/light",
-    "semantic/dark",
-    "semantic/static",
-    "brands/tele2Light",
-    "brands/tele2Dark",
-    "brands/altelLight",
-    "brands/altelDark",
-    "components/ios",
-    "components/android",
-    "components/typeiOS",
-    "components/typeAndroid",
+    "dimensions",
+    "light",
+    "dark",
+    "static",
+    "tele2Light",
+    "tele2Dark",
+    "altelLight",
+    "altelDark",
+    "ios",
+    "android",
+    "typeiOS",
+    "typeAndroid",
     "specific"
   ]
 }
