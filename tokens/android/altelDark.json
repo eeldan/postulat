@@ -1,0 +1,16 @@
+{
+  "brand": {
+    "primary": {
+      "type": "color",
+      "value": "{palette.pink.700}"
+    },
+    "secondary": {
+      "type": "color",
+      "value": "{palette.pink.800}"
+    },
+    "tertiary": {
+      "type": "color",
+      "value": "{palette.pink.900}"
+    }
+  }
+}
