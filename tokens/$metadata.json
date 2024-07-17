@@ -12,7 +12,6 @@
     "ios",
     "android",
     "typeiOS",
-    "typeAndroid",
-    "specific"
+    "typeAndroid"
   ]
 }

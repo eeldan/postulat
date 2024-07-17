@@ -501,10 +501,6 @@
         "bodyPrimary": {
           "type": "color",
           "value": "{baseStrong.transparent1}"
-        },
-        "bodyGradient1": {
-          "type": "color",
-          "value": "linear-gradient(135deg, {palette.gray.400} , {palette.gray.500} )"
         }
       }
     }

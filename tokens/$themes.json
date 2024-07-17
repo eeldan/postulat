@@ -5,18 +5,7 @@
     "group": "Core",
     "selectedTokenSets": {
       "core": "enabled",
-      "dimensions": "enabled",
-      "light": "disabled",
-      "dark": "disabled",
-      "static": "disabled",
-      "tele2Light": "disabled",
-      "tele2Dark": "disabled",
-      "altelLight": "disabled",
-      "altelDark": "disabled",
-      "ios": "disabled",
-      "android": "disabled",
-      "typeiOS": "disabled",
-      "typeAndroid": "disabled"
+      "dimensions": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -104,18 +93,8 @@
     "name": "Light",
     "group": "Theme",
     "selectedTokenSets": {
-      "dimensions": "disabled",
       "light": "enabled",
-      "dark": "disabled",
-      "static": "enabled",
-      "tele2Light": "disabled",
-      "tele2Dark": "disabled",
-      "altelLight": "disabled",
-      "altelDark": "disabled",
-      "ios": "disabled",
-      "android": "disabled",
-      "typeiOS": "disabled",
-      "typeAndroid": "disabled"
+      "static": "enabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -149,18 +128,8 @@
     "name": "Dark",
     "group": "Theme",
     "selectedTokenSets": {
-      "dimensions": "disabled",
-      "light": "disabled",
       "dark": "enabled",
-      "static": "enabled",
-      "tele2Light": "disabled",
-      "tele2Dark": "disabled",
-      "altelLight": "disabled",
-      "altelDark": "disabled",
-      "ios": "disabled",
-      "android": "disabled",
-      "typeiOS": "disabled",
-      "typeAndroid": "disabled"
+      "static": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -188,18 +157,7 @@
     "name": "Tele2",
     "group": "Brands",
     "selectedTokenSets": {
-      "dimensions": "disabled",
-      "light": "disabled",
-      "dark": "disabled",
-      "static": "disabled",
-      "tele2Light": "enabled",
-      "tele2Dark": "disabled",
-      "altelLight": "disabled",
-      "altelDark": "disabled",
-      "ios": "disabled",
-      "android": "disabled",
-      "typeiOS": "disabled",
-      "typeAndroid": "disabled"
+      "tele2Light": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -222,18 +180,7 @@
     "name": "Altel",
     "group": "Brands",
     "selectedTokenSets": {
-      "dimensions": "disabled",
-      "light": "disabled",
-      "dark": "disabled",
-      "static": "disabled",
-      "tele2Light": "disabled",
-      "tele2Dark": "disabled",
-      "altelLight": "enabled",
-      "altelDark": "disabled",
-      "ios": "disabled",
-      "android": "disabled",
-      "typeiOS": "disabled",
-      "typeAndroid": "disabled"
+      "altelLight": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -258,17 +205,7 @@
     "selectedTokenSets": {
       "core": "source",
       "dimensions": "source",
-      "light": "disabled",
-      "dark": "disabled",
-      "static": "disabled",
-      "tele2Light": "disabled",
-      "tele2Dark": "disabled",
-      "altelLight": "disabled",
-      "altelDark": "disabled",
-      "ios": "enabled",
-      "android": "disabled",
-      "typeiOS": "disabled",
-      "typeAndroid": "disabled"
+      "ios": "enabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -296,17 +233,7 @@
     "selectedTokenSets": {
       "core": "source",
       "dimensions": "source",
-      "light": "disabled",
-      "dark": "disabled",
-      "static": "disabled",
-      "tele2Light": "disabled",
-      "tele2Dark": "disabled",
-      "altelLight": "disabled",
-      "altelDark": "disabled",
-      "ios": "disabled",
-      "android": "enabled",
-      "typeiOS": "disabled",
-      "typeAndroid": "disabled"
+      "android": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
