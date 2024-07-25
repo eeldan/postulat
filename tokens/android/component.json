@@ -96,11 +96,11 @@
     },
     "textDefault": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     },
     "textPressed": {
       "type": "color",
-      "value": "{accent.tertiary}"
+      "value": "{semantic.accent.tertiary}"
     },
     "textDisabled": {
       "type": "color",
@@ -108,11 +108,11 @@
     },
     "iconDefault": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     },
     "iconPressed": {
       "type": "color",
-      "value": "{accent.tertiary}"
+      "value": "{semantic.accent.tertiary}"
     },
     "iconDisabled": {
       "type": "color",
@@ -166,7 +166,7 @@
     },
     "borderActive": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     },
     "borderError": {
       "type": "color",
@@ -194,7 +194,7 @@
     },
     "cursor": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     }
   },
   "subhead": {
@@ -404,23 +404,23 @@
   "snackBar": {
     "bodyDefault": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     },
     "bodySuccess": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     },
     "bodyInfo": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     },
     "bodyWarning": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     },
     "bodyError": {
       "type": "color",
-      "value": "{accent.primary}"
+      "value": "{semantic.accent.primary}"
     }
   },
   "amount": {
