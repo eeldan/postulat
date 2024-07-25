@@ -5,9 +5,7 @@
     "group": "Core",
     "selectedTokenSets": {
       "core": "enabled",
-      "dimensions": "enabled",
-      "typography": "disabled",
-      "component": "disabled"
+      "dimensions": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -96,9 +94,7 @@
     "group": "Theme",
     "selectedTokenSets": {
       "light": "enabled",
-      "static": "enabled",
-      "typography": "disabled",
-      "component": "disabled"
+      "static": "enabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -133,9 +129,7 @@
     "group": "Theme",
     "selectedTokenSets": {
       "dark": "enabled",
-      "static": "enabled",
-      "typography": "disabled",
-      "component": "disabled"
+      "static": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -163,9 +157,7 @@
     "name": "Tele2",
     "group": "Brands",
     "selectedTokenSets": {
-      "tele2Light": "enabled",
-      "typography": "disabled",
-      "component": "disabled"
+      "tele2Light": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -188,9 +180,7 @@
     "name": "Altel",
     "group": "Brands",
     "selectedTokenSets": {
-      "altelLight": "enabled",
-      "typography": "disabled",
-      "component": "disabled"
+      "altelLight": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -214,9 +204,7 @@
     "group": "Platforms",
     "selectedTokenSets": {
       "core": "source",
-      "dimensions": "source",
-      "typography": "disabled",
-      "component": "disabled"
+      "dimensions": "source"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -244,7 +232,6 @@
     "selectedTokenSets": {
       "core": "source",
       "dimensions": "source",
-      "typography": "disabled",
       "component": "enabled"
     },
     "$figmaStyleReferences": {},
