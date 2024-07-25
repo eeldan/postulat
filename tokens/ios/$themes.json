@@ -978,5 +978,14 @@
     },
     "$figmaCollectionId": "VariableCollectionId:44:2305",
     "$figmaModeId": "44:4"
+  },
+  {
+    "id": "a0f962e98929e3b4322e2e768ef1cc6eaeb5794b",
+    "name": "component",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component": "enabled",
+      "typography": "enabled"
+    }
   }
 ]
