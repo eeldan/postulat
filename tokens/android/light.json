@@ -3,247 +3,247 @@
     "accent": {
       "primary": {
         "type": "color",
-        "value": "{palette.blue.500}"
+        "value": "{core.palette.blue.500}"
       },
       "secondary": {
         "type": "color",
-        "value": "{palette.blue.600}"
+        "value": "{core.palette.blue.600}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{palette.blue.700}"
+        "value": "{core.palette.blue.700}"
       }
     },
     "accentPale": {
       "primary": {
         "type": "color",
-        "value": "{palette.blue.100}"
+        "value": "{core.palette.blue.100}"
       },
       "secondary": {
         "type": "color",
-        "value": "{palette.blue.200}"
+        "value": "{core.palette.blue.200}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{palette.blue.300}"
+        "value": "{core.palette.blue.300}"
       }
     },
     "baseStrong": {
       "primary": {
         "type": "color",
-        "value": "{palette.absolute.black}"
+        "value": "{core.palette.absolute.black}"
       },
       "transparent1": {
         "type": "color",
-        "value": "{palette.grayAlpha.50}"
+        "value": "{core.palette.grayAlpha.50}"
       },
       "transparent2": {
         "type": "color",
-        "value": "{palette.grayAlpha.200}"
+        "value": "{core.palette.grayAlpha.200}"
       },
       "transparent3": {
         "type": "color",
-        "value": "{palette.grayAlpha.100}"
+        "value": "{core.palette.grayAlpha.100}"
       },
       "transparent4": {
         "type": "color",
-        "value": "{palette.grayAlpha.300}"
+        "value": "{core.palette.grayAlpha.300}"
       },
       "transparent5": {
         "type": "color",
-        "value": "{palette.grayAlpha.400}"
+        "value": "{core.palette.grayAlpha.400}"
       },
       "transparent6": {
         "type": "color",
-        "value": "{palette.grayAlpha.500}"
+        "value": "{core.palette.grayAlpha.500}"
       },
       "transparent7": {
         "type": "color",
-        "value": "{palette.grayAlpha.600}"
+        "value": "{core.palette.grayAlpha.600}"
       },
       "transparent8": {
         "type": "color",
-        "value": "{palette.grayAlpha.700}"
+        "value": "{core.palette.grayAlpha.700}"
       },
       "transparent9": {
         "type": "color",
-        "value": "{palette.grayAlpha.800}"
+        "value": "{core.palette.grayAlpha.800}"
       },
       "transparent10": {
         "type": "color",
-        "value": "{palette.grayAlpha.900}"
+        "value": "{core.palette.grayAlpha.900}"
       },
       "transparent11": {
         "type": "color",
-        "value": "{palette.grayAlpha.950}"
+        "value": "{core.palette.grayAlpha.950}"
       }
     },
     "baseGlass": {
       "primary": {
         "type": "color",
-        "value": "{palette.absolute.transparentWhite}"
+        "value": "{core.palette.absolute.transparentWhite}"
       },
       "transparent1": {
         "type": "color",
-        "value": "{palette.whiteAlpha.50}"
+        "value": "{core.palette.whiteAlpha.50}"
       },
       "transparent2": {
         "type": "color",
-        "value": "{palette.whiteAlpha.100}"
+        "value": "{core.palette.whiteAlpha.100}"
       },
       "transparent3": {
         "type": "color",
-        "value": "{palette.whiteAlpha.200}"
+        "value": "{core.palette.whiteAlpha.200}"
       },
       "transparent4": {
         "type": "color",
-        "value": "{palette.whiteAlpha.300}"
+        "value": "{core.palette.whiteAlpha.300}"
       },
       "transparent5": {
         "type": "color",
-        "value": "{palette.whiteAlpha.400}"
+        "value": "{core.palette.whiteAlpha.400}"
       },
       "transparent6": {
         "type": "color",
-        "value": "{palette.whiteAlpha.500}"
+        "value": "{core.palette.whiteAlpha.500}"
       },
       "transparent7": {
         "type": "color",
-        "value": "{palette.whiteAlpha.600}"
+        "value": "{core.palette.whiteAlpha.600}"
       },
       "transparent8": {
         "type": "color",
-        "value": "{palette.whiteAlpha.700}"
+        "value": "{core.palette.whiteAlpha.700}"
       },
       "transparent9": {
         "type": "color",
-        "value": "{palette.whiteAlpha.800}"
+        "value": "{core.palette.whiteAlpha.800}"
       },
       "transparent10": {
         "type": "color",
-        "value": "{palette.whiteAlpha.900}"
+        "value": "{core.palette.whiteAlpha.900}"
       },
       "transparent11": {
         "type": "color",
-        "value": "{palette.whiteAlpha.950}"
+        "value": "{core.palette.whiteAlpha.950}"
       }
     },
     "neutral": {
       "primary": {
         "type": "color",
-        "value": "{palette.absolute.white}"
+        "value": "{core.palette.absolute.white}"
       },
       "secondary": {
         "type": "color",
-        "value": "{palette.gray.300}"
+        "value": "{core.palette.gray.300}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{palette.gray.50}"
+        "value": "{core.palette.gray.50}"
       },
       "quaternary": {
         "type": "color",
-        "value": "{palette.gray.50}"
+        "value": "{core.palette.gray.50}"
       }
     },
     "warning": {
       "primary": {
         "type": "color",
-        "value": "{palette.yellow.500}"
+        "value": "{core.palette.yellow.500}"
       },
       "secondary": {
         "type": "color",
-        "value": "{palette.yellow.300}"
+        "value": "{core.palette.yellow.300}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{palette.yellow.50}"
+        "value": "{core.palette.yellow.50}"
       },
       "quaternary": {
         "type": "color",
-        "value": "{palette.yellow.50}"
+        "value": "{core.palette.yellow.50}"
       }
     },
     "success": {
       "primary": {
         "type": "color",
-        "value": "{palette.green.500}"
+        "value": "{core.palette.green.500}"
       },
       "secondary": {
         "type": "color",
-        "value": "{palette.green.600}"
+        "value": "{core.palette.green.600}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{palette.state.50}"
+        "value": "{core.palette.state.50}"
       },
       "quaternary": {
         "type": "color",
-        "value": "{palette.state.50}"
+        "value": "{core.palette.state.50}"
       }
     },
     "critical": {
       "primary": {
         "type": "color",
-        "value": "{palette.red.500}"
+        "value": "{core.palette.red.500}"
       },
       "secondary": {
         "type": "color",
-        "value": "{palette.red.300}"
+        "value": "{core.palette.red.300}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{palette.red.50}"
+        "value": "{core.palette.red.50}"
       },
       "quaternary": {
         "type": "color",
-        "value": "{palette.red.50}"
+        "value": "{core.palette.red.50}"
       }
     },
     "info": {
       "primary": {
         "type": "color",
-        "value": "{palette.indigo.500}"
+        "value": "{core.palette.indigo.500}"
       },
       "secondary": {
         "type": "color",
-        "value": "{palette.indigo.400}"
+        "value": "{core.palette.indigo.400}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{palette.indigo.300}"
+        "value": "{core.palette.indigo.300}"
       },
       "quaternary": {
         "type": "color",
-        "value": "{palette.indigo.200}"
+        "value": "{core.palette.indigo.200}"
       }
     },
     "floor": {
       "zero": {
         "type": "color",
-        "value": "{palette.absolute.white}"
+        "value": "{core.palette.absolute.white}"
       },
       "one": {
         "type": "color",
-        "value": "{baseStrong.transparent1}"
+        "value": "{semantic.baseStrong.transparent1}"
       },
       "two": {
         "type": "color",
-        "value": "{baseStrong.transparent1}"
+        "value": "{semantic.baseStrong.transparent1}"
       }
     },
     "text": {
       "primary": {
         "type": "color",
-        "value": "{baseStrong.primary}"
+        "value": "{semantic.baseStrong.primary}"
       },
       "secondary": {
         "type": "color",
-        "value": "{baseStrong.transparent7}"
+        "value": "{semantic.baseStrong.transparent7}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{baseStrong.transparent4}"
+        "value": "{semantic.baseStrong.transparent4}"
       },
       "accent": {
         "type": "color",
@@ -251,19 +251,19 @@
       },
       "success": {
         "type": "color",
-        "value": "{success.primary}"
+        "value": "{semantic.success.primary}"
       },
       "info": {
         "type": "color",
-        "value": "{info.primary}"
+        "value": "{semantic.info.primary}"
       },
       "warning": {
         "type": "color",
-        "value": "{warning.primary}"
+        "value": "{semantic.warning.primary}"
       },
       "critical": {
         "type": "color",
-        "value": "{critical.primary}"
+        "value": "{semantic.critical.primary}"
       },
       "staticPrimaryWhite": {
         "type": "color",
@@ -283,21 +283,21 @@
       },
       "inverted": {
         "type": "color",
-        "value": "{palette.absolute.white}"
+        "value": "{core.palette.absolute.white}"
       }
     },
     "icon": {
       "primary": {
         "type": "color",
-        "value": "{baseStrong.primary}"
+        "value": "{semantic.baseStrong.primary}"
       },
       "secondary": {
         "type": "color",
-        "value": "{baseStrong.transparent7}"
+        "value": "{semantic.baseStrong.transparent7}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{baseStrong.transparent4}"
+        "value": "{semantic.baseStrong.transparent4}"
       },
       "accent": {
         "type": "color",
@@ -305,19 +305,19 @@
       },
       "success": {
         "type": "color",
-        "value": "{success.primary}"
+        "value": "{semantic.success.primary}"
       },
       "info": {
         "type": "color",
-        "value": "{info.primary}"
+        "value": "{semantic.info.primary}"
       },
       "warning": {
         "type": "color",
-        "value": "{warning.primary}"
+        "value": "{semantic.warning.primary}"
       },
       "critical": {
         "type": "color",
-        "value": "{critical.primary}"
+        "value": "{semantic.critical.primary}"
       },
       "staticPrimaryWhite": {
         "type": "color",
@@ -337,7 +337,7 @@
       },
       "inverted": {
         "type": "color",
-        "value": "{palette.absolute.white}"
+        "value": "{core.palette.absolute.white}"
       }
     }
   }

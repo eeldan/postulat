@@ -2,15 +2,15 @@
   "brand": {
     "primary": {
       "type": "color",
-      "value": "{palette.pink.700}"
+      "value": "{core.palette.pink.700}"
     },
     "secondary": {
       "type": "color",
-      "value": "{palette.pink.800}"
+      "value": "{core.palette.pink.800}"
     },
     "tertiary": {
       "type": "color",
-      "value": "{palette.pink.900}"
+      "value": "{core.palette.pink.900}"
     }
   }
 }
