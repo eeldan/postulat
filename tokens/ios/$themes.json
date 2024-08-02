@@ -5,7 +5,7 @@
     "selectedTokenSets": {
       "light": "enabled",
       "static": "enabled",
-      "core": "source",
+      "core": "enabled",
       "dimensions": "enabled",
       "component": "enabled",
       "typography": "enabled"
@@ -132,7 +132,7 @@
     "selectedTokenSets": {
       "dark": "enabled",
       "static": "enabled",
-      "core": "source",
+      "core": "enabled",
       "dimensions": "enabled",
       "component": "enabled",
       "typography": "enabled"
@@ -251,7 +251,6 @@
     "id": "b9044e7127c42c03f6ced3054e403dd2a3a6e235",
     "name": "Tele2",
     "selectedTokenSets": {
-      "core": "source",
       "tele2": "enabled"
     },
     "$figmaStyleReferences": {},
@@ -268,7 +267,6 @@
     "id": "7ce36e29dfe536b40115230cf3b7dcfa5f532f8c",
     "name": "Altel",
     "selectedTokenSets": {
-      "core": "source",
       "altel": "enabled"
     },
     "$figmaStyleReferences": {},
