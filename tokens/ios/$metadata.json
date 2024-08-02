@@ -5,10 +5,8 @@
     "light",
     "dark",
     "static",
-    "tele2Light",
-    "tele2Dark",
-    "altelLight",
-    "altelDark",
+    "altel",
+    "tele2",
     "component",
     "typography"
   ]

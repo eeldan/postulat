@@ -2,15 +2,15 @@
   "brand": {
     "primary": {
       "type": "color",
-      "value": "{core.palette.pink.600}"
+      "value": "{semantic.brandAltel.primary}"
     },
     "secondary": {
       "type": "color",
-      "value": "{core.palette.pink.700}"
+      "value": "{semantic.brandAltel.secondary}"
     },
     "tertiary": {
       "type": "color",
-      "value": "{core.palette.pink.800}"
+      "value": "{semantic.brandAltel.tertiary}"
     }
   }
 }

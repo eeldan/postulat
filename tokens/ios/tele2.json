@@ -2,15 +2,15 @@
   "brand": {
     "primary": {
       "type": "color",
-      "value": "{core.palette.absolute.black}"
+      "value": "{semantic.brandTele2.primary}"
     },
     "secondary": {
       "type": "color",
-      "value": "{core.palette.neutralAlpha.400}"
+      "value": "{semantic.brandTele2.secondary}"
     },
     "tertiary": {
       "type": "color",
-      "value": "{core.palette.neutralAlpha.300}"
+      "value": "{semantic.brandTele2.tertiary}"
     }
   }
 }

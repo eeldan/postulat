@@ -251,8 +251,8 @@
     "id": "b9044e7127c42c03f6ced3054e403dd2a3a6e235",
     "name": "Tele2",
     "selectedTokenSets": {
-      "tele2Light": "enabled",
-      "core": "source"
+      "core": "source",
+      "tele2": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -268,8 +268,8 @@
     "id": "7ce36e29dfe536b40115230cf3b7dcfa5f532f8c",
     "name": "Altel",
     "selectedTokenSets": {
-      "altelLight": "enabled",
-      "core": "source"
+      "core": "source",
+      "altel": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {

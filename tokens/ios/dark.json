@@ -339,6 +339,34 @@
         "type": "color",
         "value": "{core.palette.absolute.white}"
       }
+    },
+    "brandTele2": {
+      "primary": {
+        "type": "color",
+        "value": "{core.palette.absolute.white}"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "{core.palette.whiteAlpha.300}"
+      },
+      "tertiary": {
+        "type": "color",
+        "value": "{core.palette.whiteAlpha.500}"
+      }
+    },
+    "brandAltel": {
+      "primary": {
+        "type": "color",
+        "value": "{core.palette.pink.700}"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "{core.palette.pink.600}"
+      },
+      "tertiary": {
+        "type": "color",
+        "value": "{core.palette.pink.500}"
+      }
     }
   }
 }
