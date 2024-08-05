@@ -15,19 +15,19 @@
       },
       "textDefault": {
         "type": "color",
-        "value": "{semantic.text.inverted}"
+        "value": "{brand.textOnBrand}"
       },
       "textDisabled": {
         "type": "color",
-        "value": "{semantic.text.inverted}"
+        "value": "{brand.textOnBrand}"
       },
       "iconDefault": {
         "type": "color",
-        "value": "{semantic.icon.inverted}"
+        "value": "{brand.iconOnBrand}"
       },
       "iconDisabled": {
         "type": "color",
-        "value": "{semantic.icon.inverted}"
+        "value": "{brand.iconOnBrand}"
       }
     },
     "buttonSecondary": {

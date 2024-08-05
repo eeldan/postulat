@@ -8,7 +8,7 @@
       "type": "spacing",
       "value": "{core.space.x100}"
     },
-    "x1,5": {
+    "x1_5": {
       "type": "spacing",
       "value": "{core.space.x150}"
     },
@@ -20,7 +20,7 @@
       "type": "spacing",
       "value": "{core.space.x300}"
     },
-    "x3,5": {
+    "x3_5": {
       "type": "spacing",
       "value": "{core.space.x350}"
     },
@@ -40,7 +40,7 @@
       "type": "spacing",
       "value": "{core.space.x700}"
     },
-    "x7,5": {
+    "x7_5": {
       "type": "spacing",
       "value": "{core.space.x750}"
     },
@@ -106,7 +106,7 @@
       "type": "borderRadius",
       "value": "{core.space.x100}"
     },
-    "x1,5": {
+    "x1_5": {
       "type": "borderRadius",
       "value": "{core.space.x150}"
     },
@@ -118,7 +118,7 @@
       "type": "borderRadius",
       "value": "{core.space.x300}"
     },
-    "x3,5": {
+    "x3_5": {
       "type": "borderRadius",
       "value": "{core.space.x350}"
     },
@@ -138,7 +138,7 @@
       "type": "borderRadius",
       "value": "{core.space.x700}"
     },
-    "x7,5": {
+    "x7_5": {
       "type": "borderRadius",
       "value": "{core.space.x750}"
     },
@@ -204,7 +204,7 @@
       "type": "sizing",
       "value": "{core.space.x100}"
     },
-    "x1,5": {
+    "x1_5": {
       "type": "sizing",
       "value": "{core.space.x150}"
     },
@@ -216,7 +216,7 @@
       "type": "sizing",
       "value": "{core.space.x300}"
     },
-    "x3,5": {
+    "x3_5": {
       "type": "sizing",
       "value": "{core.space.x350}"
     },
@@ -236,7 +236,7 @@
       "type": "sizing",
       "value": "{core.space.x700}"
     },
-    "x7,5": {
+    "x7_5": {
       "type": "sizing",
       "value": "{core.space.x750}"
     },

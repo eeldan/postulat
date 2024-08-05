@@ -11,6 +11,14 @@
     "tertiary": {
       "type": "color",
       "value": "{semantic.brandTele2.tertiary}"
+    },
+    "textOnBrand": {
+      "value": "{semantic.text.inverted}",
+      "type": "color"
+    },
+    "iconOnBrand": {
+      "value": "{semantic.text.inverted}",
+      "type": "color"
     }
   }
 }

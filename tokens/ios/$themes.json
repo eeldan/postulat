@@ -73,7 +73,6 @@
       "size.x5": "40ffb46f7fe3d8e8d60c8f9a2c379ebadad483a0",
       "size.x6": "74eeca3ac81c8c3b0eacf036ae845065aa360be8",
       "size.x7": "6c1296eb1f96e9c2f88206d5dacf43131cb1de78",
-      "size.x7,5": "c12ebf9f6e32b7f2b99a2cc3921fa62ab409e740",
       "size.x8": "11bb4d1ef3686bf716b34dcac9dd97f5de9d6899",
       "size.x9": "a8516ff12c9e42c9d7b8a184963d853fa262138e",
       "size.x10": "f308914a33beb99e837cb60ee3ee452e072b8a18",
@@ -708,7 +707,8 @@
       "core.letterSpacing.inter.titleS": "46c3041fe1d6e818f9a497d060822dfbb2f8ffcd",
       "core.letterSpacing.inter.displayL": "d7a6d70a50cc50e50b63b49c109056a5a7aa962c",
       "core.letterSpacing.inter.displayM": "f62d93a036e21970ea8b05613b8d79e8e84083b9",
-      "core.letterSpacing.inter.displayS": "be7a1fd356ab5d1b199ee0ad55d282f4d54d2938"
+      "core.letterSpacing.inter.displayS": "be7a1fd356ab5d1b199ee0ad55d282f4d54d2938",
+      "size.x7_5": "c12ebf9f6e32b7f2b99a2cc3921fa62ab409e740"
     },
     "group": "global"
   },
@@ -988,7 +988,26 @@
       "component": "enabled",
       "typography": "enabled"
     },
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "typography.display.regular.large": "S:c2caf7b7f30078b0c7a30042eba3130bcbc343dc,",
+      "typography.display.regular.medium": "S:4674b5aa5cd74faeb50f2c065fc9658e1403435b,",
+      "typography.display.regular.small": "S:c431b59e58c90c3cf6e8ebcdc85201b06cd4fedf,",
+      "typography.title.regular.large": "S:37655dff64d01cb50c13099d37442b321f42d4bc,",
+      "typography.title.regular.medium": "S:dec613551575c9586f1a55094f9edd310cb6d4f8,",
+      "typography.title.regular.small": "S:aca162f03ab60415af1e829765de5deec603965d,",
+      "typography.body.regular.large": "S:0aa9ea2948a7ec489b433cde611e2cd251bd39b5,",
+      "typography.body.regular.medium": "S:dfdc832b24d821f7b86699fd4bf6dc00f39ab55b,",
+      "typography.body.regular.small": "S:b2c16dd58cde441d5500e32690c94cb1e1abb31d,",
+      "typography.body.regular.xsmall": "S:47d7846462ab1ec77ec088ce44d7ef97be07d532,",
+      "typography.body.accent.large": "S:6478f101b667fc57e4bda067c76688db139082a5,",
+      "typography.body.accent.medium": "S:de20f7de7b4c8c78c084c769808018bc7ca88126,",
+      "typography.body.accent.small": "S:1c38460aca6eb6690a9f75d794cf0ea7a1087e3a,",
+      "typography.body.accent.xsmall": "S:d78c431cf80190955750422d0b548dd1b0430348,",
+      "typography.body.mono.large": "S:e264b919499ef2c5413819ed36a26ed93f835002,",
+      "typography.body.mono.medium": "S:e24c895274ef1284b6294ded827cb68f9177147e,",
+      "typography.body.mono.small": "S:dee6b6727da7a53c3a364e618d06a77d562fe70c,",
+      "typography.body.mono.xsmall": "S:e1531f2c876c2922a5376303e1dbd9733aca791b,"
+    },
     "$figmaVariableReferences": {
       "component.buttonPrimary.bodyDefault": "07dd24cb1f9f6a7f019368712d3d612d5727aabe",
       "component.buttonPrimary.bodyPressed": "b2145b5b073ab038f0815ca1e6fcda931f3bcd82",
@@ -1228,7 +1247,9 @@
     "$figmaVariableReferences": {
       "brand.primary": "eab7e6dfc232625390d7f87480d4019d79131962",
       "brand.secondary": "c457a4aba64f03523ba6c21c475f58943d05e068",
-      "brand.tertiary": "394b7f4eba8b4c7670f1556213ffb06d4da09c21"
+      "brand.tertiary": "394b7f4eba8b4c7670f1556213ffb06d4da09c21",
+      "brand.textOnBrand": "1a703fbd164d8d449da4df183cb2f4c79ef409bb",
+      "brand.iconOnBrand": "fc7392099193fb325575ac6c6fa64f4c9d9acae9"
     },
     "$figmaCollectionId": "VariableCollectionId:58:2386",
     "$figmaModeId": "58:8",
@@ -1244,7 +1265,9 @@
     "$figmaVariableReferences": {
       "brand.primary": "eab7e6dfc232625390d7f87480d4019d79131962",
       "brand.secondary": "c457a4aba64f03523ba6c21c475f58943d05e068",
-      "brand.tertiary": "394b7f4eba8b4c7670f1556213ffb06d4da09c21"
+      "brand.tertiary": "394b7f4eba8b4c7670f1556213ffb06d4da09c21",
+      "brand.textOnBrand": "1a703fbd164d8d449da4df183cb2f4c79ef409bb",
+      "brand.iconOnBrand": "fc7392099193fb325575ac6c6fa64f4c9d9acae9"
     },
     "$figmaCollectionId": "VariableCollectionId:58:2386",
     "$figmaModeId": "58:9",
