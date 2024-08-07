@@ -10,7 +10,19 @@
     },
     "selectedTokenSets": {
       "core": "enabled",
-      "dimensions": "enabled"
+      "dimensions": "enabled",
+      "Teleport/Altel/altelColors": "disabled",
+      "Teleport/Altel/altelMap": "disabled",
+      "Teleport/Altel/altelOther": "disabled",
+      "Teleport/Altel/altelTypo": "disabled",
+      "Teleport/Roboto/fontProperties": "disabled",
+      "Teleport/Roboto/typo": "disabled",
+      "Teleport/SF/fontProperties": "disabled",
+      "Teleport/SF/typo": "disabled",
+      "Teleport/Tele2/tele2Colors": "disabled",
+      "Teleport/Tele2/tele2Map": "disabled",
+      "Teleport/Tele2/tele2Other": "disabled",
+      "Teleport/Tele2/tele2Typo": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:58:2384",
     "$figmaModeId": "58:5",
@@ -719,7 +731,19 @@
       "light": "enabled",
       "static": "enabled",
       "component": "enabled",
-      "typography": "enabled"
+      "typography": "enabled",
+      "Teleport/Altel/altelColors": "disabled",
+      "Teleport/Altel/altelMap": "disabled",
+      "Teleport/Altel/altelOther": "disabled",
+      "Teleport/Altel/altelTypo": "disabled",
+      "Teleport/Roboto/fontProperties": "disabled",
+      "Teleport/Roboto/typo": "disabled",
+      "Teleport/SF/fontProperties": "disabled",
+      "Teleport/SF/typo": "disabled",
+      "Teleport/Tele2/tele2Colors": "disabled",
+      "Teleport/Tele2/tele2Map": "disabled",
+      "Teleport/Tele2/tele2Other": "disabled",
+      "Teleport/Tele2/tele2Typo": "disabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -986,7 +1010,19 @@
       "dark": "enabled",
       "static": "enabled",
       "component": "enabled",
-      "typography": "enabled"
+      "typography": "enabled",
+      "Teleport/Altel/altelColors": "disabled",
+      "Teleport/Altel/altelMap": "disabled",
+      "Teleport/Altel/altelOther": "disabled",
+      "Teleport/Altel/altelTypo": "disabled",
+      "Teleport/Roboto/fontProperties": "disabled",
+      "Teleport/Roboto/typo": "disabled",
+      "Teleport/SF/fontProperties": "disabled",
+      "Teleport/SF/typo": "disabled",
+      "Teleport/Tele2/tele2Colors": "disabled",
+      "Teleport/Tele2/tele2Map": "disabled",
+      "Teleport/Tele2/tele2Other": "disabled",
+      "Teleport/Tele2/tele2Typo": "disabled"
     },
     "$figmaStyleReferences": {
       "typography.display.regular.large": "S:c2caf7b7f30078b0c7a30042eba3130bcbc343dc,",
@@ -1241,7 +1277,19 @@
     "id": "b9044e7127c42c03f6ced3054e403dd2a3a6e235",
     "name": "Tele2",
     "selectedTokenSets": {
-      "tele2": "enabled"
+      "tele2": "enabled",
+      "Teleport/Altel/altelColors": "disabled",
+      "Teleport/Altel/altelMap": "disabled",
+      "Teleport/Altel/altelOther": "disabled",
+      "Teleport/Altel/altelTypo": "disabled",
+      "Teleport/Roboto/fontProperties": "disabled",
+      "Teleport/Roboto/typo": "disabled",
+      "Teleport/SF/fontProperties": "disabled",
+      "Teleport/SF/typo": "disabled",
+      "Teleport/Tele2/tele2Colors": "disabled",
+      "Teleport/Tele2/tele2Map": "disabled",
+      "Teleport/Tele2/tele2Other": "disabled",
+      "Teleport/Tele2/tele2Typo": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -1259,7 +1307,19 @@
     "id": "7ce36e29dfe536b40115230cf3b7dcfa5f532f8c",
     "name": "Altel",
     "selectedTokenSets": {
-      "altel": "enabled"
+      "altel": "enabled",
+      "Teleport/Altel/altelColors": "disabled",
+      "Teleport/Altel/altelMap": "disabled",
+      "Teleport/Altel/altelOther": "disabled",
+      "Teleport/Altel/altelTypo": "disabled",
+      "Teleport/Roboto/fontProperties": "disabled",
+      "Teleport/Roboto/typo": "disabled",
+      "Teleport/SF/fontProperties": "disabled",
+      "Teleport/SF/typo": "disabled",
+      "Teleport/Tele2/tele2Colors": "disabled",
+      "Teleport/Tele2/tele2Map": "disabled",
+      "Teleport/Tele2/tele2Other": "disabled",
+      "Teleport/Tele2/tele2Typo": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {

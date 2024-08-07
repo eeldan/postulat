@@ -8,6 +8,18 @@
     "altel",
     "tele2",
     "component",
-    "typography"
+    "typography",
+    "Teleport/Altel/altelColors",
+    "Teleport/Altel/altelMap",
+    "Teleport/Altel/altelOther",
+    "Teleport/Altel/altelTypo",
+    "Teleport/Roboto/fontProperties",
+    "Teleport/Roboto/typo",
+    "Teleport/SF/fontProperties",
+    "Teleport/SF/typo",
+    "Teleport/Tele2/tele2Colors",
+    "Teleport/Tele2/tele2Map",
+    "Teleport/Tele2/tele2Other",
+    "Teleport/Tele2/tele2Typo"
   ]
 }

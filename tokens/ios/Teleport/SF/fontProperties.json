@@ -1,0 +1,46 @@
+{
+  "fontSizeXSmall": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "fontSizeSmall": {
+    "value": "15",
+    "type": "fontSizes"
+  },
+  "fontSizeMedium": {
+    "value": "17",
+    "type": "fontSizes"
+  },
+  "fontSizeH1": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "fontWidthRegular": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "fontWidthSemiBold": {
+    "value": "600",
+    "type": "fontWeights"
+  },
+  "lineHeightXSmall": {
+    "value": "16",
+    "type": "lineHeights"
+  },
+  "lineHeightSmall": {
+    "value": "20",
+    "type": "lineHeights"
+  },
+  "lineHeightMedium": {
+    "value": "22",
+    "type": "lineHeights"
+  },
+  "lineHeightH1": {
+    "value": "25",
+    "type": "lineHeights"
+  },
+  "SF Pro Text": {
+    "value": "SF Pro Text",
+    "type": "fontFamilies"
+  }
+}
