@@ -374,14 +374,22 @@
         "value": "{semantic.baseStrong.transparent1}"
       }
     },
-    "tab": {
+    "tabGroup": {
       "textDefault": {
         "type": "color",
-        "value": "{semantic.baseGlass.transparent5}"
+        "value": "{semantic.baseStrong.transparent5}"
       },
       "textActive": {
         "type": "color",
         "value": "{semantic.text.primary}"
+      },
+      "dividerDefault": {
+        "type": "color",
+        "value": "{semantic.baseStrong.transparent5}"
+      },
+      "dividerActive": {
+        "type": "color",
+        "value": "{semantic.baseStrong.primary}"
       }
     },
     "sectionHeader": {
@@ -390,32 +398,34 @@
         "value": "{semantic.text.primary}"
       }
     },
-    "switchOn": {
-      "bodyDefault": {
-        "type": "color",
-        "value": "{semantic.baseStrong.transparent2}"
+    "switch": {
+      "selected": {
+        "bodyDefault": {
+          "type": "color",
+          "value": "{semantic.accent.primary}"
+        },
+        "bodyDisabled": {
+          "type": "color",
+          "value": "{semantic.accentPale.primary}"
+        },
+        "knob": {
+          "type": "color",
+          "value": "{semantic.neutral.primary}"
+        }
       },
-      "bodySelected": {
-        "type": "color",
-        "value": "{semantic.baseGlass.primary}"
-      },
-      "knob": {
-        "type": "color",
-        "value": "{semantic.baseGlass.primary}"
-      }
-    },
-    "switchOff": {
-      "bodyDefault": {
-        "type": "color",
-        "value": "{semantic.baseStrong.transparent1}"
-      },
-      "bodySelected": {
-        "type": "color",
-        "value": "{semantic.baseGlass.transparent4}"
-      },
-      "knob": {
-        "type": "color",
-        "value": "{semantic.baseGlass.transparent10}"
+      "unselected": {
+        "bodyDefault": {
+          "type": "color",
+          "value": "{semantic.baseStrong.transparent4}"
+        },
+        "bodyDisabled": {
+          "type": "color",
+          "value": "{semantic.baseStrong.transparent2}"
+        },
+        "knob": {
+          "type": "color",
+          "value": "{semantic.baseGlass.transparent10}"
+        }
       }
     },
     "cell": {
