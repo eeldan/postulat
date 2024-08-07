@@ -1,0 +1,35 @@
+{
+  "Tele2 Slab": {
+    "value": "Tele2 Slab",
+    "type": "fontFamilies"
+  },
+  "Brand": {
+    "H1": {
+      "value": {
+        "fontFamily": "{Tele2 Slab}",
+        "fontWeight": "{fontWidthBold}",
+        "lineHeight": "{lineHeightBrandH1}",
+        "fontSize": "{fontSizeBrandH1}"
+      },
+      "type": "typography"
+    },
+    "H2": {
+      "value": {
+        "fontFamily": "{Tele2 Slab}",
+        "fontWeight": "{fontWidthBold}",
+        "lineHeight": "{lineHeightBrandH2}",
+        "fontSize": "{fontSizeBrandH2}"
+      },
+      "type": "typography"
+    },
+    "H3": {
+      "value": {
+        "fontFamily": "{Tele2 Slab}",
+        "fontWeight": "{fontWidthBold}",
+        "lineHeight": "{lineHeightBrandH3}",
+        "fontSize": "{fontSizeBrandH3}"
+      },
+      "type": "typography"
+    }
+  }
+}
