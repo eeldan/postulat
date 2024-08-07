@@ -39,11 +39,11 @@
       },
       "transparent2": {
         "type": "color",
-        "value": "{core.palette.grayAlpha.200}"
+        "value": "{core.palette.grayAlpha.100}"
       },
       "transparent3": {
         "type": "color",
-        "value": "{core.palette.grayAlpha.100}"
+        "value": "{core.palette.grayAlpha.200}"
       },
       "transparent4": {
         "type": "color",
