@@ -1,0 +1,82 @@
+{
+  "XSmall": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightXSmall}",
+        "fontSize": "{fontSizeXSmall}"
+      },
+      "type": "typography"
+    },
+    "SemiBold": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthSemiBold}",
+        "lineHeight": "{lineHeightXSmall}",
+        "fontSize": "{fontSizeXSmall}"
+      },
+      "type": "typography"
+    }
+  },
+  "Small": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightSmall}",
+        "fontSize": "{fontSizeSmall}"
+      },
+      "type": "typography"
+    },
+    "SemiBold": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthSemiBold}",
+        "lineHeight": "{lineHeightSmall}",
+        "fontSize": "{fontSizeSmall}"
+      },
+      "type": "typography"
+    }
+  },
+  "Medium": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightMedium}",
+        "fontSize": "{fontSizeMedium}"
+      },
+      "type": "typography"
+    },
+    "SemiBold": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthSemiBold}",
+        "lineHeight": "{lineHeightMedium}",
+        "fontSize": "{fontSizeMedium}"
+      },
+      "type": "typography"
+    }
+  },
+  "Heading1": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightBrandH3}",
+        "fontSize": "{fontSizeBrandH3}"
+      },
+      "type": "typography"
+    },
+    "SemiBold": {
+      "value": {
+        "fontFamily": "{SF Pro Text}",
+        "fontWeight": "{fontWidthSemiBold}",
+        "lineHeight": "{lineHeightBrandH3}",
+        "fontSize": "{fontSizeBrandH3}"
+      },
+      "type": "typography"
+    }
+  }
+}

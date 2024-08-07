@@ -1,0 +1,54 @@
+{
+  "fontSizeXSmall": {
+    "value": "12",
+    "type": "fontSizes"
+  },
+  "fontSizeSmall": {
+    "value": "14",
+    "type": "fontSizes"
+  },
+  "fontSizeMedium": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "fontSizeH1": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "fontWidthRegular": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "fontWidthMeduim": {
+    "value": "500",
+    "type": "fontWeights"
+  },
+  "lineHeightXSmall": {
+    "value": "16",
+    "type": "lineHeights"
+  },
+  "lineHeightSmall": {
+    "value": "20",
+    "type": "lineHeights"
+  },
+  "lineHeightMedium": {
+    "value": "24",
+    "type": "lineHeights"
+  },
+  "lineHeightH1": {
+    "value": "24",
+    "type": "lineHeights"
+  },
+  "Android": {
+    "value": "Roboto",
+    "type": "fontFamilies"
+  },
+  "Uppercase": {
+    "value": "Uppercase",
+    "type": "textCase"
+  },
+  "Button": {
+    "value": "1.25 px",
+    "type": "letterSpacing"
+  }
+}

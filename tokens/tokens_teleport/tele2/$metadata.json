@@ -1,0 +1,52 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "Tele2/tele2Colors",
+      "type": "other"
+    },
+    "1": {
+      "value": "Tele2/tele2Map",
+      "type": "other"
+    },
+    "2": {
+      "value": "Tele2/tele2Typo",
+      "type": "other"
+    },
+    "3": {
+      "value": "Tele2/tele2Other",
+      "type": "other"
+    },
+    "4": {
+      "value": "Altel/altelColors",
+      "type": "other"
+    },
+    "5": {
+      "value": "Altel/altelMap",
+      "type": "other"
+    },
+    "6": {
+      "value": "Altel/altelTypo",
+      "type": "other"
+    },
+    "7": {
+      "value": "Altel/altelOther",
+      "type": "other"
+    },
+    "8": {
+      "value": "SF/typo",
+      "type": "other"
+    },
+    "9": {
+      "value": "SF/fontProperties",
+      "type": "other"
+    },
+    "10": {
+      "value": "Roboto/typo",
+      "type": "other"
+    },
+    "11": {
+      "value": "Roboto/fontProperties",
+      "type": "other"
+    }
+  }
+}

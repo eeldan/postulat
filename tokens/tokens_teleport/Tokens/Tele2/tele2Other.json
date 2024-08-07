@@ -1,0 +1,160 @@
+{
+  "borderRadiusXS": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "borderRadiusS": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "borderRadiusM": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "borderRadiusButton": {
+    "value": "32",
+    "type": "borderRadius"
+  },
+  "sizeXS": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "sizeS": {
+    "value": "20",
+    "type": "sizing"
+  },
+  "sizeM": {
+    "value": "24",
+    "type": "sizing"
+  },
+  "sizeL": {
+    "value": "32",
+    "type": "sizing"
+  },
+  "sizeXL": {
+    "value": "48",
+    "type": "sizing"
+  },
+  "size2XL": {
+    "value": "72",
+    "type": "sizing"
+  },
+  "paddingXS": {
+    "value": "4",
+    "type": "spacing"
+  },
+  "paddingS": {
+    "value": "8",
+    "type": "spacing"
+  },
+  "paddingM": {
+    "value": "12",
+    "type": "spacing"
+  },
+  "paddingL": {
+    "value": "16",
+    "type": "spacing"
+  },
+  "paddingXL": {
+    "value": "20",
+    "type": "spacing"
+  },
+  "padding2XL": {
+    "value": "24",
+    "type": "spacing"
+  },
+  "margin2XS": {
+    "value": "2",
+    "type": "spacing"
+  },
+  "marginXS": {
+    "value": "4",
+    "type": "spacing"
+  },
+  "marginS": {
+    "value": "8",
+    "type": "spacing"
+  },
+  "marginM": {
+    "value": "12",
+    "type": "spacing"
+  },
+  "marginL": {
+    "value": "16",
+    "type": "spacing"
+  },
+  "marginXL": {
+    "value": "20",
+    "type": "spacing"
+  },
+  "margin2XL": {
+    "value": "24",
+    "type": "spacing"
+  },
+  "margin3XL": {
+    "value": "32",
+    "type": "spacing"
+  },
+  "borderWidthXS": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "borderWidthS": {
+    "value": "2",
+    "type": "borderWidth"
+  },
+  "borderWidthM": {
+    "value": "4",
+    "type": "borderWidth"
+  },
+  "Normal": {
+    "value": {
+      "x": "0",
+      "y": "4",
+      "blur": "16",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.12)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "Drag&Drop": {
+    "value": {
+      "x": "0",
+      "y": "12",
+      "blur": "24",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.12)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "fontSizeBrandH1": {
+    "value": "34",
+    "type": "fontSizes"
+  },
+  "fontSizeBrandH2": {
+    "value": "24",
+    "type": "fontSizes"
+  },
+  "fontSizeBrandH3": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "lineHeightBrandH1": {
+    "value": "41",
+    "type": "lineHeights"
+  },
+  "lineHeightBrandH2": {
+    "value": "32",
+    "type": "lineHeights"
+  },
+  "lineHeightBrandH3": {
+    "value": "28",
+    "type": "lineHeights"
+  },
+  "fontWidthBold": {
+    "value": "700",
+    "type": "fontWeights"
+  }
+}

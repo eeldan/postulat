@@ -1,0 +1,104 @@
+{
+  "XSmall": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightXSmall}",
+        "fontSize": "{fontSizeXSmall}"
+      },
+      "type": "typography"
+    },
+    "Medium": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthMeduim}",
+        "lineHeight": "{lineHeightXSmall}",
+        "fontSize": "{fontSizeXSmall}"
+      },
+      "type": "typography"
+    }
+  },
+  "Small": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightSmall}",
+        "fontSize": "{fontSizeSmall}"
+      },
+      "type": "typography"
+    },
+    "Medium": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthMeduim}",
+        "lineHeight": "{lineHeightSmall}",
+        "fontSize": "{fontSizeSmall}"
+      },
+      "type": "typography"
+    },
+    "MediumUppercase": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthMeduim}",
+        "lineHeight": "{lineHeightSmall}",
+        "fontSize": "{fontSizeSmall}",
+        "textCase": "{Uppercase}",
+        "letterSpacing": "{Button}"
+      },
+      "type": "typography"
+    }
+  },
+  "Medium": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightMedium}",
+        "fontSize": "{fontSizeMedium}"
+      },
+      "type": "typography"
+    },
+    "Medium": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthMeduim}",
+        "lineHeight": "{lineHeightMedium}",
+        "fontSize": "{fontSizeMedium}"
+      },
+      "type": "typography"
+    },
+    "MediumUppercase": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthMeduim}",
+        "lineHeight": "{lineHeightMedium}",
+        "fontSize": "{fontSizeMedium}",
+        "textCase": "{Uppercase}",
+        "letterSpacing": "{Button}"
+      },
+      "type": "typography"
+    }
+  },
+  "Heading1": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthRegular}",
+        "lineHeight": "{lineHeightH1}",
+        "fontSize": "{fontSizeH1}"
+      },
+      "type": "typography"
+    },
+    "Medium": {
+      "value": {
+        "fontFamily": "{Android}",
+        "fontWeight": "{fontWidthMeduim}",
+        "lineHeight": "{lineHeightH1}",
+        "fontSize": "{fontSizeH1}"
+      },
+      "type": "typography"
+    }
+  }
+}

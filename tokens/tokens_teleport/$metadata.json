@@ -1,0 +1,30 @@
+{
+  "tokenSetOrder": [
+    "tele2/$metadata",
+    "tele2/Altel/altelColors",
+    "tele2/Altel/altelMap",
+    "tele2/Altel/altelOther",
+    "tele2/Altel/altelTypo",
+    "tele2/Roboto/fontProperties",
+    "tele2/Roboto/typo",
+    "tele2/SF/fontProperties",
+    "tele2/SF/typo",
+    "tele2/Tele2/tele2Colors",
+    "tele2/Tele2/tele2Map",
+    "tele2/Tele2/tele2Other",
+    "tele2/Tele2/tele2Typo",
+    "Tokens/$metadata",
+    "Tokens/Altel/altelColors",
+    "Tokens/Altel/altelMap",
+    "Tokens/Altel/altelOther",
+    "Tokens/Altel/altelTypo",
+    "Tokens/Roboto/fontProperties",
+    "Tokens/Roboto/typo",
+    "Tokens/SF/fontProperties",
+    "Tokens/SF/typo",
+    "Tokens/Tele2/tele2Colors",
+    "Tokens/Tele2/tele2Map",
+    "Tokens/Tele2/tele2Other",
+    "Tokens/Tele2/tele2Typo"
+  ]
+}
