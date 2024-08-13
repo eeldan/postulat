@@ -39,11 +39,11 @@
       },
       "transparent2": {
         "type": "color",
-        "value": "{core.palette.grayAlpha.200}"
+        "value": "{core.palette.grayAlpha.100}"
       },
       "transparent3": {
         "type": "color",
-        "value": "{core.palette.grayAlpha.100}"
+        "value": "{core.palette.grayAlpha.200}"
       },
       "transparent4": {
         "type": "color",
@@ -338,6 +338,34 @@
       "inverted": {
         "type": "color",
         "value": "{core.palette.absolute.white}"
+      }
+    },
+    "brandTele2": {
+      "primary": {
+        "type": "color",
+        "value": "{core.palette.absolute.black}"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "{core.palette.neutralAlpha.400}"
+      },
+      "tertiary": {
+        "type": "color",
+        "value": "{core.palette.neutralAlpha.300}"
+      }
+    },
+    "brandAltel": {
+      "primary": {
+        "type": "color",
+        "value": "{core.palette.pink.600}"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "{core.palette.pink.500}"
+      },
+      "tertiary": {
+        "type": "color",
+        "value": "{core.palette.pink.400}"
       }
     }
   }

@@ -1,0 +1,24 @@
+{
+  "brand": {
+    "primary": {
+      "type": "color",
+      "value": "{semantic.brandAltel.primary}"
+    },
+    "secondary": {
+      "type": "color",
+      "value": "{semantic.brandAltel.secondary}"
+    },
+    "tertiary": {
+      "type": "color",
+      "value": "{semantic.brandAltel.tertiary}"
+    },
+    "textOnBrand": {
+      "value": "{core.palette.absolute.white}",
+      "type": "color"
+    },
+    "iconOnBrand": {
+      "value": "{core.palette.absolute.white}",
+      "type": "color"
+    }
+  }
+}

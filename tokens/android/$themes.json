@@ -2,7 +2,6 @@
   {
     "id": "e9723a685ff00152cef0b5ed758e38268a82e6e5",
     "name": "value",
-    "group": "Core",
     "selectedTokenSets": {
       "core": "enabled",
       "dimensions": "enabled"
@@ -86,15 +85,17 @@
       "colors.yellow.900": "8b049c2749d7495b4a41f6a9f07525149e5d99be"
     },
     "$figmaCollectionId": "VariableCollectionId:3:2",
-    "$figmaModeId": "3:0"
+    "$figmaModeId": "3:0",
+    "group": "Core"
   },
   {
     "id": "6be618dc1cae3215f1793c74e72f3095e4de3527",
     "name": "Light",
-    "group": "Theme",
     "selectedTokenSets": {
       "light": "enabled",
-      "static": "enabled"
+      "static": "enabled",
+      "component": "enabled",
+      "typography": "enabled"
     },
     "$figmaStyleReferences": {
       "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
@@ -121,15 +122,17 @@
       "contrast.border.muted": "352bd5c49960f92d0db8c8070b3c658050ecf225"
     },
     "$figmaCollectionId": "VariableCollectionId:3:3",
-    "$figmaModeId": "3:1"
+    "$figmaModeId": "3:1",
+    "group": "Theme"
   },
   {
     "id": "28983d638284cad3d6ad7965ac4046e1f48f6588",
     "name": "Dark",
-    "group": "Theme",
     "selectedTokenSets": {
       "dark": "enabled",
-      "static": "enabled"
+      "static": "enabled",
+      "component": "enabled",
+      "typography": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -150,14 +153,14 @@
       "contrast.border.muted": "352bd5c49960f92d0db8c8070b3c658050ecf225"
     },
     "$figmaCollectionId": "VariableCollectionId:3:3",
-    "$figmaModeId": "3:2"
+    "$figmaModeId": "3:2",
+    "group": "Theme"
   },
   {
     "id": "b9044e7127c42c03f6ced3054e403dd2a3a6e235",
     "name": "Tele2",
-    "group": "Brands",
     "selectedTokenSets": {
-      "tele2Light": "enabled"
+      "tele2": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -173,14 +176,14 @@
       "colors.accent.900": "16ac0d6995a75f5c52521874788d4fd046af1b63"
     },
     "$figmaCollectionId": "VariableCollectionId:3:4",
-    "$figmaModeId": "3:3"
+    "$figmaModeId": "3:3",
+    "group": "Brands"
   },
   {
     "id": "7ce36e29dfe536b40115230cf3b7dcfa5f532f8c",
     "name": "Altel",
-    "group": "Brands",
     "selectedTokenSets": {
-      "altelLight": "enabled"
+      "altel": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -196,55 +199,7 @@
       "colors.accent.900": "16ac0d6995a75f5c52521874788d4fd046af1b63"
     },
     "$figmaCollectionId": "VariableCollectionId:3:4",
-    "$figmaModeId": "3:4"
-  },
-  {
-    "id": "34ea195b421508d6aa2f38ed039fb6e2d6dd1f95",
-    "name": "iOS",
-    "group": "Platforms",
-    "selectedTokenSets": {
-      "core": "source",
-      "dimensions": "source"
-    },
-    "$figmaStyleReferences": {
-      "tele2.ios.Body": "S:2f08a96b9ed119b510b67f5733fe299a8cf5b36c,",
-      "tele2.ios.display.Bold": "S:29fdb223f9991e644584a45686a42475d68356ba,",
-      "tele2.ios.display.Regular": "S:d81e2c83ce7d44936ee6313082bb28f911ab0fb8,",
-      "tele2.ios.title.Bold": "S:890e9f802eac8bd1bfdf89e77dd7d7222c90e9d4,",
-      "tele2.ios.title.Regular": "S:dbf9dc92a8aa57cf36889b09393aa2e0866950f2,"
-    },
-    "$figmaVariableReferences": {
-      "button.primary.background": "0e66ea87880ef4c76b8aaae15990f12c459c4ac7",
-      "button.primary.text": "9001c912d012bbec8ed40a514fd5e50020f90ac1",
-      "button.borderRadius": "c6bc0a8aefadfba1b9322f21c7c0c00db3d3c473",
-      "button.borderWidth": "f909ded22b5809743b0389176f8989698e7ecfaa",
-      "card.borderRadius": "06fe6a31b6d8cf3b6b38f9d9d0941e111937c561",
-      "card.background": "3beaac9bffc8a2d85567fc438d9a4adbf70ef888",
-      "card.padding": "9eef47beeba0fcff2b7982c2653cd573f219f6cf"
-    },
-    "$figmaCollectionId": "VariableCollectionId:3:5",
-    "$figmaModeId": "3:5"
-  },
-  {
-    "id": "a0a0096fd248a954112fcfce357fb38a6bc7fa30",
-    "name": "Android",
-    "group": "Platforms",
-    "selectedTokenSets": {
-      "core": "source",
-      "dimensions": "source",
-      "component": "enabled"
-    },
-    "$figmaStyleReferences": {},
-    "$figmaVariableReferences": {
-      "button.primary.background": "0e66ea87880ef4c76b8aaae15990f12c459c4ac7",
-      "button.primary.text": "9001c912d012bbec8ed40a514fd5e50020f90ac1",
-      "button.borderRadius": "c6bc0a8aefadfba1b9322f21c7c0c00db3d3c473",
-      "button.borderWidth": "f909ded22b5809743b0389176f8989698e7ecfaa",
-      "card.borderRadius": "06fe6a31b6d8cf3b6b38f9d9d0941e111937c561",
-      "card.background": "3beaac9bffc8a2d85567fc438d9a4adbf70ef888",
-      "card.padding": "9eef47beeba0fcff2b7982c2653cd573f219f6cf"
-    },
-    "$figmaCollectionId": "VariableCollectionId:3:5",
-    "$figmaModeId": "3:6"
+    "$figmaModeId": "3:4",
+    "group": "Brands"
   }
 ]
